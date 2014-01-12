@@ -1,5 +1,4 @@
 <Photo>
-    <!--ensure that this value is unique, value preserved in archive when new versions are made-->
     <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
     <Description>{ "paragraph":true }</Description>
@@ -7,11 +6,11 @@
 
     <Subject>{ "multiple": true }
         <SubjectTag>{ "vocabulary": "PhotoSubjectTag" }</SubjectTag>
-        <Entity>
-            <EntityId>{ "lookup": [ "person", "place", "event" ] }</EntityId>
+        <SubjectEntity>
+            <Entity>{ "instance": [ "Person", "Group", "Location", "Event" ] }</Entity>
             <Relation>{ "vocabulary": "PhotoReferenceToRelation" }</Relation>
-        </Entity>
-        <Note>{ "paragraph":true }</Note>
+        </SubjectEntity>
+        <Note>{ "paragraph": true }</Note>
     </Subject>
 
     <PhysicalObject>
@@ -25,48 +24,48 @@
         </PhysicalDescription>
         <StorageLocationDescription>{ "paragraph":true }</StorageLocationDescription>
         <Copyright>
-            <Holder>{ "instance": ["Person", "Group"] }</Holder>
+            <CopyrightHolder>{ "instance": [ "Person", "Group" ] }</CopyrightHolder>
             <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
-            <Notes>{ "paragraph": true }</Notes>
+            <Note>{ "paragraph": true }</Note>
         </Copyright>
     </PhysicalObject>
 
-    <DigitalObject>{ "lookup": "MediaMetadata", "multiple": true }
-        <File>{ "media": "MediaMetadata }</File>
-        <CreationDate>{ "":"" }</CreationDate>
-        <Notes>{ "paragraph":true }</Notes>
+    <DigitalObject>{ "multiple": true }
+        <File>{ "instance": "MediaMetadata }</File>
+        <CreationDate>{ "validator": "date" }</CreationDate>
         <TechnicalDescription>
-            <PixelsX>{ "validator": "whole" }</PixelsX>
-            <PixelsY>{ "validator": "whole" }</PixelsY>
-            <ResolutionPPI>{ "validator": "whole" }</ResolutionPPI>
-            <ColorDepthBits>{ "validator": "whole" }</ColorDepthBits>
+            <PixelsX>{ "validator": "number" }</PixelsX>
+            <PixelsY>{ "validator": "number" }</PixelsY>
+            <ResolutionPPI>{ "validator": "number" }</ResolutionPPI>
+            <ColorDepthBits>{ "validator": "number" }</ColorDepthBits>
             <ColorModel>{ "??": "??" }</ColorModel>
             <ExifData>{ "paragraph": true }</ExifData>
         </TechnicalDescription>
+        <Note>{ "paragraph":true }</Note>
     </DigitalObject>
 
     <CreationEvent>
         <!--ask: what if the creation date is not known but is a date range?-->
         <CreationDate>{ "validator": "date" }</CreationDate>
-        <Creator>{ "multiple : true" }
-            <Type>{ "vocabulary": "CreationRole" }</Type>
-            <Actor>{ "instance": [ "person", "organization" ] }</Actor>
-        </Creator>
-        <CreationPlace>{ "instance": "place" }</CreationPlace>
+        <CreatorInRole>{ "multiple : true" }
+            <Role>{ "vocabulary": "PhotoCreationRole" }</Role>
+            <Creator>{ "instance": [ "Person", "Group" ] }</Creator>
+        </CreatorInRole>
+        <CreationPlace>{ "instance": "Location" }</CreationPlace>
     </CreationEvent>
 
     <AcquisitionEvent>
-        <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
-        <AcquisitionSource>{ "instance": [ "person", "organization" ] }</AcquisitionSource>
-        <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
+        <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
+        <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
+        <AcquisitionDate>{ "validator": "date" }</AcquisitionDate>
     </AcquisitionEvent>
 
     <PublicationEvent>
         <PublicationDate>{ "validator": "date" }</PublicationDate>
-        <Publisher>{ "instance": [ "person", "organization" ] }</Publisher>
-        <PublicationPlace>{ "instance": "place" }</PublicationPlace>
+        <Publisher>{ "instance": [ "Person", "Group" ] }</Publisher>
+        <PublicationPlace>{ "instance": "Location" }</PublicationPlace>
     </PublicationEvent>
 
-    <ExhibitionEvent>{ "multiple": true }</ExhibitionEvent>
+    <ExhibitionEventNote>{ "multiple": true }</ExhibitionEventNote>
 
 </Photo>
