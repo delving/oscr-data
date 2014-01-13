@@ -1,2 +1,64 @@
 <Map>
+
+    <InventoryNumber>{ "required": true, "unique": true, "fixed": true }</InventoryNumber>
+    <StorageLocation/>
+    <ManagingInstitution>{ "instance": "Group" }</ManagingInstitution>
+    <CollectioName>{ "required":true, "vocabulary":"MapCollection" }</CollectioName>
+
+    <Title>{ "required": true, "summaryField": "Title" }</Title>
+    <ParallelTitle>{ "multiple":true }</ParallelTitle>
+
+    <!--todo: is this more than just places depicted?-->
+    <SubjectTag>{ "vocabulary": "MapSubjectTag", "multiple": true }</SubjectTag>
+
+    <!--todo: perhaps this should be "collection" or at least a vocabulary-->
+    <Series>
+        <SeriesTitle/>
+        <NumberWithinSeries/>
+    </Series>
+
+    <Description>{ "paragraph":true }</Description>
+
+    <LocationDepicted>{ "instance": "Location", "multiple":true }</LocationDepicted>
+    <Note>{ "paragraph": true }</Note>
+
+    <!--todo: the spreadsheet suggests that this is a link to an image, but the name doesn't-->
+    <ScanNumber/>
+
+    <PhysicalObject>
+        <Condition>{ "vocabulary": "PhysicalMapCondition" }</Condition>
+        <Edition/>
+        <Scale/>
+        <Orientation/>
+        <Projection/>
+        <Coordinates/>
+        <!--todo: printed or manuscript?-->
+        <Material/>
+        <!--todo: physical or technical?-->
+        <Characteristics/>
+        <!--todo: what units?-->
+        <Size/>
+        <!--todo: unclear-->
+        <Scope/>
+    </PhysicalObject>
+
+    <CreationEvent>
+        <!--ask: what if the creation date is not known but is a date range?-->
+        <CreationDate>{ "validator": "date" }</CreationDate>
+        <CreatorInRole>{ "multiple : true" }
+            <Role>{ "vocabulary": "MapCreationRole" }</Role>
+            <Creator>{ "instance": [ "Person", "Group" ] }</Creator>
+        </CreatorInRole>
+        <CreationPlace>{ "instance": "Location" }</CreationPlace>
+    </CreationEvent>
+
+    <AcquisitionEvent>
+        <!--todo: aankoop, schenking, legaat, bruikleen, ruil, overdracht-->
+        <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
+        <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
+        <AcquisitionDate>{ "validator": "date" }</AcquisitionDate>
+    </AcquisitionEvent>
+
+    <Literature>{ "paragraph":true }</Literature>
+
 </Map>

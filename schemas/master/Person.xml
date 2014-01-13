@@ -31,4 +31,33 @@
     </Residence>
     <Description>{ "paragraph": true }</Description>
     <RelatedToPerson oscr_id="" oscr_type="">{"vocabulary": "PersonRelationType"}</RelatedToPerson>
+
+    <!--todo: the following is from work related to Memoriam-->
+    <FirstName>{ "multiple": true }</FirstName>
+    <LastNamePrefix/>
+    <LastName>{ "required": true }</LastName>
+    <NickName></NickName>
+    <Sex></Sex>        <!--TODO: add sex validator-->
+    <Events>
+        <MarriageEvent>{"multiple": true, "vocabulary": "MarriageEvent"}</MarriageEvent>
+        <Birth>
+            <Date>{ "validator": "date" }</Date>
+            <Place>{ "vocabulary": "Place" }</Place>
+            <Father>{"vocabulary": "Actor"}</Father>
+            <Mother>{"vocabulary": "Actor"}</Mother>
+            <Notes>{ "paragraph":true }</Notes>
+        </Birth>
+        <Death>
+            <Date>{ "validator": "date" }</Date>
+            <Place>{ "vocabulary": "Place" }</Place>
+            <Notes>{ "paragraph":true }</Notes>
+        </Death>
+        <Funeral>
+            <DateOfFuneral>{ "validator": "date" }</DateOfFuneral>
+            <PlaceOfFuneral>{ "vocabulary": "Place" }</PlaceOfFuneral>
+            <Cemetary>{"vocabulary": "Cemetary"}</Cemetary>
+            <Notes>{ "paragraph":true }</Notes>
+        </Funeral>
+    </Events>
+
 </Person>
