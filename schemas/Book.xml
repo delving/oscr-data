@@ -1,84 +1,72 @@
-
-<!--Needs to be done-->
 <Book>
-    <IdentificationNumber oscr_fixed="">{"type": "string"}</IdentificationNumber>
-    <OtherIdentificationNumbers>{ "multiple": true }
-        <Category oscr_id="" oscr_vocabulary=""></Category>
-        <Value/>
-        <DateAssigned>{"validator": "date"}</DateAssigned>
-        <EntityAssigned/>
-    </OtherIdentificationNumbers>
-    <Type sps_id="" sps_vocabulary="">{ "multiple": true, "vocabulary": "BookType" }</Type>
+    <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
+    <!--todo: no book type?-->
     <Title>{ "required": true, "summaryField": "Title" }</Title>
-    <subtitle></subtitle>
-    <ManagementCategory>{ "multiple": true }</ManagementCategory>
-    <Collection></Collection>
-    <OriginatorOfReference>
-        <Entity>
-            <EntityId oscr_id="" oscr_type=""></EntityId>
-            <Relation oscr_id="" oscr_vocabulary=""></Relation>
-        </Entity>
-    </OriginatorOfReference>
-    <IncludedIn>
-        <Entity>
-            <EntityId oscr_id="" oscr_type="">{ "lookup": [ "book" ] }</EntityId>
-            <Relation oscr_id="" oscr_vocabulary="">{ "vocabulary": "IncludedInRelation" }</Relation>
-        </Entity>
-    </IncludedIn>
-    <IsComposedOf>{ "multiple": true }
-        <Entity>
-            <EntityId oscr_id="" oscr_type="">{ "lookup": [ "book" ] }</EntityId>
-            <Relation oscr_id="" oscr_vocabulary="">{ "vocabulary": "IsComposedOfRelation" }</Relation>
-        </Entity>
-    </IsComposedOf>
-    <CompositionType sps_id="" sps_vocabulary="">{ "vocabulary": "BookCompositionType" }</CompositionType>
+    <Subtitle/>
     <Description>{ "paragraph":true }</Description>
-    <Image>
-        <File oscr_browse=""></File>
-        <Comment>{ "paragraph":true }</Comment>
-    </Image>
-    <Condition oscr_id="" oscr_vocabulary="">{ "vocabulary": "BookCondition" }</Condition>
-    <InHouse oscr_id="" oscr_vocabulary="">{ "vocabulary": "BookInhouse" }</InHouse>
-    <Dimension>
-        <PropertyName oscr_id="" oscr_vocabulary="">{ "vocabulary": "MeasProperties" }</PropertyName>
-        <PropertyValue></PropertyValue>
-    </Dimension>
-    <Publication>
-        <Type oscr_id="" oscr_vocabulary="">{ "multiple": true }</Type>
-        <Publisher oscr_id="" oscr_vocabulary="">{ "lookup": [ "person" ] }</Publisher>
-        <Date>{"validator": "date"}</Date>
-        <Place>
-            <GeopoliticalHierarchy oscr_id="" oscr_vocabulary=""></GeopoliticalHierarchy>
-            <Link oscr_id="" oscr_type="">{ "vocabulary": "location" }</Link>
-        </Place>
-        <Technique oscr_id="" oscr_vocabulary="">{ "vocabulary": "location", "multiple": true }</Technique>
-        <EmployedMaterial oscr_id="" oscr_vocabulary="">{ "vocabulary": "BookEmployedMaterial", "multiple": true }</EmployedMaterial>
-    </Publication>
-    <Acquisition>
-        <Type oscr_id="" oscr_vocabulary="">{ "multiple": true, "vocabulary": "AcquisitionTypes"}</Type>
-        <PersonsInvolved>{ "multiple": true }
-            <EntityId oscr_id="" oscr_type="">{ "lookup": [ "person" ] }</EntityId>
-            <Relation oscr_id="" oscr_vocabulary="">{ "vocabulary": "BookPersonsInvolved" }</Relation>
-        </PersonsInvolved>
-        <Date>{"validator": "date"}</Date>
-        <Description>{ "paragraph":true }</Description>
-    </Acquisition>
-    <StorageLocation>
-        <Name/>
-        <Type oscr_id="" oscr_vocabulary="">{"vocabulary": "StorageLocationType"}</Type>
-        <Duration>{"validator": "date"}</Duration>
-        <Description>{ "paragraph":true }</Description>
-    </StorageLocation>
-    <!--<LoanOut></LoanOut>-->
-    <!--<Return></LoanIn>-->
 
+    <!--todo: it seems that tag and entity should be multiple separately, not the subject block-->
+    <!--todo: i made the change below, but not to Photo or Film-->
+    <Subject>
+        <SubjectTag>{ "vocabulary": "PhotoSubjectTag", "multiple": true }</SubjectTag>
+        <SubjectEntity>{ "multiple": true }
+            <Entity>{ "instance": [ "Person", "Group", "Location", "Event" ] }</Entity>
+            <Relation>{ "vocabulary": "PhotoReferenceToRelation" }</Relation>
+        </SubjectEntity>
+        <Note>{ "paragraph": true }</Note>
+    </Subject>
 
+    <PhysicalObject>
+        <PhysicalDescription>
+            <NumberOfPages>{ "validator":"count" }</NumberOfPages>
+            <Condition>{ "vocabulary": "PhysicalBookCondition" }</Condition>
+            <Technique>{ "vocabulary": "PhysicalBookTechnique" }</Technique>
+            <Material>{ "vocabulary": "PhysicalBookMaterial" }</Material>
+            <Note>{ "paragraph": true }</Note>
+        </PhysicalDescription>
+        <StorageLocationDescription>{ "paragraph":true }</StorageLocationDescription>
+        <Copyright>
+            <CopyrightHolder>{ "instance": [ "Person", "Group" ] }</CopyrightHolder>
+            <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
+            <Note>{ "paragraph": true }</Note>
+        </Copyright>
+    </PhysicalObject>
 
+    <!--todo: perhaps a digital object, a PDF or thumbnail?-->
 
+    <CreationEvent>
+        <!--ask: what if the creation date is not known but is a date range?-->
+        <CreationDate>{ "validator": "date" }</CreationDate>
+        <Creator>{ "multiple : true" }
+            <Type>{ "vocabulary": "BookCreationRole" }</Type>
+            <Actor>{ "instance": [ "Person", "Group" ] }</Actor>
+        </Creator>
+        <CreationPlace>{ "instance": "Location" }</CreationPlace>
+    </CreationEvent>
 
+    <PublicationEvent>
+        <PublicationDateStart>{ "validator": "date" }</PublicationDateStart>
+        <PublicationDateEnd>{ "validator": "date" }</PublicationDateEnd>
+        <Publisher>{ "instance": [ "Person", "Group" ] }</Publisher>
+        <Note>{ "paragraph": true }</Note>
+    </PublicationEvent>
 
+    <IncludedIn>
+        <Book>{ "instance": ["Book"] }</Book>
+        <Relation>{ "vocabulary": "BookIncludedInRelation" }</Relation>
+    </IncludedIn>
 
+    <ComposedOf>{ "multiple": true }
+        <Book>{ "instance": ["Book"] }</Book>
+        <Relation>{ "vocabulary": "BookIncludedInRelation" }</Relation>
+    </ComposedOf>
 
+    <AcquisitionEvent>
+        <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
+        <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
+        <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
+    </AcquisitionEvent>
 
+    <ManagementInformation>{ "multiple": true }</ManagementInformation>
 
 </Book>

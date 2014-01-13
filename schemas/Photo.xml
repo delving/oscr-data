@@ -4,6 +4,7 @@
     <Description>{ "paragraph":true }</Description>
     <CollectionName/>
 
+    <!--todo: it seems that tag and entity should be multiple separately, not the subject block-->
     <Subject>{ "multiple": true }
         <SubjectTag>{ "vocabulary": "PhotoSubjectTag" }</SubjectTag>
         <SubjectEntity>
@@ -34,10 +35,10 @@
         <File>{ "instance": "MediaMetadata }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
         <TechnicalDescription>
-            <PixelsX>{ "validator": "number" }</PixelsX>
-            <PixelsY>{ "validator": "number" }</PixelsY>
-            <ResolutionPPI>{ "validator": "number" }</ResolutionPPI>
-            <ColorDepthBits>{ "validator": "number" }</ColorDepthBits>
+            <PixelsX>{ "validator": "count" }</PixelsX>
+            <PixelsY>{ "validator": "count" }</PixelsY>
+            <ResolutionPPI>{ "validator": "count" }</ResolutionPPI>
+            <ColorDepthBits>{ "validator": "count" }</ColorDepthBits>
             <ColorModel>{ "??": "??" }</ColorModel>
             <ExifData>{ "paragraph": true }</ExifData>
         </TechnicalDescription>

@@ -4,6 +4,7 @@
     <Description>{ "paragraph":true }</Description>
     <CollectionName/>
 
+    <!--todo: it seems that tag and entity should be multiple separately, not the subject block-->
     <Subject>{ "multiple": true }
         <SubjectTag>{ "vocabulary": "FilmSubjectTag" }</SubjectTag>
         <SubjectEntity>
