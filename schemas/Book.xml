@@ -1,8 +1,9 @@
 <Book>
     <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
-    <!--todo: no book type?-->
+    <BookType>{ "vocabulary": "BookType" }</BookType>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
     <Subtitle/>
+    <Language>{ "vocabulary": "Language" }</Language>
     <Description>{ "paragraph":true }</Description>
 
     <!--todo: it seems that tag and entity should be multiple separately, not the subject block-->
@@ -17,11 +18,14 @@
     </Subject>
 
     <PhysicalObject>
+        <!--todo: is ISBN associated with the _physical_ object?-->
+        <ISBN/>
         <PhysicalDescription>
             <NumberOfPages>{ "validator":"count" }</NumberOfPages>
             <Condition>{ "vocabulary": "PhysicalBookCondition" }</Condition>
-            <Technique>{ "vocabulary": "PhysicalBookTechnique" }</Technique>
-            <Material>{ "vocabulary": "PhysicalBookMaterial" }</Material>
+            <!--todo: Jolanda says these should probably not be here-->
+            <!--<Technique>{ "vocabulary": "PhysicalBookTechnique" }</Technique>-->
+            <!--<Material>{ "vocabulary": "PhysicalBookMaterial" }</Material>-->
             <Note>{ "paragraph": true }</Note>
         </PhysicalDescription>
         <StorageLocationDescription>{ "paragraph":true }</StorageLocationDescription>
@@ -67,6 +71,14 @@
         <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
     </AcquisitionEvent>
 
-    <ManagementInformation>{ "multiple": true }</ManagementInformation>
+    <ManagementInformation>
+        <!--todo: is this different than the Identification number at the top?-->
+        <IdentificationNumber/>
+        <Collection>{ "vocabulary": "BookCollection" }</Collection>
+        <!--todo: do we want this instead of StorageLocationDescription in PhysicalObject?-->
+        <StorageLocation/>
+        <!--todo: OSCR doesn't yet support upload/display of PDF, so it's not clear yet what this would be-->
+        <!--<DigitalFile/>-->
+    </ManagementInformation>
 
 </Book>
