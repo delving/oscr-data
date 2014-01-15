@@ -29,3 +29,37 @@
     </CodeNumber>
     <!--<admin></admin>  LATER  -->
 </Location>
+
+<!-- todo: adapt the following from Annette
+<Location>
+<LocationName>
+    <LocationNameType>{"required":true, "vocabulary":"LocationNameType"}</LocationNameType>
+    (for example: straat, buurtschap, kerkhof, dorp, stad, rivier; possibly  use of Feature Class and Feature Code Geonames)
+    <LocationNameAppellation>{"required":true, "vocabulary":"LocationName"}</LocationNameAppellation>
+    <LocationNameAttributionDate>{ "validator": "date" }</LocationNameAttributionDate>
+    <LocationNameExpiryDate>{ "validator": "date" }</LocationNameExpiryDate>
+    <LocationNameNote>{“paragraph”:true}</LocationNameNote}
+    <LocationAlternateName>{“multiple”:true}
+        <LocationAlternateNameAppellation>{"vocabulary":"LocationName"}</LocationAlternateNameAppellation>
+        <LocationAlternateNameAttributionDate>{ "validator": "date" }</AlternateNameAttributionDate>
+        <LocationAlternateNameExpiryDate>{ "validator": "date" }</AlternateNameExpiryDate>
+        <LocationAlternateNameNote>{“paragraph”:true}</AlternateNameNote}
+
+    </LocationAlternateName>
+</LocationName>
+<Coordinates>
+    <Longitude>{ "validator": "longitude" }</Longitude>
+    <Latitude>{ "validator": "latitude" }</Latitude>
+</Coordinates>
+<GeopoliticalHierarchy oscr_id="" oscr_vocabulary=""/>
+(The line above is taken from the schema of Gerald: I would say the link to the direct administrational parent is enough, for example: in the record of Den Dungen (which is a village in the municipality of Sint Michielsgestel) we link to the record of Sint Michielsgestel)
+<CodeNumber>{“multiple”:true}
+    (Also from the schema Gerald: I left the lines in this group as they are in the schema of Gerald)
+    <Value/>
+    <Category oscr_id="" oscr_vocabulary="">{ "vocabulary": "term" }</Category>
+    <AttributionDate>{ "validator": "date" }</AttributionDate>
+    <ExpiryDate> { "validator": "date" }</ExpiryDate>
+    <AttributedBy oscr_id="" oscr_vocabulary="">{ "lookup": [ "person" ] }</AttributedBy>
+     </CodeNumber>
+</Location>
+-->

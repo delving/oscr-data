@@ -1,21 +1,24 @@
 <Photo>
     <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
+    <Type>{ "vocabulary": "PhotoType" }</Type>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
     <Description>{ "paragraph":true }</Description>
-    <CollectionName/>
-
-    <!--todo: it seems that tag and entity should be multiple separately, not the subject block-->
+    <!--todo: find a solution for groupSpecific -->
+    <Collection>{ "vocabulary": "PhotoCollection", "groupSpecific": true }</Collection>
+    <Copyright>
+        <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
+        <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
+        <Note>{ "paragraph": true }</Note>
+    </Copyright>
     <Subject>{ "multiple": true }
-        <SubjectTag>{ "vocabulary": "PhotoSubjectTag" }</SubjectTag>
+        <SubjectTag>{ "vocabulary": "PhotoSubjectTag", "multiple": true }</SubjectTag>
         <SubjectEntity>
-            <Entity>{ "instance": [ "Person", "Group", "Location", "Event" ] }</Entity>
+            <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
             <Relation>{ "vocabulary": "PhotoReferenceToRelation" }</Relation>
         </SubjectEntity>
         <Note>{ "paragraph": true }</Note>
     </Subject>
-
     <PhysicalObject>
-        <Type>{ "vocabulary": "PhysicalPhotoType" }</Type>
         <PhysicalDescription>
             <Condition>{ "vocabulary": "PhysicalPhotoCondition" }</Condition>
             <HeightCM>{ "validator": "float" }</HeightCM>
@@ -23,14 +26,9 @@
             <Technique>{ "vocabulary": "PhysicalPhotoTechnique" }</Technique>
             <Material>{ "vocabulary": "PhysicalPhotoMaterial" }</Material>
         </PhysicalDescription>
-        <StorageLocationDescription>{ "paragraph":true }</StorageLocationDescription>
-        <Copyright>
-            <CopyrightHolder>{ "instance": [ "Person", "Group" ] }</CopyrightHolder>
-            <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
-            <Note>{ "paragraph": true }</Note>
-        </Copyright>
+        <!--todo: find a solution for groupSpecific -->
+        <StorageLocation>{ "vocabulary": PhotoStorageLocation, "groupSpecific": true }</StorageLocation>
     </PhysicalObject>
-
     <DigitalObject>{ "multiple": true }
         <File>{ "instance": "MediaMetadata }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
@@ -44,29 +42,24 @@
         </TechnicalDescription>
         <Note>{ "paragraph":true }</Note>
     </DigitalObject>
-
     <CreationEvent>
         <!--ask: what if the creation date is not known but is a date range?-->
         <CreationDate>{ "validator": "date" }</CreationDate>
         <CreatorInRole>{ "multiple : true" }
             <Role>{ "vocabulary": "PhotoCreationRole" }</Role>
-            <Creator>{ "instance": [ "Person", "Group" ] }</Creator>
+            <Creator>{ "instance": [ "Person", "Organization" ] }</Creator>
         </CreatorInRole>
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
     </CreationEvent>
-
     <AcquisitionEvent>
         <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
-        <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
+        <AcquisitionSource>{ "instance": [ "Person", "Organization" ] }</AcquisitionSource>
         <AcquisitionDate>{ "validator": "date" }</AcquisitionDate>
     </AcquisitionEvent>
-
     <PublicationEvent>
         <PublicationDate>{ "validator": "date" }</PublicationDate>
-        <Publisher>{ "instance": [ "Person", "Group" ] }</Publisher>
-        <PublicationPlace>{ "instance": "Location" }</PublicationPlace>
+        <Publisher>{ "instance": [ "Person", "Organization" ] }</Publisher>
+        <Note>{ "paragraph":true }</Note>
     </PublicationEvent>
-
     <ExhibitionEventNote>{ "multiple": true }</ExhibitionEventNote>
-
 </Photo>

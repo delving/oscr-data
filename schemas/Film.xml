@@ -1,62 +1,97 @@
 <Film>
     <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
+    <Type>{ "vocabulary": "PhysicalFilmType" }</Type>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
     <Description>{ "paragraph":true }</Description>
-    <CollectionName/>
-
-    <!--todo: it seems that tag and entity should be multiple separately, not the subject block-->
+    <!--todo: find a solution for groupSpecific -->
+    <Collection>{ "vocabulary": "FilmCollection", "groupSpecific": true }</Collection>
+    <Copyright>
+        <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
+        <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
+        <Note>{ "paragraph": true }</Note>
+    </Copyright>
     <Subject>{ "multiple": true }
-        <SubjectTag>{ "vocabulary": "FilmSubjectTag" }</SubjectTag>
+        <SubjectTag>{ "vocabulary": "FilmSubjectTag", "multiple": true }</SubjectTag>
         <SubjectEntity>
-            <Entity>{ "instance": [ "Person", "Group", "Location", "Event" ] }</Entity>
+            <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
             <Relation>{ "vocabulary": "FilmReferenceToRelation" }</Relation>
         </SubjectEntity>
         <Note>{ "paragraph":true }</Note>
     </Subject>
-
     <PhysicalObject>
-        <Type>{ "vocabulary": "PhysicalFilmType" }</Type>
         <PhysicalDescription>
-            <Condition>{ "vocabulary": "PhysicalPhotoCondition" }</Condition>
-            <!--todo: fill in the rest of this-->
+            <Condition>{ "vocabulary": "PhysicalFilmCondition" }</Condition>
+            <!--todo: fill in the rest of this (see email Jolanda below) -->
         </PhysicalDescription>
-        <StorageLocationDescription>{ "paragraph":true }</StorageLocationDescription>
-        <Copyright>
-            <CopyrightHolder>{ "instance": [ "Person", "Group" ] }</CopyrightHolder>
-            <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
-            <Note>{ "paragraph": true }</Note>
-        </Copyright>
+        <!--todo: find a solution for groupSpecific -->
+        <StorageLocation>{ "vocabulary": FilmStorageLocation, "groupSpecific": true }</StorageLocation>
     </PhysicalObject>
-
     <DigitalObject>{ "multiple": true }
         <File>{ "instance": "MediaMetadata" }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
         <TechnicalDescription>
-            <!--todo: fill in the rest of this-->
+            <!--todo: fill in the rest of this (see email Jolanda below) -->
         </TechnicalDescription>
         <Note>{ "paragraph":true }</Note>
     </DigitalObject>
-
     <CreationEvent>
-        <!--ask: what if the creation date is not known but is a date range?-->
+        <!--todo: what if the creation date is not known but is a date range?-->
         <CreationDate>{ "validator": "date" }</CreationDate>
         <Creator>{ "multiple : true" }
             <Type>{ "vocabulary": "FilmCreationRole" }</Type>
-            <Actor>{ "instance": [ "Person", "Group" ] }</Actor>
+            <Actor>{ "instance": [ "Person", "Organization" ] }</Actor>
         </Creator>
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
     </CreationEvent>
-
     <AcquisitionEvent>
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
-        <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
+        <AcquisitionSource>{ "instance": [ "Person", "Organization" ] }</AcquisitionSource>
         <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
     </AcquisitionEvent>
-
     <PublicationEvent>
         <PublicationDate>{ "validator": "date" }</PublicationDate>
-        <Publisher>{ "instance": [ "Person", "Group" ] }</Publisher>
+        <Publisher>{ "instance": [ "Person", "Organization" ] }</Publisher>
         <PublicationPlace>{ "instance": "Location" }</PublicationPlace>
     </PublicationEvent>
-
 </Film>
+
+<!--email Jolanda
+
+     Ik kan niet goed uit de voeten met PhysicalObject > Type. Zouden we hier bijvoorbeeld kunnen zetten:
+o   Kleur
+o   Zwart-wit
+o   Kleur; zwart-wit
+
+Of moet dit onder een andere header??
+
+·         PhysicalObject > PhysicalDescription: Hier toevoegen:
+
+o   FORMATS = FILMFORMATEN. Ik ben me aan het oriënteren op een lijst (vocabulary) met beschikbare filmformaten. Kijk eens naar deze link, die geeft een zeer uitgebreid (te uitgebreid denk ik) overzicht van filmformaten:
+http://en.wikipedia.org/wiki/List_of_film_formats
+Voorlopig lijstje zou kunnen zijn:
+
+§  Dubbel/normaal 8
+§  Super 8
+§  Single 8
+§  9.5 mm
+§  16 mm
+§  35 mm
+
+Too-do (maar niet op dit moment lijkt me): hier een werkbare lijst van maken en ook toevoegen de verschillende videoformaten!!! Ook hier kan Wikipedia een goede, voorlopige start voor ons zijn:
+http://nl.wikipedia.org/wiki/Video
+o   SOUND = GELUID. Voorlopige voorzet voor wat betreft een vocabulary:
+
+§  No sound = stomme film = silent movie (?)
+§  With sound = film met geluid. Eventueel verder uitsplitsen in optisch geluid en magnetisch geluid. Engelse termen heb ik zo snel niet voorhanden.
+o   DURATION = TIJDSDUUR. Getallenreeks, uitgedrukt in: uren – minuten – seconden
+o   CARRIER = DRAGER. Ik weet niet of dit de juiste Engelse term is, kan ik zo snel niet vinden. Alternatieve term zou kunnen zijn: MATERIAL.
+Hier zou een vocabulary moeten komen. Voorlopige opzet:
+
+§  Nitraat
+§  Acetaat
+§  Polyester
+
+·         DigitalObject > PhysicalDescription
+Nadere invulling kan ik hiervoor op deze korte termijn niet leveren; dat vergt uitzoekwerk!
+
+-->

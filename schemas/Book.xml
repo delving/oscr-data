@@ -2,83 +2,64 @@
     <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
     <BookType>{ "vocabulary": "BookType" }</BookType>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
-    <Subtitle/>
     <Language>{ "vocabulary": "Language" }</Language>
     <Description>{ "paragraph":true }</Description>
-
-    <!--todo: it seems that tag and entity should be multiple separately, not the subject block-->
-    <!--todo: i made the change below, but not to Photo or Film-->
-    <Subject>
-        <SubjectTag>{ "vocabulary": "PhotoSubjectTag", "multiple": true }</SubjectTag>
-        <SubjectEntity>{ "multiple": true }
-            <Entity>{ "instance": [ "Person", "Group", "Location", "Event" ] }</Entity>
-            <Relation>{ "vocabulary": "PhotoReferenceToRelation" }</Relation>
+    <ISBN/>
+    <!--todo: find a solution for groupSpecific -->
+    <BookCollection>{ "vocabulary": "BookCollection", "groupSpecific": true }</BookCollection>
+    <Copyright>
+        <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
+        <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
+        <Note>{ "paragraph": true }</Note>
+    </Copyright>
+    <Subject>{ "multiple": true }
+        <SubjectTag>{ "vocabulary": "BookSubjectTag", "multiple": true }</SubjectTag>
+        <SubjectEntity>
+            <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
+            <Relation>{ "vocabulary": "BookReferenceToRelation" }</Relation>
         </SubjectEntity>
         <Note>{ "paragraph": true }</Note>
     </Subject>
-
     <PhysicalObject>
-        <!--todo: is ISBN associated with the _physical_ object?-->
-        <ISBN/>
         <PhysicalDescription>
             <NumberOfPages>{ "validator":"count" }</NumberOfPages>
             <Condition>{ "vocabulary": "PhysicalBookCondition" }</Condition>
-            <!--todo: Jolanda says these should probably not be here-->
-            <!--<Technique>{ "vocabulary": "PhysicalBookTechnique" }</Technique>-->
-            <!--<Material>{ "vocabulary": "PhysicalBookMaterial" }</Material>-->
             <Note>{ "paragraph": true }</Note>
         </PhysicalDescription>
-        <StorageLocationDescription>{ "paragraph":true }</StorageLocationDescription>
-        <Copyright>
-            <CopyrightHolder>{ "instance": [ "Person", "Group" ] }</CopyrightHolder>
-            <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
-            <Note>{ "paragraph": true }</Note>
-        </Copyright>
+        <!--todo: find a solution for groupSpecific -->
+        <StorageLocation>{ "vocabulary": "BookCollection", "groupSpecific": true }</StorageLocation>
     </PhysicalObject>
-
-    <!--todo: perhaps a digital object, a PDF or thumbnail?-->
-
+    <DigitalObject>{ "multiple": true }
+        <File>{ "instance": "MediaMetadata }</File>
+        <CreationDate>{ "validator": "date" }</CreationDate>
+        <Note>{ "paragraph":true }</Note>
+    </DigitalObject>
     <CreationEvent>
-        <!--ask: what if the creation date is not known but is a date range?-->
+        <!--todo: what if the creation date is not known but is a date range?-->
         <CreationDate>{ "validator": "date" }</CreationDate>
         <Creator>{ "multiple : true" }
             <Type>{ "vocabulary": "BookCreationRole" }</Type>
-            <Actor>{ "instance": [ "Person", "Group" ] }</Actor>
+            <Actor>{ "instance": [ "Person", "Organization" ] }</Actor>
         </Creator>
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
     </CreationEvent>
-
     <PublicationEvent>
         <PublicationDateStart>{ "validator": "date" }</PublicationDateStart>
         <PublicationDateEnd>{ "validator": "date" }</PublicationDateEnd>
-        <Publisher>{ "instance": [ "Person", "Group" ] }</Publisher>
+        <Publisher>{ "instance": [ "Organization", "Person" ] }</Publisher>
         <Note>{ "paragraph": true }</Note>
     </PublicationEvent>
-
     <IncludedIn>
         <Book>{ "instance": ["Book"] }</Book>
         <Relation>{ "vocabulary": "BookIncludedInRelation" }</Relation>
     </IncludedIn>
-
     <ComposedOf>{ "multiple": true }
         <Book>{ "instance": ["Book"] }</Book>
         <Relation>{ "vocabulary": "BookIncludedInRelation" }</Relation>
     </ComposedOf>
-
     <AcquisitionEvent>
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
-        <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
+        <AcquisitionSource>{ "instance": [ "Person", "Organization" ] }</AcquisitionSource>
         <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
     </AcquisitionEvent>
-
-    <ManagementInformation>
-        <!--todo: is this different than the Identification number at the top?-->
-        <IdentificationNumber/>
-        <Collection>{ "vocabulary": "BookCollection" }</Collection>
-        <!--todo: do we want this instead of StorageLocationDescription in PhysicalObject?-->
-        <StorageLocation/>
-        <!--todo: OSCR doesn't yet support upload/display of PDF, so it's not clear yet what this would be-->
-        <!--<DigitalFile/>-->
-    </ManagementInformation>
-
 </Book>
