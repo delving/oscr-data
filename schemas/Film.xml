@@ -1,6 +1,6 @@
 <Film>
     <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
-    <Type>{ "vocabulary": "PhysicalFilmType" }</Type>
+    <Type>{ "vocabulary": "PhysicalFilmTypes" }</Type>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
     <Description>{ "paragraph":true }</Description>
     <!--todo: find a solution for groupSpecific -->
@@ -21,6 +21,13 @@
     <PhysicalObject>
         <PhysicalDescription>
             <Condition>{ "vocabulary": "PhysicalFilmCondition" }</Condition>
+            <Format>{ "vocabulary": "PhysicalFilmFormats" }</Format>
+            <Duration>
+                <Hours>{ "validator": "count" }</Hours>
+                <Minutes>{ "validator": "count" }</Minutes>
+                <Seconds>{ "validator": "count" }</Seconds>
+            </Duration>
+            <Material>{ "vocabulary": "PhysicalFilmMaterials"</Material>
             <!--todo: fill in the rest of this (see email Jolanda below) -->
         </PhysicalDescription>
         <!--todo: find a solution for groupSpecific -->
@@ -30,7 +37,7 @@
         <File>{ "instance": "MediaMetadata" }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
         <TechnicalDescription>
-            <!--todo: fill in the rest of this (see email Jolanda below) -->
+            <!--todo: Jolanda has no immediate answer to this -->
         </TechnicalDescription>
         <Note>{ "paragraph":true }</Note>
     </DigitalObject>

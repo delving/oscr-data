@@ -1,0 +1,29 @@
+<Entries>
+    §  Nitraat
+    §  Acetaat
+    §  Polyester
+    <Entry>
+        <Identifier>OSCR-FILM-NITRAAT</Identifier>
+        <Label>Nitraat</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-ACETAAT</Identifier>
+        <Label>Acetaat</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-SINGLE8</Identifier>
+        <Label>Polyester</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-95mm</Identifier>
+        <Label>9.5 mm</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-16mm</Identifier>
+        <Label>16 mm</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-35mm</Identifier>
+        <Label>35mm</Label>
+    </Entry>
+</Entries>

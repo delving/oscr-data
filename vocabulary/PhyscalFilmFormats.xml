@@ -1,0 +1,26 @@
+<Entries>
+    <Entry>
+        <Identifier>OSCR-FILM-DN8</Identifier>
+        <Label>Dubbel/normaal 8</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-SUPER8</Identifier>
+        <Label>Super 8</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-SINGLE8</Identifier>
+        <Label>Single 8</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-95mm</Identifier>
+        <Label>9.5 mm</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-16mm</Identifier>
+        <Label>16 mm</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-FILM-35mm</Identifier>
+        <Label>35mm</Label>
+    </Entry>
+</Entries>
