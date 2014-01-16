@@ -1,0 +1,26 @@
+<Entries>
+    <Entry>
+        <Identifier>OSCR-AANKOOP</Identifier>
+        <Label>Aankoop</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-SCHENKING</Identifier>
+        <Label>Schenking</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-LEGAAT</Identifier>
+        <Label>Legaat</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-BRUIKLEEN</Identifier>
+        <Label>Bruikleen</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-RUIL</Identifier>
+        <Label>Ruil</Label>
+    </Entry>
+    <Entry>
+        <Identifier>OSCR-OVERDRACHT</Identifier>
+        <Label>Overdracht</Label>
+    </Entry>
+</Entries>

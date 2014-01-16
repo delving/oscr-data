@@ -1,25 +1,56 @@
 <Map>
-
-    <InventoryNumber>{ "required": true, "unique": true, "fixed": true }</InventoryNumber>
-    <StorageLocation/>
+    <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
+    <Type>{ "vocabulary": "MapType" }</Type>
     <ManagingInstitution>{ "instance": "Group" }</ManagingInstitution>
-    <CollectioName>{ "required":true, "vocabulary":"MapCollection" }</CollectioName>
-
+    <!--
+    Annette: In my opinion this might be the same as what is called Originator of Reference in the
+    original FORTH schemas, although I am not completely sure; perhaps you can ask Martin.
+    I think usually the institution who helds the original object is also the institution who publishes
+    (meta)data about the object. Of course the name of the institution who helds the object must be
+    mentioned in each record. So this has to be added to the other schemas.
+    -->
+    <!--todo: find a solution for groupSpecific -->
+    <CollectionName>{ "vocabulary":"MapCollection", "groupSpecific":true }</CollectionName>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
     <ParallelTitle>{ "multiple":true }</ParallelTitle>
-
-    <!--todo: is this more than just places depicted?-->
-    <SubjectTag>{ "vocabulary": "MapSubjectTag", "multiple": true }</SubjectTag>
+    <Subject>{ "multiple": true }
+        <SubjectTag>{ "vocabulary": "MapSubjectTag", "multiple": true }</SubjectTag>
+        <SubjectEntity>
+            <Entity>{ "instance": [ "Location" ] }</Entity>
+            <Relation>{ "vocabulary": "MapReferenceToRelation" }</Relation>
+        </SubjectEntity>
+        <Scale/>
+        <Orientation/>
+        <Projection/>
+        <Coordinates/>
+        <Note>{ "paragraph":true }</Note>
+    </Subject>
 
     <!--todo: perhaps this should be "collection" or at least a vocabulary-->
     <Series>
         <SeriesTitle/>
         <NumberWithinSeries/>
     </Series>
+    <DigitalObject>{ "multiple": true }
+        <File>{ "instance": "MediaMetadata }</File>
+        <CreationDate>{ "validator": "date" }</CreationDate>
+        <TechnicalDescription>
+            <PixelsX>{ "validator": "count" }</PixelsX>
+            <PixelsY>{ "validator": "count" }</PixelsY>
+            <ResolutionPPI>{ "validator": "count" }</ResolutionPPI>
+            <ColorDepthBits>{ "validator": "count" }</ColorDepthBits>
+            <ColorModel>{ "??": "??" }</ColorModel>
+            <ExifData>{ "paragraph": true }</ExifData>
+        </TechnicalDescription>
+        <Note>{ "paragraph":true }</Note>
+    </DigitalObject>
+    <ComposedOf>{ "multiple": true }
+        <Book>{ "instance": ["Book"] }</Book>
+        <Relation>{ "vocabulary": "BookIncludedInRelation" }</Relation>
+    </ComposedOf>
 
     <Description>{ "paragraph":true }</Description>
 
-    <LocationDepicted>{ "instance": "Location", "multiple":true }</LocationDepicted>
     <Note>{ "paragraph": true }</Note>
 
     <!--todo: the spreadsheet suggests that this is a link to an image, but the name doesn't-->
@@ -28,10 +59,8 @@
     <PhysicalObject>
         <Condition>{ "vocabulary": "PhysicalMapCondition" }</Condition>
         <Edition/>
-        <Scale/>
-        <Orientation/>
-        <Projection/>
-        <Coordinates/>
+        <!--todo: find a solution for groupSpecific -->
+        <StorageLocation>{ "vocabulary": MapStorageLocation, "groupSpecific": true }</StorageLocation>
         <!--todo: printed or manuscript?-->
         <Material/>
         <!--todo: physical or technical?-->
@@ -40,6 +69,8 @@
         <Size/>
         <!--todo: unclear-->
         <Scope/>
+        <!--todo: Material, physical/technical characteristics, size and scope: We will ask Jos which types of fields these are.-->
+        <StorageLocation>{ "vocabulary": MapStorageLocation, "groupSpecific": true }</StorageLocation>
     </PhysicalObject>
 
     <CreationEvent>
@@ -53,7 +84,6 @@
     </CreationEvent>
 
     <AcquisitionEvent>
-        <!--todo: aankoop, schenking, legaat, bruikleen, ruil, overdracht-->
         <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
         <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
         <AcquisitionDate>{ "validator": "date" }</AcquisitionDate>
