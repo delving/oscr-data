@@ -1,64 +1,81 @@
+
+<!--this specifically records a card that is printed with a prayer and other information on it, somewhat specific-->
+<!--to the region and the dominant religion-->
+
 <Memoriam>
-    <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
 
-    <!--todo: what name is this to represent?-->
-    <Appellation>{"type": "string"}</Appellation>
+    <!--who is the subject of the memoriam-->
+    <Person>{ "instance": "Person" }</Person>
 
-    <!--todo: what are the types?-->
+    <!--what kind of memoriam is this?  are there actually types distinguished?-->
     <Type>{"vocabulary": "InMemoriamType"}</Type>
 
-    <!--todo: date of publication or what?-->
-    <Date>{"validator": "date"}</Date>
+    <!--when was this memoriam published, if different than the persons date of death-->
+    <Date>{"validator": "timePrimitive"}</Date>
 
+    <!--any descriptive comments-->
     <Description>{ "paragraph":true }</Description>
 
-    <StorageLocation>
-        <Type oscr_id="" oscr_vocabulary="">{ "vocabulary": "MemoriamStorageLocationType" }</Type>
-        <Name/>
-        <Description>{ "paragraph":true }</Description>
-    </StorageLocation>
+    <!--where can the original be found-->
+    <PhysicalCard>
+        
+        <!--the map location-->
+        <Location>{ "instance": "Location" }</Location>
 
-    <Front>
+        <!--the location in more detail if there is any information-->
+        <SpecificLocation/>
+
+        <!--how can the actual card be found?-->
+        <ManagingOrganization>{ "instance": "Organization" }</ManagingOrganization>
+
+    </PhysicalCard>
+
+    <!--the scan(s) of the front-->
+    <Front>{ "multiple": true }
+
+        <!--the actual file-->
         <FrontScan>{ "instance": "MediaMetadata"</FrontScan>
-        <Note>{ "paragraph":true }</Note>
+
+        <!--what is written on the front-->
+        <Text>{ "paragraph": true, "multiple": true }</Text>
+
+        <!--anything to say about the scan-->
+        <Comment>{ "paragraph":true }</Comment>
+
     </Front>
-    <Back>
-        <BackScan>{ "instance": "MediaMetadata"</BackScan>
-        <Note>{ "paragraph":true }</Note>
+
+    <!--the scan(s) back of the card-->
+    <Back>{ "multiple": true }
+
+        <!--the actual file-->
+        <BackScan>{ "instance": "MediaMetadata" }</BackScan>
+
+        <!--what is written on the back of the card?-->
+        <Text>{ "paragraph": true, "multiple": true }</Text>
+
+        <!--anything to say about the scan?-->
+        <Comment>{ "paragraph":true }</Comment>
+
     </Back>
 
-    <!--???? below-->
-    <PropertyOf/>
-    <!--Eigendom/Bruikleen (via een vinkjesveld, beide moeten tegelijk aangezet kunnen worden)-->
-    <Original/>
-    <!--Orgineel/Kopie (Bolletjesveld)-->
+    <!--who or what owns this publication-->
+    <Acquisition>{ "multiple": true }
 
-    <!--todo: the following things may play a role-->
-    <FirstName>{ "multiple": true }</FirstName>
-    <LastNamePrefix/>
-    <LastName>{ "required": true }</LastName>
-    <NickName></NickName>
-    <Sex></Sex>        <!--TODO: add sex validator-->
-    <Events>
-        <MarriageEvent>{"multiple": true, "vocabulary": "MarriageEvent"}</MarriageEvent>
-        <Birth>
-            <Date>{ "validator": "date" }</Date>
-            <Place>{ "vocabulary": "Place" }</Place>
-            <Father>{"vocabulary": "Actor"}</Father>
-            <Mother>{"vocabulary": "Actor"}</Mother>
-            <Notes>{ "paragraph":true }</Notes>
-        </Birth>
-        <Death>
-            <Date>{ "validator": "date" }</Date>
-            <Place>{ "vocabulary": "Place" }</Place>
-            <Notes>{ "paragraph":true }</Notes>
-        </Death>
-        <Funeral>
-            <DateOfFuneral>{ "validator": "date" }</DateOfFuneral>
-            <PlaceOfFuneral>{ "vocabulary": "Place" }</PlaceOfFuneral>
-            <Cemetary>{"vocabulary": "Cemetary"}</Cemetary>
-            <Notes>{ "paragraph":true }</Notes>
-        </Funeral>
-    </Events>
+        <!--who-->
+        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
+
+        <!--what organization?-->
+        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+
+        <!--what kind of acquisition was this-->
+        <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
+
+        <!--what condition was it in when it was acquired-->
+        <Condition>{ "vocabulary": "PublicationCondition" }</Condition>
+
+        <!--anything to say about this acquisition?-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Acquisition>
 
 </Memoriam>

@@ -1,66 +1,27 @@
+
+<!--the specification of this still has to be done with Jos Kuilen-->
+<!--of course much of it will resemble the other schemas, if not be identical-->
+
 <Map>
-    <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
-    <Type>{ "vocabulary": "MapType" }</Type>
-    <ManagingInstitution>{ "instance": "Group" }</ManagingInstitution>
-    <!--
-    Annette: In my opinion this might be the same as what is called Originator of Reference in the
-    original FORTH schemas, although I am not completely sure; perhaps you can ask Martin.
-    I think usually the institution who helds the original object is also the institution who publishes
-    (meta)data about the object. Of course the name of the institution who helds the object must be
-    mentioned in each record. So this has to be added to the other schemas.
-    -->
-    <!--todo: find a solution for groupSpecific -->
-    <CollectionName>{ "vocabulary":"MapCollection", "groupSpecific":true }</CollectionName>
+
+    <!--what is this map called?  this will be used in the display of lists-->
     <Title>{ "required": true, "summaryField": "Title" }</Title>
-    <ParallelTitle>{ "multiple":true }</ParallelTitle>
-    <Subject>{ "multiple": true }
-        <SubjectTag>{ "vocabulary": "MapSubjectTag", "multiple": true }</SubjectTag>
-        <SubjectEntity>
-            <Entity>{ "instance": [ "Location" ] }</Entity>
-            <Relation>{ "vocabulary": "MapReferenceToRelation" }</Relation>
-        </SubjectEntity>
-        <Scale/>
-        <Orientation/>
-        <Projection/>
-        <Coordinates/>
-        <Note>{ "paragraph":true }</Note>
-    </Subject>
 
-    <!--todo: perhaps this should be "collection" or at least a vocabulary-->
-    <Series>
-        <SeriesTitle/>
-        <NumberWithinSeries/>
-    </Series>
-    <DigitalObject>{ "multiple": true }
-        <File>{ "instance": "MediaMetadata }</File>
-        <CreationDate>{ "validator": "date" }</CreationDate>
-        <TechnicalDescription>
-            <PixelsX>{ "validator": "count" }</PixelsX>
-            <PixelsY>{ "validator": "count" }</PixelsY>
-            <ResolutionPPI>{ "validator": "count" }</ResolutionPPI>
-            <ColorDepthBits>{ "validator": "count" }</ColorDepthBits>
-            <ColorModel>{ "??": "??" }</ColorModel>
-            <ExifData>{ "paragraph": true }</ExifData>
-        </TechnicalDescription>
-        <Note>{ "paragraph":true }</Note>
-    </DigitalObject>
-    <ComposedOf>{ "multiple": true }
-        <Book>{ "instance": ["Book"] }</Book>
-        <Relation>{ "vocabulary": "BookIncludedInRelation" }</Relation>
-    </ComposedOf>
+    <!--maybe it has more names-->
+    <OtherTitle>{ "multiple":true }</OtherTitle>
 
-    <Description>{ "paragraph":true }</Description>
+    <!--what type of map is this?-->
+    <MapType>{ "vocabulary": "MapType" }</MapType>
 
-    <Note>{ "paragraph": true }</Note>
+    <!--who is responsible for the map-->
+    <ManagingOrganization>{ "instance": "Organization" }</ManagingOrganization>
 
-    <!--todo: the spreadsheet suggests that this is a link to an image, but the name doesn't-->
-    <ScanNumber/>
+    <!--to which collection does this map belong-->
+    <CollectionName>{ "vocabulary":"MapCollection" }</CollectionName>
 
     <PhysicalObject>
         <Condition>{ "vocabulary": "PhysicalMapCondition" }</Condition>
         <Edition/>
-        <!--todo: find a solution for groupSpecific -->
-        <StorageLocation>{ "vocabulary": MapStorageLocation, "groupSpecific": true }</StorageLocation>
         <!--todo: printed or manuscript?-->
         <Material/>
         <!--todo: physical or technical?-->
@@ -73,22 +34,13 @@
         <StorageLocation>{ "vocabulary": MapStorageLocation, "groupSpecific": true }</StorageLocation>
     </PhysicalObject>
 
-    <CreationEvent>
-        <!--ask: what if the creation date is not known but is a date range?-->
+    <DigitalObject>{ "multiple": true }
+        <File>{ "instance": "MediaMetadata }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
-        <CreatorInRole>{ "multiple : true" }
-            <Role>{ "vocabulary": "MapCreationRole" }</Role>
-            <Creator>{ "instance": [ "Person", "Group" ] }</Creator>
-        </CreatorInRole>
-        <CreationPlace>{ "instance": "Location" }</CreationPlace>
-    </CreationEvent>
+        <Comment>{ "paragraph":true }</Comment>
+    </DigitalObject>
 
-    <AcquisitionEvent>
-        <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
-        <AcquisitionSource>{ "instance": [ "Person", "Group" ] }</AcquisitionSource>
-        <AcquisitionDate>{ "validator": "date" }</AcquisitionDate>
-    </AcquisitionEvent>
-
-    <Literature>{ "paragraph":true }</Literature>
+    <!--anything else to say about this map-->
+    <Comment>{ "paragraph":true }</Comment>
 
 </Map>

@@ -11,7 +11,7 @@
 
     <!--for the time being we should record the type of organization in the terms used by the source data, with-->
     <!--Dutch labels so that everyone understands.  later we can find matching URIs to authority lists of-->
-    <!--organization types.-->
+    <!--organization types.  one will be "Heemkundekring" -->
     <OrganizationType>{ "vocabulary": "OrganizationType" }</OrganizationType>
 
     <!--when the organization was established if this is known.  the values are time primitives which unambiguously-->

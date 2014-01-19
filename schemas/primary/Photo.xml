@@ -1,15 +1,24 @@
+
+<!--a photograph record-->
+
 <Photo>
-    <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
+
+    <!--what type of photo is this?  a negative, a print?  later these can be associated with authority terms-->
     <Type>{ "vocabulary": "PhotoType" }</Type>
+
+    <!--what is the title of this photo?  this is used for list display-->
     <Title>{ "required": true, "summaryField": "Title" }</Title>
-    <Description>{ "paragraph":true }</Description>
-    <!--todo: find a solution for groupSpecific -->
-    <Collection>{ "vocabulary": "PhotoCollection", "groupSpecific": true }</Collection>
+
+    <Comment>{ "paragraph":true }</Comment>
+
+    <PhotoCollection>{ "vocabulary": "PhotoCollection" }</PhotoCollection>
+
     <Copyright>
         <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
         <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
         <Note>{ "paragraph": true }</Note>
     </Copyright>
+    
     <RefersTo>{ "multiple": true }
         <SubjectTag>{ "vocabulary": "SubjectTag", "multiple": true }</SubjectTag>
         <SubjectEntity>
@@ -30,7 +39,6 @@
         <StorageLocation>{ "vocabulary": PhotoStorageLocation, "groupSpecific": true }</StorageLocation>
     </PhysicalObject>
     <DigitalObject>{ "multiple": true }
-        <!--todo: why this digital object is attached to the physical object -->
         <File>{ "instance": "MediaMetadata }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
         <TechnicalDescription>
