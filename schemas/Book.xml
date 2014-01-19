@@ -3,6 +3,7 @@
     <BookType>{ "vocabulary": "BookType" }</BookType>
     <Title>{ "required": true, "summaryField": "Title" }</Title>
     <Language>{ "vocabulary": "Language" }</Language>
+    <Subject/>
     <Description>{ "paragraph":true }</Description>
     <ISBN/>
     <!--todo: find a solution for groupSpecific -->
@@ -12,23 +13,17 @@
         <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
         <Note>{ "paragraph": true }</Note>
     </Copyright>
-    <Subject>{ "multiple": true }
-        <SubjectTag>{ "vocabulary": "BookSubjectTag", "multiple": true }</SubjectTag>
-        <SubjectEntity>
-            <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
-            <Relation>{ "vocabulary": "BookReferenceToRelation" }</Relation>
-        </SubjectEntity>
+    <RefersTo>{ "multiple": true }
+        <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
+        <Relation>{ "vocabulary": "RefersToRelation" }</Relation>
+        <Comment>{ "paragraph":true }</Comment>
+    </RefersTo>
+    <PhysicalDescription>
+        <NumberOfPages>{ "validator":"count" }</NumberOfPages>
         <Note>{ "paragraph": true }</Note>
-    </Subject>
-    <PhysicalObject>
-        <PhysicalDescription>
-            <NumberOfPages>{ "validator":"count" }</NumberOfPages>
-            <Condition>{ "vocabulary": "PhysicalBookCondition" }</Condition>
-            <Note>{ "paragraph": true }</Note>
-        </PhysicalDescription>
-        <!--todo: find a solution for groupSpecific -->
-        <StorageLocation>{ "vocabulary": "BookCollection", "groupSpecific": true }</StorageLocation>
-    </PhysicalObject>
+    </PhysicalDescription>
+    <!--todo: find a solution for groupSpecific -->
+    <StorageLocation>{ "vocabulary": "BookCollection", "groupSpecific": true }</StorageLocation>
     <DigitalObject>{ "multiple": true }
         <File>{ "instance": "MediaMetadata }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
@@ -55,11 +50,21 @@
     </IncludedIn>
     <ComposedOf>{ "multiple": true }
         <Book>{ "instance": ["Book"] }</Book>
-        <Relation>{ "vocabulary": "BookIncludedInRelation" }</Relation>
+        <Relation>{ "vocabulary": "BookComposedOfRelation" }</Relation>
     </ComposedOf>
     <AcquisitionEvent>
+        <Condition>{ "vocabulary": "PhysicalBookCondition" }</Condition>
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
         <AcquisitionSource>{ "instance": [ "Person", "Organization" ] }</AcquisitionSource>
         <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
     </AcquisitionEvent>
+    <RelatedEvent>{ "multiple": true }
+        <!--todo: previous publication, exhibitions, donations, ...-->
+        <EventRelation>{ "vocabulary": "RelatedEventRelation" }</EventRelation>
+        <Event>
+            <Name/>
+            <Time/>
+            <EventDescription>{ "paragraph": true }</EventDescription>
+        </Event>
+    </RelatedEvent>
 </Book>

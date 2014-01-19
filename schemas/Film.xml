@@ -8,38 +8,25 @@
     <Copyright>
         <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
         <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
-        <Note>{ "paragraph": true }</Note>
+        <Comment>{ "paragraph": true }</Comment>
     </Copyright>
-    <Subject>{ "multiple": true }
-        <SubjectTag>{ "vocabulary": "FilmSubjectTag", "multiple": true }</SubjectTag>
-        <SubjectEntity>
-            <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
-            <Relation>{ "vocabulary": "FilmReferenceToRelation" }</Relation>
-        </SubjectEntity>
-        <Note>{ "paragraph":true }</Note>
-    </Subject>
-    <PhysicalObject>
-        <PhysicalDescription>
-            <Condition>{ "vocabulary": "PhysicalFilmCondition" }</Condition>
-            <Format>{ "vocabulary": "PhysicalFilmFormats" }</Format>
-            <Duration>
-                <Hours>{ "validator": "count" }</Hours>
-                <Minutes>{ "validator": "count" }</Minutes>
-                <Seconds>{ "validator": "count" }</Seconds>
-            </Duration>
-            <Material>{ "vocabulary": "PhysicalFilmMaterials"</Material>
-            <!--todo: fill in the rest of this (see email Jolanda below) -->
-        </PhysicalDescription>
-        <!--todo: find a solution for groupSpecific -->
-        <StorageLocation>{ "vocabulary": FilmStorageLocation, "groupSpecific": true }</StorageLocation>
-    </PhysicalObject>
+    <!--todo: this is the right form of refers to for all-->
+    <RefersTo>{ "multiple": true }
+        <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
+        <Relation>{ "vocabulary": "RefersToRelation" }</Relation>
+        <Comment>{ "paragraph":true }</Comment>
+    </RefersTo>
     <DigitalObject>{ "multiple": true }
+        <Relation>{ "vocabulary": "FilmDigitalObjectRelation" }</Relation>
         <File>{ "instance": "MediaMetadata" }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
-        <TechnicalDescription>
-            <!--todo: Jolanda has no immediate answer to this -->
-        </TechnicalDescription>
-        <Note>{ "paragraph":true }</Note>
+        <TechnicalProperty>{ "multiple": true }
+            <Type>{ "vocabulary": "FilmTechnicalPropertyType" }</Type>
+            <Value/>
+            <Unit>{ "vocabulary": "FilmTechnicalPropertyUnit" }</Unit>
+            <Method>{ "vocabulary": "FilmTechnicalPropertyMethod" }</Method>
+        </TechnicalProperty>
+        <Comment>{ "paragraph":true }</Comment>
     </DigitalObject>
     <CreationEvent>
         <!--todo: what if the creation date is not known but is a date range?-->
@@ -49,16 +36,30 @@
             <Actor>{ "instance": [ "Person", "Organization" ] }</Actor>
         </Creator>
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
+        <PhysicalDescription>
+            <Format>{ "vocabulary": "PhysicalFilmFormats" }</Format>
+            <Material>{ "vocabulary": "PhysicalFilmMaterials"</Material>
+            <Duration>
+                <Hours>{ "validator": "count" }</Hours>
+                <Minutes>{ "validator": "count" }</Minutes>
+                <Seconds>{ "validator": "count" }</Seconds>
+            </Duration>
+            <!--todo: find a solution for groupSpecific -->
+            <StorageLocation>{ "vocabulary": FilmStorageLocation, "groupSpecific": true }</StorageLocation>
+        </PhysicalDescription>
     </CreationEvent>
     <AcquisitionEvent>
+        <Condition>{ "vocabulary": "PhysicalFilmCondition" }</Condition>
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
         <AcquisitionSource>{ "instance": [ "Person", "Organization" ] }</AcquisitionSource>
         <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
+        <Comment>{ "paragraph": true }</Comment>
     </AcquisitionEvent>
-    <PublicationEvent>
+    <PublicationEvent>{ "multiple": true }
         <PublicationDate>{ "validator": "date" }</PublicationDate>
         <Publisher>{ "instance": [ "Person", "Organization" ] }</Publisher>
         <PublicationPlace>{ "instance": "Location" }</PublicationPlace>
+        <Comment>{ "paragraph": true }</Comment>
     </PublicationEvent>
 </Film>
 

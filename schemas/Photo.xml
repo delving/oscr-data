@@ -10,14 +10,14 @@
         <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
         <Note>{ "paragraph": true }</Note>
     </Copyright>
-    <Subject>{ "multiple": true }
-        <SubjectTag>{ "vocabulary": "PhotoSubjectTag", "multiple": true }</SubjectTag>
+    <RefersTo>{ "multiple": true }
+        <SubjectTag>{ "vocabulary": "SubjectTag", "multiple": true }</SubjectTag>
         <SubjectEntity>
             <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
-            <Relation>{ "vocabulary": "PhotoReferenceToRelation" }</Relation>
+            <Relation>{ "vocabulary": "ReferenceToRelation" }</Relation>
         </SubjectEntity>
         <Note>{ "paragraph": true }</Note>
-    </Subject>
+    </RefersTo>
     <PhysicalObject>
         <PhysicalDescription>
             <Condition>{ "vocabulary": "PhysicalPhotoCondition" }</Condition>
@@ -30,6 +30,7 @@
         <StorageLocation>{ "vocabulary": PhotoStorageLocation, "groupSpecific": true }</StorageLocation>
     </PhysicalObject>
     <DigitalObject>{ "multiple": true }
+        <!--todo: why this digital object is attached to the physical object -->
         <File>{ "instance": "MediaMetadata }</File>
         <CreationDate>{ "validator": "date" }</CreationDate>
         <TechnicalDescription>
