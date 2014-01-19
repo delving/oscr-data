@@ -18,7 +18,7 @@
 
     <!--where can the original be found-->
     <PhysicalCard>
-        
+
         <!--the map location-->
         <Location>{ "instance": "Location" }</Location>
 

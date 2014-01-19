@@ -1,64 +1,207 @@
+
+<!--a film, whether or not there is a digital representation available-->
+
 <Film>
-    <IdentificationNumber>{ "required": true, "unique": true, "fixed": true }</IdentificationNumber>
-    <Type>{ "vocabulary": "PhysicalFilmTypes" }</Type>
+
+    <!--what is the film called?  the value is used in list displays-->
     <Title>{ "required": true, "summaryField": "Title" }</Title>
-    <Description>{ "paragraph":true }</Description>
-    <!--todo: find a solution for groupSpecific -->
-    <Collection>{ "vocabulary": "FilmCollection", "groupSpecific": true }</Collection>
-    <Copyright>
-        <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
-        <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
-        <Comment>{ "paragraph": true }</Comment>
-    </Copyright>
-    <!--todo: this is the right form of refers to for all-->
-    <RefersTo>{ "multiple": true }
-        <Entity>{ "instance": [ "Person", "Organization", "Location", "Event" ] }</Entity>
-        <Relation>{ "vocabulary": "RefersToRelation" }</Relation>
-        <Comment>{ "paragraph":true }</Comment>
-    </RefersTo>
-    <DigitalObject>{ "multiple": true }
-        <Relation>{ "vocabulary": "FilmDigitalObjectRelation" }</Relation>
-        <File>{ "instance": "MediaMetadata" }</File>
-        <CreationDate>{ "validator": "date" }</CreationDate>
-        <TechnicalProperty>{ "multiple": true }
-            <Type>{ "vocabulary": "FilmTechnicalPropertyType" }</Type>
-            <Value/>
-            <Unit>{ "vocabulary": "FilmTechnicalPropertyUnit" }</Unit>
-            <Method>{ "vocabulary": "FilmTechnicalPropertyMethod" }</Method>
-        </TechnicalProperty>
-        <Comment>{ "paragraph":true }</Comment>
-    </DigitalObject>
-    <CreationEvent>
-        <!--todo: what if the creation date is not known but is a date range?-->
-        <CreationDate>{ "validator": "date" }</CreationDate>
+
+    <!--which language was this film in-->
+    <Language>{ "vocabulary": "Language" }</Language>
+
+    <!--to which collection does this film belong?-->
+    <Collection>{ "vocabulary": "FilmCollection" }</Collection>
+
+    <!--when where and by whom was this film created-->
+    <Creation>
+
+        <!--when-->
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
+
+        <!--by whom in what role?-->
         <Creator>{ "multiple : true" }
-            <Type>{ "vocabulary": "FilmCreationRole" }</Type>
-            <Actor>{ "instance": [ "Person", "Organization" ] }</Actor>
+
+            <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
+            <CreationRole>{ "vocabulary": "FilmCreationRole" }</CreationRole>
+
+            <!--did a person create this film?-->
+            <Person>{ "instance": "Person" }</Person>
+
+            <!--or was it created by an organization?-->
+            <Organization>{ "instance": "Organization" }</Organization>
+
         </Creator>
+
+        <!--where was it created?-->
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
-        <PhysicalDescription>
-            <Format>{ "vocabulary": "PhysicalFilmFormats" }</Format>
-            <Material>{ "vocabulary": "PhysicalFilmMaterials"</Material>
-            <Duration>
-                <Hours>{ "validator": "count" }</Hours>
-                <Minutes>{ "validator": "count" }</Minutes>
-                <Seconds>{ "validator": "count" }</Seconds>
-            </Duration>
-            <!--todo: find a solution for groupSpecific -->
-            <StorageLocation>{ "vocabulary": FilmStorageLocation, "groupSpecific": true }</StorageLocation>
-        </PhysicalDescription>
-    </CreationEvent>
-    <AcquisitionEvent>
-        <Condition>{ "vocabulary": "PhysicalFilmCondition" }</Condition>
+
+    </Creation>
+
+    <!--who holds the rights?-->
+    <Copyright>
+
+        <!--a person-->
+        <CopyrightHolderPerson>{ "instance": "Person" }</CopyrightHolderPerson>
+
+        <!--an organization-->
+        <CopyrightHolderOrganization>{ "instance": "Organization" }</CopyrightHolderOrganization>
+
+        <!--how do they licence it in terms of creative commons?-->
+        <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
+
+        <!--any other information about this copyright-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Copyright>
+
+    <!--describe the publications-->
+    <Publication>
+
+        <!--a clearly discernible description of when the the film was published-->
+        <PublicationDate>{ "vocabulary": "timePrimitive" }</PublicationDate>
+
+        <!--what published this?-->
+        <PublisherOrganization>{ "instance": "Organization" }</PublisherOrganization>
+
+        <!--was it perhaps self-published by someone?-->
+        <PublisherPerson>{ "instance": "Person" }</PublisherPerson>
+
+        <!--anything else to say about the publication of this film-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Publication>
+
+    <!--who or what owns or has owned it-->
+    <Acquisition>{ "multiple": true }
+
+        <!--when did this acquisition take place?-->
+        <AcquisitionDate>{ "validator": "timePrimitive" }</AcquisitionDate>
+
+        <!--who-->
+        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
+
+        <!--what organization?-->
+        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+
+        <!--what kind of acquisition was this-->
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
-        <AcquisitionSource>{ "instance": [ "Person", "Organization" ] }</AcquisitionSource>
-        <AcquisitionDate>{"validator": "date"}</AcquisitionDate>
+
+        <!--what condition was it in when it was acquired-->
+        <Condition>{ "vocabulary": "PhysicalCondition" }</Condition>
+
+        <!--anything to say about this acquisition?-->
         <Comment>{ "paragraph": true }</Comment>
-    </AcquisitionEvent>
-    <PublicationEvent>{ "multiple": true }
-        <PublicationDate>{ "validator": "date" }</PublicationDate>
-        <Publisher>{ "instance": [ "Person", "Organization" ] }</Publisher>
-        <PublicationPlace>{ "instance": "Location" }</PublicationPlace>
-        <Comment>{ "paragraph": true }</Comment>
-    </PublicationEvent>
+
+    </Acquisition>
+
+    <!--if this film refers to some identifiable entity it can be recorded here-->
+    <RefersTo>{ "multiple": true }
+
+        <!--in what way does this refer to the entity?-->
+        <!--these can someday be mapped to terminology authorities and used for searching-->
+        <ReferenceType>{ "vocabulary": "ReferenceType" }</ReferenceType>
+
+        <!--to whom does this film refer? -->
+        <Person>{ "instance": "Person" }</Person>
+
+        <!--to which organization does it refer?-->
+        <Organization>{ "instance": "Organization" }</Organization>
+
+        <!--to what location does it refer?-->
+        <Location>{ "instance": "Location" }</Location>
+
+        <!--does it refer to a particular historical event?-->
+        <HistoricalEvent>{ "instance": "HistoricalEvent" }</HistoricalEvent>
+
+        <!--anything else to record about this reference?-->
+        <Comment>{ "paragraph":true }</Comment>
+
+    </RefersTo>
+
+    <!--is there a digital representation we can use-->
+    <DigitalObject>{ "multiple": true }
+
+        <!--the actual file that holds the bits-->
+        <File>{ "instance": "MediaMetadata" }</File>
+
+        <!--when was this digital representation created?-->
+        <CreationDate>{ "validator": "date" }</CreationDate>
+
+        <!--what are the technical properties of the film?-->
+        <!--this is an open ended set of properties, the types of which can later be mapped-->
+        <!--to authority terms-->
+        <TechnicalProperty>{ "multiple": true }
+
+            <!--what is the name of this property-->
+            <Type>{ "vocabulary": "FilmDigitalPropertyType" }</Type>
+
+            <!--the value of the property-->
+            <Value/>
+
+            <!--in which unit is the value expressed?-->
+            <Unit>{ "vocabulary": "FilmDigitalPropertyUnit" }</Unit>
+
+            <!--perhaps describe the means of taking the measurement, or related information-->
+            <Comment/>
+
+        </TechnicalProperty>
+
+        <!--anything else to say about this digital representation-->
+        <Comments>{ "paragraph":true }</Comments>
+
+    </DigitalObject>
+
+    <!--how should the physical film be described?-->
+    <PhysicalObject>
+
+        <!--selection from a list of possible film formats-->
+        <Format>{ "vocabulary": "PhysicalFilmFormats" }</Format>
+
+        <!--selection from a list of materials that are used to make films-->
+        <Material>{ "vocabulary": "PhysicalFilmMaterials"</Material>
+
+        <!--any other properties of the physical film-->
+        <PhysicalProperty>{ "multiple": true }
+
+            <!--what is the name of this property-->
+            <Type>{ "vocabulary": "FilmPhysicalPropertyType" }</Type>
+
+            <!--the value of the property-->
+            <Value/>
+
+            <!--in which unit is the value expressed?-->
+            <Unit>{ "vocabulary": "FilmPhysicalPropertyUnit" }</Unit>
+
+            <!--perhaps describe the means of taking the measurement, or related information-->
+            <Comment/>
+
+        </PhysicalProperty>
+
+        <!--where can the physical copy be found?-->
+        <StorageLocation>
+
+            <!--locations can be quite specific, but not down to shelf position of course-->
+            <Location>{ "instance": "Location" }</Location>
+
+            <!--the format may vary depending on how people find things-->
+            <SpecificLocation/>
+
+        </StorageLocation>
+
+        <!--anything important to know about the physical film?-->
+        <Comment>{ "paragraph":true }</Comment>
+
+    </PhysicalObject>
+
+    <!--was this photo exhibited at any special historical event?-->
+    <Exhibition>{ "multiple": true }
+
+        <!--which event-->
+        <ExhibitionEvent>{ "instance": "HistoricalEvent" }</ExhibitionEvent>
+
+    </Exhibition>
+
+    <!--any noteworthy things to say about this film-->
+    <Comment>{ "paragraph":true, "multiple": true }</Comment>
+
 </Film>

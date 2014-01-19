@@ -31,20 +31,21 @@
 
     <!--when where and by whom was this publication created-->
     <Creation>
+
         <!--when-->
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--by whom in what role?-->
         <Creator>{ "multiple : true" }
 
+            <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
+            <CreationRole>{ "vocabulary": "PublicationCreationRole" }</CreationRole>
+
             <!--did a person create this publication?-->
             <Person>{ "instance": "Person" }</Person>
 
             <!--or was it created by an organization?-->
             <Organization>{ "instance": "Organization" }</Organization>
-
-            <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
-            <Type>{ "vocabulary": "PublicationCreationRole" }</Type>
 
         </Creator>
 
@@ -70,8 +71,11 @@
 
     </Publication>
 
-    <!--who or what owns this publication-->
+    <!--who or what owns or has owned it-->
     <Acquisition>{ "multiple": true }
+
+        <!--when did this acquisition take place?-->
+        <AcquisitionDate>{ "validator": "timePrimitive" }</AcquisitionDate>
 
         <!--who-->
         <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
@@ -83,7 +87,7 @@
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
 
         <!--what condition was it in when it was acquired-->
-        <Condition>{ "vocabulary": "PublicationCondition" }</Condition>
+        <Condition>{ "vocabulary": "PhysicalCondition" }</Condition>
 
         <!--anything to say about this acquisition?-->
         <Comment>{ "paragraph": true }</Comment>
@@ -110,9 +114,9 @@
     <!--if this publication refers to some identifiable entity it can be recorded here-->
     <RefersTo>{ "multiple": true }
 
-        <!--in what way does this publication refer to the entity?-->
+        <!--in what way does this refer to the entity?-->
         <!--these can someday be mapped to terminology authorities and used for searching-->
-        <ReferenceType>{ "vocabulary": "PublicationReferenceType" }</ReferenceType>
+        <ReferenceType>{ "vocabulary": "ReferenceType" }</ReferenceType>
 
         <!--to whom does this publication refer? -->
         <Person>{ "instance": "Person" }</Person>
@@ -146,7 +150,7 @@
     <DigitalObject>{ "multiple": true }
 
         <!--the actual file that holds the bits-->
-        <File>{ "instance": "MediaMetadata }</File>
+        <File>{ "instance": "MediaMetadata" }</File>
 
         <!--when was this digital representation created?-->
         <CreationDate>{ "validator": "date" }</CreationDate>
