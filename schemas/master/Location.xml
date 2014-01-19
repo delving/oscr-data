@@ -28,10 +28,13 @@
         <!--as locations change their names over time, we have to record events.  presumably there are official documents-->
         <!--regarding when the names were changed. if there is one one name over time, leave this blank. if there are-->
         <!--multiple name blocks, this field should be filled in.  this validation can later be automated.-->
-        <LocationNameAttributionDate>{ "validator": "date" }</LocationNameAttributionDate>
+        <LocationNameAttributionDate>{ "validator": "timePrimitive" }</LocationNameAttributionDate>
 
         <!--which organization was responsible for the attribution of this name, if known-->
-        <LocationNameAttributedBy>{ "instance": "Organization" }</LocationNameAttributedBy>
+        <LocationNameAttributedByPerson>{ "instance": "Person" }</LocationNameAttributedByPerson>
+
+        <!--which organization was responsible for the attribution of this name, if known-->
+        <LocationNameAttributedByOrganization>{ "instance": "Organization" }</LocationNameAttributedByOrganization>
 
         <!--if there is some information in the source that would help describe something about this naming event-->
         <!--but it doesn't fit into any of the above fields, save it here so it is not lost.-->
@@ -47,10 +50,20 @@
     <!--the actual whereabouts of the center of the location so that it can be located on a map display.  this information-->
     <!--can be fetched via the Geonames if the URI above is known, but it can be convenient to have a local copy to-->
     <!--display without having to fetch each entry.  -->
+    <!--we may have precise coordinates from a mobile phone which we can now attach to locations, and in the case-->
+    <!--of a monument this will be something beyond the scope of Geonames-->
     <Coordinates>
+
+        <!--east west-->
         <Longitude>{ "validator": "longitude" }</Longitude>
+
+        <!--north south-->
         <Latitude>{ "validator": "latitude" }</Latitude>
+
     </Coordinates>
+
+    <!--lookups are not yet implemented for this but there should be good ways to accomplish that-->
+    <WikipediaLink>{ "validator": "URL", "lookup": "Wikipedia" }</WikipediaLink>
 
     <!--if there is some information in the source that would help describe something about this location-->
     <!--but it doesn't fit into any of the above fields, save it here so it is not lost.-->
