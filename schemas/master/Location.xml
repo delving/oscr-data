@@ -1,68 +1,59 @@
-<!--<Location>-->
-    <!--&lt;!&ndash; Based on FORTH Location.xsd &ndash;&gt;-->
-    <!--&lt;!&ndash;OSCR mark up not proofed&ndash;&gt;-->
 
-    <!--<IdentificationNumber oscr_fixed=""/>-->
-
-    <!--<IdentificationNumberAttributionDate>{ "validator": "date" }</IdentificationNumberAttributionDate>-->
-
-    <!--&lt;!&ndash;NEEDS URIS AND Appellations FROM GEONAMES&ndash;&gt;-->
-    <!--<Name oscr_id="" oscr_vocabulary="http://www.geonames.org"></Name>-->
-
-    <!--<Coordinates>-->
-        <!--<Longitude>{ "validator": "longitude" }</Longitude>-->
-        <!--<Latitude>{ "validator": "latitude" }</Latitude>-->
-    <!--</Coordinates>-->
-
-    <!--&lt;!&ndash;NEEDS URIS AND TERMS FROM GEONAMES&ndash;&gt;-->
-    <!--<Type oscr_id="" oscr_vocabulary="">{"vocabulary": "GeonamesPlaceType"}</Type>-->
-
-    <!--&lt;!&ndash;NEEDS CODES AND TERMS FROM GEONAMES&ndash;&gt;-->
-    <!--<GeopoliticalHierarchy oscr_id="" oscr_vocabulary=""/>-->
-
-    <!--<CodeNumber>-->
-        <!--<Value/>-->
-        <!--<Category oscr_id="" oscr_vocabulary="">{ "vocabulary": "term" }</Category>-->
-        <!--<AttributionDate>{ "validator": "date" }</AttributionDate>-->
-        <!--<ExpiryDate> { "validator": "date" }</ExpiryDate>-->
-        <!--<AttributedBy oscr_id="" oscr_vocabulary="">{ "lookup": [ "person" ] }</AttributedBy>-->
-    <!--</CodeNumber>-->
-    <!--&lt;!&ndash;<admin></admin>  LATER  &ndash;&gt;-->
-<!--</Location>-->
+<!--locations are general in the sense that they can be very large or very small.  one often contains another.-->
+<!--there are ways, when migrating data to this       -->
 
 <Location>
-    <LocationName>
-        <LocationNameType>{"required":true, "vocabulary":"LocationNameType"}</LocationNameType>
-        (for example: straat, buurtschap, kerkhof, dorp, stad, rivier; possibly use of Feature Class and Feature Code
-        Geonames)
-        <LocationNameAppellation>{"required":true, "vocabulary":"LocationName"}</LocationNameAppellation>
+
+    <!--in the absence of any other information, this field records a human-readable comma-delimited list which starts-->
+    <!--with continent and zooms in on the intended location.  This is for humans to read later if the link has yet to-->
+    <!--be made to an authority list. There is no good reason to omit this, so it is required.-->
+    <GeopoliticalHierarchy>{ "required":true }</GeopoliticalHierarchy>
+
+    <!--the location name can be annoying for some places in the world, because they keep changing their names over-->
+    <!--time.  maybe it even happens all over the place. when a location is renamed, that must be recorded-->
+    <!--as an event in CIDOC-CRM. this block is multiple in order to allow for renaming history, if there is any.-->
+    <LocationName>{ "multiple": true, "required": true }
+
+        <!--what is the actual name of this place? of course cannot be empty-->
+        <Appelation>{ "required": true }</Appelation>
+
+        <!--locations can be big or small, and they contain each other.  there are very many types of locations, from-->
+        <!--continents to villages or even cemeteries or swamps, you name it.  we have a list of 668 types of locations-->
+        <!--from geonames (english names) but that could easily be overkill for now.  we should compile a list of values-->
+        <!--that are actually used in practice by the HKKs and other collections, with Dutch labels.  we can later-->
+        <!--easily find the appropriate URIs to authority data.-->
+        <!--for example: straat, buurtschap, kerkhof, dorp, stad, rivier-->
+        <LocationNameType>{ "required":true, "vocabulary":"LocationNameType" }</LocationNameType>
+
+        <!--as locations change their names over time, we have to record events.  presumably there are official documents-->
+        <!--regarding when the names were changed. if there is one one name over time, leave this blank. if there are-->
+        <!--multiple name blocks, this field should be filled in.  this validation can later be automated.-->
         <LocationNameAttributionDate>{ "validator": "date" }</LocationNameAttributionDate>
-        <LocationNameExpiryDate>{ "validator": "date" }</LocationNameExpiryDate>
-        <LocationNameNote>{“paragraph”:true}</LocationNameNote>
-        <LocationAlternateName>{“multiple”:true}
-            <LocationAlternateNameAppellation>{"vocabulary":"LocationName"}</LocationAlternateNameAppellation>
-            <AlternateNameAttributionDate>{ "validator": "date" }</AlternateNameAttributionDate>
-            <AlternateNameExpiryDate>{ "validator": "date" }</AlternateNameExpiryDate>
-            <AlternateNameNote>{“paragraph”:true}</AlternateNameNote>
-        </LocationAlternateName>
+
+        <!--which organization was responsible for the attribution of this name, if known-->
+        <LocationNameAttributedBy>{ "instance": "Organization" }</LocationNameAttributedBy>
+
+        <!--if there is some information in the source that would help describe something about this naming event-->
+        <!--but it doesn't fit into any of the above fields, save it here so it is not lost.-->
+        <Comments>{ "paragraph": true }</Comments>
+
     </LocationName>
+
+    <!--this field points to the geonames, such as the one for 's Hertogenbosh http://www.geonames.org/2747351, if it-->
+    <!--is available or can be dependably determined.  otherwise we can later match locations, automatically or -->
+    <!--manually.  the lookup is currently not implemented, but it will be done when it can be done properly-->
+    <GeonamesURI>{ "validator": "URI", "lookup": "Geonames" }</GeonamesURI>
+
+    <!--the actual whereabouts of the center of the location so that it can be located on a map display.  this information-->
+    <!--can be fetched via the Geonames if the URI above is known, but it can be convenient to have a local copy to-->
+    <!--display without having to fetch each entry.  -->
     <Coordinates>
         <Longitude>{ "validator": "longitude" }</Longitude>
         <Latitude>{ "validator": "latitude" }</Latitude>
     </Coordinates>
-    <GeopoliticalHierarchy oscr_id="" oscr_vocabulary=""/>
-    (The line above is taken from the schema of Gerald: I would say the link to the direct
-    administrational parent is
-    enough, for example: in the record of Den Dungen (which is a village in the municipality
-    of Sint Michielsgestel) we
-    link
-    to the record of Sint Michielsgestel)
-    <CodeNumber>{“multiple”:true}
-        (Also from the schema Gerald: I left the lines in this group as they are in the schema of Gerald)
-        <Value/>
-        <Category oscr_id="" oscr_vocabulary="">{ "vocabulary": "term" }</Category>
-        <AttributionDate>{ "validator": "date" }</AttributionDate>
-        <ExpiryDate>{ "validator": "date" }</ExpiryDate>
-        <AttributedBy oscr_id="" oscr_vocabulary="">{ "lookup": [ "person" ] }</AttributedBy>
-    </CodeNumber>
+
+    <!--if there is some information in the source that would help describe something about this location-->
+    <!--but it doesn't fit into any of the above fields, save it here so it is not lost.-->
+    <Comments>{ "paragraph": true }</Comments>
+
 </Location>
