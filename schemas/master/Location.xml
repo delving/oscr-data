@@ -15,7 +15,8 @@
     <LocationName>{ "multiple": true, "required": true }
 
         <!--what is the actual name of this place? of course cannot be empty-->
-        <Appelation>{ "required": true }</Appelation>
+        <!--its value is picked up to show as label in a choice list-->
+        <Appelation>{ "required": true, "summaryField": "Title" }</Appelation>
 
         <!--locations can be big or small, and they contain each other.  there are very many types of locations, from-->
         <!--continents to villages or even cemeteries or swamps, you name it.  we have a list of 668 types of locations-->

@@ -50,6 +50,21 @@
 
     </Marriage>
 
+    <!--did anything particularly interesting happen to this person-->
+    <SignificantLifeEvent>{ "multiple": true }
+
+        <!--these should be describing what happened.  they can later be mapped to authority terms-->
+        <LifeEventType>{ "vocabulary": "LifeEventType" }</LifeEventType>
+
+        <!--when did this event take place-->
+        <DateOfevent>{ "validator": "timePrimitive" }</DateOfevent>
+
+        <!--anything that should be said about this event-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </SignificantLifeEvent>
+
+    <!--for living people we fortunately do not yet have to have this value available-->
     <Death>
 
         <!--when did they pass? a time primitive can be any recognizable indication of time which is available-->
