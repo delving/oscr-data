@@ -1,0 +1,159 @@
+
+<!--a publication is a book or periodical, indicated by its type-->
+<!--todo: note that this schema may best be adjusted during migration, based on what data is available in the source        -->
+
+<Publication>
+
+    <!--is this a book, periodical, a series, an anthology, a biography.  any of these can easily later be linked-->
+    <!--to terminology vocabularies which classify them more accurately.-->
+    <PublicationType>{ "vocabulary": "PublicationType" }</PublicationType>
+
+    <!--every publication must have one, or be called "untitled".  its value is used in choice lists of publications.-->
+    <Title>{ "required": true, "summaryField": "Title" }</Title>
+
+    <!--in which language was this publication written-->
+    <Language>{ "vocabulary": "Language" }</Language>
+
+    <!--what the publication is about-->
+    <Subject>{ "paragraph": true }</Subject>
+
+    <!--a specific code-->
+    <ISBN>{ "validator": "ISBN" }</ISBN>
+
+    <!--more things to say about this publication-->
+    <Description>{ "paragraph":true }</Description>
+
+    <!--if this publication represents a collection of other publications-->
+    <Contains>{ "instance": "Publication", "multiple": true }</Contains>
+
+    <!--this may be a short story which has been taken up in a number of anthologies-->
+    <IsContainedIn>{ "instance": "Publication", "multiple": true }</IsContainedIn>
+
+    <!--when where and by whom was this publication created-->
+    <Creation>
+        <!--when-->
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
+
+        <!--by whom in what role?-->
+        <Creator>{ "multiple : true" }
+
+            <!--did a person create this publication?-->
+            <Person>{ "instance": "Person" }</Person>
+
+            <!--or was it created by an organization?-->
+            <Organization>{ "instance": "Organization" }</Organization>
+
+            <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
+            <Type>{ "vocabulary": "PublicationCreationRole" }</Type>
+
+        </Creator>
+
+        <!--where was it created?-->
+        <CreationPlace>{ "instance": "Location" }</CreationPlace>
+
+    </Creation>
+
+    <!--describe the publications of this publication, sorry for the aliteration-->
+    <Publication>
+
+        <!--a clearly discernible description of when the publication took place-->
+        <PublicationDate>{ "vocabulary": "timePrimitive" }</PublicationDate>
+
+        <!--what published this?-->
+        <PublisherOrganization>{ "instance": "Organization" }</PublisherOrganization>
+
+        <!--was it perhaps self-published by someone?-->
+        <PublisherPerson>{ "instance": "Person" }</PublisherPerson>
+
+        <!--anything else to say about this publication-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Publication>
+
+    <!--who or what owns this publication-->
+    <Acquisition>{ "multiple": true }
+
+        <!--who-->
+        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
+
+        <!--what organization?-->
+        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+
+        <!--what kind of acquisition was this-->
+        <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
+
+        <!--what condition was it in when it was acquired-->
+        <Condition>{ "vocabulary": "PublicationCondition" }</Condition>
+
+        <!--anything to say about this acquisition?-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Acquisition>
+
+    <!--who holds the rights to this publication?-->
+    <Copyright>
+
+        <!--a person-->
+        <CopyrightHolderPerson>{ "instance": "Person" }</CopyrightHolderPerson>
+
+        <!--an organization-->
+        <CopyrightHolderOrganization>{ "instance": "Organization" }</CopyrightHolderOrganization>
+
+        <!--how do they licence it in terms of creative commons?-->
+        <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
+
+        <!--any other information about this copyright-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Copyright>
+
+    <!--if this publication refers to some identifiable entity it can be recorded here-->
+    <RefersTo>{ "multiple": true }
+
+        <!--in what way does this publication refer to the entity?-->
+        <!--these can someday be mapped to terminology authorities and used for searching-->
+        <ReferenceType>{ "vocabulary": "PublicationReferenceType" }</ReferenceType>
+
+        <!--to whom does this publication refer? -->
+        <Person>{ "instance": "Person" }</Person>
+
+        <!--to which organization does it refer?-->
+        <Organization>{ "instance": "Organization" }</Organization>
+
+        <!--to what location does it refer?-->
+        <Location>{ "instance": "Location" }</Location>
+
+        <!--does it refer to a particular historical event?-->
+        <HistoricalEvent>{ "instance": "HistoricalEvent" }</HistoricalEvent>
+
+        <!--anything else to record about this reference?-->
+        <Comment>{ "paragraph":true }</Comment>
+
+    </RefersTo>
+
+    <!--where can the physical copy be found?-->
+    <StorageLocation>
+
+        <!--locations can be quite specific, but not down to shelf position of course-->
+        <Location>{ "instance": "Location" }</Location>
+
+        <!--the format may vary depending on how people find things-->
+        <SpecificLocation/>
+
+    </StorageLocation>
+
+    <!--is there a digital representation we can use-->
+    <DigitalObject>{ "multiple": true }
+
+        <!--the actual file that holds the bits-->
+        <File>{ "instance": "MediaMetadata }</File>
+
+        <!--when was this digital representation created?-->
+        <CreationDate>{ "validator": "date" }</CreationDate>
+
+        <!--anything else to say about this digital representation-->
+        <Comments>{ "paragraph":true }</Comments>
+
+    </DigitalObject>
+
+</Publication>
