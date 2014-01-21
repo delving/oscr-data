@@ -161,7 +161,7 @@
         <Format>{ "vocabulary": "PhysicalFilmFormats" }</Format>
 
         <!--selection from a list of materials that are used to make films-->
-        <Material>{ "vocabulary": "PhysicalFilmMaterials"</Material>
+        <Material>{ "vocabulary": "PhysicalFilmMaterials" }</Material>
 
         <!--any other properties of the physical film-->
         <PhysicalProperty>{ "multiple": true }

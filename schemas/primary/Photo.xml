@@ -22,13 +22,19 @@
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--by whom in what role?-->
-        <Creator>{ "multiple : true" }
+        <Creator>{ "multiple" : true }
 
             <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
             <CreationRole>{ "vocabulary": "PhotoCreationRole" }</CreationRole>
 
             <!--did a person create this photo?-->
             <Person>{ "instance": "Person" }</Person>
+
+            <!--or was it created by an organization?-->
+            <Organization>{ "instance": "Organization" }</Organization>
+
+            <!--or was it created by an organization?-->
+            <Organization>{ "instance": "Organization" }</Organization>
 
             <!--or was it created by an organization?-->
             <Organization>{ "instance": "Organization" }</Organization>
@@ -60,7 +66,7 @@
     <!--describe the publications-->
     <Publication>{ "multiple": true }
 
-        has this photo been published in a
+        <!--has this photo been published in a-->
         <PublishedIn>{ "instance": "Publication" }</PublishedIn>
 
         <!--anything else to say about the publication of this photo-->
@@ -152,22 +158,22 @@
     <PhysicalObject>
 
         <!--selection from a list of possible film formats-->
-        <Format>{ "vocabulary": "PhysicalFilmFormats" }</Format>
+        <Format>{ "vocabulary": "PhysicalPhotoFormats" }</Format>
 
         <!--selection from a list of materials that are used to make films-->
-        <Material>{ "vocabulary": "PhysicalFilmMaterials"</Material>
+        <Material>{ "vocabulary": "PhysicalPhotoMaterials" }</Material>
 
         <!--any other properties of the physical photo-->
         <PhysicalProperty>{ "multiple": true }
 
             <!--what is the name of this property-->
-            <Type>{ "vocabulary": "PhotoPhysicalPropertyType" }</Type>
+            <Type>{ "vocabulary": "PhysicalPhotoPropertyType" }</Type>
 
             <!--the value of the property-->
             <Value/>
 
             <!--in which unit is the value expressed?-->
-            <Unit>{ "vocabulary": "PhotoPhysicalPropertyUnit" }</Unit>
+            <Unit>{ "vocabulary": "PhysicalPhotoPropertyUnit" }</Unit>
 
             <!--perhaps describe the means of taking the measurement, or related information-->
             <Comment/>
