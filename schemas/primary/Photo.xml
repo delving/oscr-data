@@ -6,6 +6,9 @@
     <!--what is the title of this photo?  this is used for list display-->
     <Title>{ "required": true, "summaryField": "Title" }</Title>
 
+    <!--a description of this photo-->
+    <Description>{ "paragraph":true }</Description>
+
     <!--what type of photo is this?  a negative, a print?  later these can be associated with authority terms-->
     <Type>{ "vocabulary": "PhotoType" }</Type>
 
@@ -13,7 +16,7 @@
     <Collection>{ "vocabulary": "PhotoCollection" }</Collection>
 
     <!--when where and by whom was this photo created-->
-    <Creation>
+    <Creation>{ "multiple" : true }
 
         <!--when-->
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>

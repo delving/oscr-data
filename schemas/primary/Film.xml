@@ -6,6 +6,9 @@
     <!--what is the film called?  the value is used in list displays-->
     <Title>{ "required": true, "summaryField": "Title" }</Title>
 
+    <!--a description of this film-->
+    <Description>{ "paragraph":true }</Description>
+
     <!--which language was this film in-->
     <Language>{ "vocabulary": "Language" }</Language>
 
@@ -13,7 +16,7 @@
     <Collection>{ "vocabulary": "FilmCollection" }</Collection>
 
     <!--when where and by whom was this film created-->
-    <Creation>
+    <Creation>{ "multiple": true }
 
         <!--when-->
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>

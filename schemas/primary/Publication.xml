@@ -30,7 +30,7 @@
     <IsContainedIn>{ "instance": "Publication", "multiple": true }</IsContainedIn>
 
     <!--when where and by whom was this publication created-->
-    <Creation>
+    <Creation>{ "multiple": true }
 
         <!--when-->
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
