@@ -33,12 +33,6 @@
             <!--or was it created by an organization?-->
             <Organization>{ "instance": "Organization" }</Organization>
 
-            <!--or was it created by an organization?-->
-            <Organization>{ "instance": "Organization" }</Organization>
-
-            <!--or was it created by an organization?-->
-            <Organization>{ "instance": "Organization" }</Organization>
-
         </Creator>
 
         <!--where was it created?-->
