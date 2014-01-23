@@ -8,10 +8,10 @@
     <Person>{ "instance": "Person" }</Person>
 
     <!--what kind of memoriam is this?  are there actually types distinguished?-->
-    <Type>{"vocabulary": "InMemoriamType"}</Type>
+    <Type>{ "vocabulary": "MemoriamType" }</Type>
 
     <!--when was this memoriam published, if different than the persons date of death-->
-    <Date>{"validator": "timePrimitive"}</Date>
+    <Date>{ "validator": "timePrimitive" }</Date>
 
     <!--any descriptive comments-->
     <Description>{ "paragraph":true }</Description>
@@ -34,7 +34,7 @@
     <Front>{ "multiple": true }
 
         <!--the actual file-->
-        <FrontScan>{ "instance": "MediaMetadata"</FrontScan>
+        <FrontScan>{ "instance": "MediaMetadata" }</FrontScan>
 
         <!--what is written on the front-->
         <Text>{ "paragraph": true, "multiple": true }</Text>
@@ -68,7 +68,7 @@
         <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
 
         <!--what kind of acquisition was this-->
-        <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
+        <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
 
         <!--what condition was it in when it was acquired-->
         <Condition>{ "vocabulary": "PublicationCondition" }</Condition>

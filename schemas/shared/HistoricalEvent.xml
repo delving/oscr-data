@@ -6,11 +6,11 @@
     <!--at least we must have a name for it-->
     <Appellation>{ "required": true }</Appellation>
 
-    how would this event be described?
+    <!--how would this event be described?-->
     <Description>{ "paragraph": true }</Description>
 
     <!--when did it happen?-->
-    <EventTime>{ "validator": "timePrimitive" </EventTime>
+    <EventTime>{ "validator": "timePrimitive" }</EventTime>
 
     <!--where on the map did the event take place?-->
     <EventLocation>{ "instance": "Location" }</EventLocation>
@@ -29,7 +29,7 @@
 
         <!--how did this person participate in this event.  these should be recorded in understandable Dutch-->
         <!--terms because we can later link them to authority terms about particpation.-->
-        <EventParticipationRole>{ "vocabulary": EventParticipationRole }</EventParticipationRole>
+        <EventParticipationRole>{ "vocabulary": "EventParticipationRole" }</EventParticipationRole>
 
     </Participant>
 
@@ -37,10 +37,10 @@
     <DigitalObject>{ "multiple": true }
 
         <!--the actual file that holds the bits-->
-        <File>{ "instance": "MediaMetadata }</File>
+        <File>{ "instance": "MediaMetadata" }</File>
 
         <!--when was this digital representation created?-->
-        <CreationDate>{ "validator": "date" }</CreationDate>
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--anything else to say about this digital representation-->
         <Comments>{ "paragraph":true }</Comments>

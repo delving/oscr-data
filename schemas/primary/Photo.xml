@@ -128,7 +128,7 @@
         <File>{ "instance": "MediaMetadata" }</File>
 
         <!--when was this digital representation created?-->
-        <CreationDate>{ "validator": "date" }</CreationDate>
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--what are the technical properties of the film?-->
         <!--this is an open ended set of properties, the types of which can later be mapped-->

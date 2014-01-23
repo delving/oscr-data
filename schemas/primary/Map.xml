@@ -37,7 +37,7 @@
 
     <DigitalObject>{ "multiple": true }
         <File>{ "instance": "MediaMetadata }</File>
-        <CreationDate>{ "validator": "date" }</CreationDate>
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
         <Comment>{ "paragraph":true }</Comment>
     </DigitalObject>
 

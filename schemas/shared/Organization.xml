@@ -33,7 +33,7 @@
 
         <!--were they members of a certain kind, in a certain role.  for now use Dutch labels, we can later-->
         <!--decide to match to authority values-->
-        <MembershipType>{ "vocabulary": "OrganizationMembershipType }</MembershipType>
+        <MembershipType>{ "vocabulary": "OrganizationMembershipType" }</MembershipType>
 
         <!--when did they start as member-->
         <MembershipBeginDate>{ "validator": "timePrimitive" }</MembershipBeginDate>

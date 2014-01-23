@@ -36,7 +36,7 @@
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--by whom in what role?-->
-        <Creator>{ "multiple : true" }
+        <Creator>{ "multiple" : true }
 
             <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
             <CreationRole>{ "vocabulary": "PublicationCreationRole" }</CreationRole>
@@ -84,7 +84,7 @@
         <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
 
         <!--what kind of acquisition was this-->
-        <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
+        <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
 
         <!--what condition was it in when it was acquired-->
         <Condition>{ "vocabulary": "PhysicalCondition" }</Condition>
@@ -153,7 +153,7 @@
         <File>{ "instance": "MediaMetadata" }</File>
 
         <!--when was this digital representation created?-->
-        <CreationDate>{ "validator": "date" }</CreationDate>
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--anything else to say about this digital representation-->
         <Comments>{ "paragraph":true }</Comments>
