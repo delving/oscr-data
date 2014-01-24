@@ -7,7 +7,7 @@
     <!--we are assuming here that an organization has one name for now and that it does not change over time.-->
     <!--if we decide that enough organizations change their names over time, they should be recorded as-->
     <!--naming events, with the associated actors and attribution dates recorded-->
-    <Appellation>{ "required": true }</Appellation>
+    <Appellation>{ "required": true, "summaryField": "Title"  }</Appellation>
 
     <!--for the time being we should record the type of organization in the terms used by the source data, with-->
     <!--Dutch labels so that everyone understands.  later we can find matching URIs to authority lists of-->

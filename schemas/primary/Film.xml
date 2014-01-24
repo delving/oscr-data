@@ -125,7 +125,7 @@
     <DigitalObject>{ "multiple": true }
 
         <!--the actual file that holds the bits-->
-        <File>{ "instance": "MediaMetadata" }</File>
+        <File>{ "media": "MediaMetadata" }</File>
 
         <!--when was this digital representation created?-->
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>

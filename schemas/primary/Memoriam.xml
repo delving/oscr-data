@@ -34,7 +34,7 @@
     <Front>{ "multiple": true }
 
         <!--the actual file-->
-        <FrontScan>{ "instance": "MediaMetadata" }</FrontScan>
+        <FrontScan>{ "media": "MediaMetadata" }</FrontScan>
 
         <!--what is written on the front-->
         <Text>{ "paragraph": true, "multiple": true }</Text>
@@ -48,7 +48,7 @@
     <Back>{ "multiple": true }
 
         <!--the actual file-->
-        <BackScan>{ "instance": "MediaMetadata" }</BackScan>
+        <BackScan>{ "media": "MediaMetadata" }</BackScan>
 
         <!--what is written on the back of the card?-->
         <Text>{ "paragraph": true, "multiple": true }</Text>

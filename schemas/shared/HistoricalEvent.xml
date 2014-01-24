@@ -4,7 +4,7 @@
 <HistoricalEvent>
 
     <!--at least we must have a name for it-->
-    <Appellation>{ "required": true }</Appellation>
+    <Appellation>{ "required": true, "summaryField": "Title" }</Appellation>
 
     <!--how would this event be described?-->
     <Description>{ "paragraph": true }</Description>
@@ -37,7 +37,7 @@
     <DigitalObject>{ "multiple": true }
 
         <!--the actual file that holds the bits-->
-        <File>{ "instance": "MediaMetadata" }</File>
+        <File>{ "media": "MediaMetadata" }</File>
 
         <!--when was this digital representation created?-->
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>

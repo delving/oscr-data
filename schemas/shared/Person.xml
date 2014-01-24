@@ -4,7 +4,7 @@
 <Person>
 
     <!--this would be the name that they are commonly called, in Dutch "roepnaam", defaulting to their proper name.-->
-    <Appellation>{ "required": true }</Appellation>
+    <Appellation>{ "required": true, "summaryField": "Title" }</Appellation>
 
     <!--a person may have mulitple given names.  their order is important but will be maintained in this document.-->
     <GivenName>{ "multiple": true }</GivenName>

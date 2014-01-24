@@ -7,7 +7,7 @@
     <!--in the absence of any other information, this field records a human-readable comma-delimited list which starts-->
     <!--with continent and zooms in on the intended location.  This is for humans to read later if the link has yet to-->
     <!--be made to an authority list. There is no good reason to omit this, so it is required.-->
-    <GeopoliticalHierarchy>{ "required":true }</GeopoliticalHierarchy>
+    <GeopoliticalHierarchy>{ "required":true, "summaryField": "Title"  }</GeopoliticalHierarchy>
 
     <!--the location name can be annoying for some places in the world, because they keep changing their names over-->
     <!--time.  maybe it even happens all over the place. when a location is renamed, that must be recorded-->
@@ -16,7 +16,7 @@
 
         <!--what is the actual name of this place? of course cannot be empty-->
         <!--its value is picked up to show as label in a choice list-->
-        <Appelation>{ "required": true, "summaryField": "Title" }</Appelation>
+        <Appelation>{ "required": true }</Appelation>
 
         <!--locations can be big or small, and they contain each other.  there are very many types of locations, from-->
         <!--continents to villages or even cemeteries or swamps, you name it.  we have a list of 668 types of locations-->
