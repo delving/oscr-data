@@ -36,7 +36,7 @@
     </PhysicalObject>
 
     <DigitalObject>{ "multiple": true }
-        <File>{ "media": "MediaMetadata }</File>
+        <File>{ "media": "MediaMetadata, "summaryField": "Thumbnail" }</File>
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
         <Comment>{ "paragraph":true }</Comment>
     </DigitalObject>
