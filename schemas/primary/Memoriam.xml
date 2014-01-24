@@ -4,6 +4,9 @@
 
 <Memoriam>
 
+    <!--the title of the memoriam, or the person's name-->
+    <Title>{ "summaryField": "Title" }</Title>
+
     <!--who is the subject of the memoriam-->
     <Person>{ "instance": "Person" }</Person>
 
