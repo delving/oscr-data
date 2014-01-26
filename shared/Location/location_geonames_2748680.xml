@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748680</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461431</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Sint Anthonis &gt; Peelstraat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Sint Anthonis,Peelstraat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Peelstraat</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.825</Longitude>
+        <Latitude>51.64833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748680</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

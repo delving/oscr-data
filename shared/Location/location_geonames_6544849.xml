@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544849</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461848</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Groene Woud</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Groene Woud</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Groene Woud</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.2819400000000005</Longitude>
+        <Latitude>51.50333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544849</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

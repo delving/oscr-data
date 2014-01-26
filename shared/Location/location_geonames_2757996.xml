@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757996</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461692</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Castelré</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Castelré</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Castelré</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Kastelree</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.78333</Longitude>
+        <Latitude>51.424170000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757996</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

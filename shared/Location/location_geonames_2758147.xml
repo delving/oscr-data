@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758147</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463011</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Buiten Gebent</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Buiten Gebent</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Buiten Gebent</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.350709999999999</Longitude>
+        <Latitude>51.46249</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758147</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

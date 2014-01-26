@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754948</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461391</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Halder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Halder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Halder</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3236099999999995</Longitude>
+        <Latitude>51.64917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754948</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

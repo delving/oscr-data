@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749288</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462154</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Sint Anthonis &gt; Gemeente Sint Anthonis</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Sint Anthonis,Gemeente Sint Anthonis</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Sint Anthonis</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>Gemeente Sint Anthonis,Sint Anthonis,Sint Anthonis en Ledeacker, Gemeente Oploo</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.84354</Longitude>
+        <Latitude>51.61826</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749288</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

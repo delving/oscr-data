@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751061</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461312</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cranendonck &gt; Meemortel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cranendonck,Meemortel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Meemortel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.58333</Longitude>
+        <Latitude>51.2675</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751061</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754603</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461220</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Heibloem</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Heibloem</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heibloem</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5</Longitude>
+        <Latitude>51.66667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754603</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

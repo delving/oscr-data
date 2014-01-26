@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6468204</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462441</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; NH Koningshof</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,NH Koningshof</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>NH Koningshof</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3867</Longitude>
+        <Latitude>51.3934</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6468204</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

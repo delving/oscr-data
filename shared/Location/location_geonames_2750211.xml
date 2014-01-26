@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750211</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463250</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Nieuwewiel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Nieuwewiel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nieuwewiel</Appelation>
+        <LocationNameType>lake</LocationNameType>
+        <Comments>Binnenwiel,Nieuwewiel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.183330000000001</Longitude>
+        <Latitude>51.71667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750211</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

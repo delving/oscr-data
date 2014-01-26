@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756289</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462777</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder van den Eigen en Empel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder van den Eigen en Empel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder van den Eigen en Empel</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.38333</Longitude>
+        <Latitude>51.73333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756289</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

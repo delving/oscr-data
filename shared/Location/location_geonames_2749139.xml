@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749139</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462709</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oude Fijnaartpolder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oude Fijnaartpolder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oude Fijnaartpolder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.48647</Longitude>
+        <Latitude>51.64541</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749139</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

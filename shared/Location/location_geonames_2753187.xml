@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753187</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462746</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Jufvrouwenpolder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Jufvrouwenpolder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Jufvrouwenpolder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.4415</Longitude>
+        <Latitude>51.63411</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753187</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

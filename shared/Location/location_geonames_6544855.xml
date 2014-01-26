@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544855</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461669</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Op den Bosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Op den Bosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Op den Bosch</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>6.02083</Longitude>
+        <Latitude>51.58333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544855</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

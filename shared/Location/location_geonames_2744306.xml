@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744306</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463660</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Wit Holland</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Wit Holland</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Wit Holland</Appelation>
+        <LocationNameType>lakes</LocationNameType>
+        <Comments>Wit Holland,Withollandsveen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.24625</Longitude>
+        <Latitude>51.44873</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744306</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

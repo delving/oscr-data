@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755069</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463663</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Grote Meer</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Grote Meer</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Grote Meer</Appelation>
+        <LocationNameType>lakes</LocationNameType>
+        <Comments>Groote Meer</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.37932</Longitude>
+        <Latitude>51.4063</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755069</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

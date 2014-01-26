@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750602</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461182</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Morsche Hoef</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Morsche Hoef</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Morsche Hoef</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Moorse Hoef</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.61111</Longitude>
+        <Latitude>51.61</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750602</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

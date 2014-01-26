@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754078</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461293</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hild</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hild</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hild</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.19722</Longitude>
+        <Latitude>51.53917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754078</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

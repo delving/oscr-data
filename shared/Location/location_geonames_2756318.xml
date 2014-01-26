@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756318</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461781</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Eethen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Eethen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Eethen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Eeten,Eten</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.05278</Longitude>
+        <Latitude>51.7325</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756318</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

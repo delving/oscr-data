@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748054</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461618</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rinkveld</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rinkveld</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rinkveld</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.78611</Longitude>
+        <Latitude>51.4</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748054</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

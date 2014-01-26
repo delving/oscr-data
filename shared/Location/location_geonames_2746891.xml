@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746891</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462006</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sprokkelbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sprokkelbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sprokkelbosch</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Sprokkelenbosch</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.38333</Longitude>
+        <Latitude>51.72083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746891</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743934</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461259</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Landerd &gt; Zevenhuis</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Landerd,Zevenhuis</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zevenhuis</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Zevenhuizen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.65972</Longitude>
+        <Latitude>51.7</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743934</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

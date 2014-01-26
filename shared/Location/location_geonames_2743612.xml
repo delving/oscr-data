@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743612</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462817</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zurenhoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zurenhoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zurenhoek</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.34906</Longitude>
+        <Latitude>51.5443</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743612</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

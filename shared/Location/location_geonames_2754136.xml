@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754136</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461620</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heusden</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heusden</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heusden</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.76389</Longitude>
+        <Latitude>51.384170000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754136</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

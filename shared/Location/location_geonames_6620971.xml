@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6620971</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463751</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Stadhuis 's-Hertogenbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Stadhuis 's-Hertogenbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Stadhuis 's-Hertogenbosch</Appelation>
+        <LocationNameType>historical site</LocationNameType>
+        <Comments>Town Hall</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.30316</Longitude>
+        <Latitude>51.688390000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6620971</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

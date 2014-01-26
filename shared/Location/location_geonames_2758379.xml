@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758379</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462811</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Breede Watergang</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Breede Watergang</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Breede Watergang</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.323119999999999</Longitude>
+        <Latitude>51.58498</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758379</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

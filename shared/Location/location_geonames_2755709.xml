@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755709</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461319</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cranendonck &gt; Gastel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cranendonck,Gastel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gastel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Gassel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.55556</Longitude>
+        <Latitude>51.28583</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755709</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

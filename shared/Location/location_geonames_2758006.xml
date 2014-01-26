@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758006</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463849</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Capelse Veer</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Capelse Veer</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Capelse Veer</Appelation>
+        <LocationNameType>ferry</LocationNameType>
+        <Comments>Capelse Veer,Kapelsche-Veer</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9833300000000005</Longitude>
+        <Latitude>51.71667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758006</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

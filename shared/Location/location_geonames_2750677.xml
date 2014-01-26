@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750677</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463700</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Molenplaat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Molenplaat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Molenplaat</Appelation>
+        <LocationNameType>tidal flat(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.23687</Longitude>
+        <Latitude>51.49201</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750677</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

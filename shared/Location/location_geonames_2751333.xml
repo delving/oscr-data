@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751333</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461056</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Maalbergen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Maalbergen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Maalbergen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.65972</Longitude>
+        <Latitude>51.43833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751333</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

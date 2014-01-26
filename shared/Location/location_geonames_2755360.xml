@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755360</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462773</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Grauwelgorsche Polder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Grauwelgorsche Polder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Grauwelgorsche Polder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.66818</Longitude>
+        <Latitude>51.63687</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755360</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

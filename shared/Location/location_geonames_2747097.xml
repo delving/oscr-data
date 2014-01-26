@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747097</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463064</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Smalle Beek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Smalle Beek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Smalle Beek</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.37925</Longitude>
+        <Latitude>51.54361</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747097</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

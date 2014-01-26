@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747308</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462852</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Singelheide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Singelheide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Singelheide</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.86851</Longitude>
+        <Latitude>51.42054</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747308</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

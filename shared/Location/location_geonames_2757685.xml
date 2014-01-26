@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757685</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462388</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Doornakkers</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Doornakkers</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Doornakkers</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments>Doornakkers</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.50887</Longitude>
+        <Latitude>51.43844</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757685</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

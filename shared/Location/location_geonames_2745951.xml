@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745951</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463497</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Ulicootsche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Ulicootsche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Ulicootsche Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Ulicootsche Heide,Ulicootse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.872319999999999</Longitude>
+        <Latitude>51.44015</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745951</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

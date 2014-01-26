@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751988</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463468</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Landgoed Gorp en Rovert</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Landgoed Gorp en Rovert</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Landgoed Gorp en Rovert</Appelation>
+        <LocationNameType>area</LocationNameType>
+        <Comments>Gorp en Rovert,Landgoed Gorp en Rovert</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.0793099999999995</Longitude>
+        <Latitude>51.48842</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751988</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

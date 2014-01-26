@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757876</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462138</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Laarbeek &gt; Kasteel Croy</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Laarbeek,Kasteel Croy</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kasteel Croy</Appelation>
+        <LocationNameType>castle</LocationNameType>
+        <Comments>Croij</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.62472</Longitude>
+        <Latitude>51.5</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757876</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

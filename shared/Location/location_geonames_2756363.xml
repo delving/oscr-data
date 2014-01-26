@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756363</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462090</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Eeneind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Eeneind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Eeneind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.547219999999999</Longitude>
+        <Latitude>51.45167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756363</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

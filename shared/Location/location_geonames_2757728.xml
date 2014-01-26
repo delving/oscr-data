@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757728</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463641</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Bult</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Bult</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Bult</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Bult,De Bult</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.85</Longitude>
+        <Latitude>51.5</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757728</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

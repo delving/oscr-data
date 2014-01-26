@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757904</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462192</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hoeve Corsica</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hoeve Corsica</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hoeve Corsica</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.52952</Longitude>
+        <Latitude>51.59617</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757904</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

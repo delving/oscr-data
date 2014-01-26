@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759065</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461229</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Berkt</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Berkt</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Berkt</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4972199999999996</Longitude>
+        <Latitude>51.71667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759065</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

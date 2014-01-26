@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759451</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462813</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bameerloop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bameerloop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bameerloop</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.34587</Longitude>
+        <Latitude>51.52918</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759451</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747460</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463067</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Schouwloop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Schouwloop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Schouwloop</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9006300000000005</Longitude>
+        <Latitude>51.41259</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747460</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

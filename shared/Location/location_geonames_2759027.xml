@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759027</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461667</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Beugen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Beugen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Beugen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Boeghen,Boghen,Boghene,Bughine</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.9375</Longitude>
+        <Latitude>51.674170000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759027</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752720</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463720</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gat van den Kleinen Hil</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gat van den Kleinen Hil</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gat van den Kleinen Hil</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments>Gat van de Kleine Hil,Gat van den Kleinen Hil</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7395</Longitude>
+        <Latitude>51.74192</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752720</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

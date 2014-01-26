@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746509</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462795</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Teeffelsche Wetering</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Teeffelsche Wetering</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Teeffelsche Wetering</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments>Teeffelsche Wetering,Tefelsche Wetering</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.51431</Longitude>
+        <Latitude>51.79557</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746509</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

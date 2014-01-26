@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749233</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462178</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Oss</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Oss</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Oss</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>Gemeente Oss,Oss</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.58111</Longitude>
+        <Latitude>51.78103</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749233</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

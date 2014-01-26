@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746344</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462378</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; ’t Hool</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,’t Hool</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>’t Hool</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4833300000000005</Longitude>
+        <Latitude>51.48333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746344</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

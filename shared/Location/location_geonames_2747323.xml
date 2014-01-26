@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747323</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462200</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Sint Anthonis &gt; Silserhoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Sint Anthonis,Silserhoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Silserhoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.8343</Longitude>
+        <Latitude>51.60233</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747323</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

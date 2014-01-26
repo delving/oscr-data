@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743618</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462143</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Zundert</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Zundert</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Zundert</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>Gemeente Zundert,Zundert</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6418</Longitude>
+        <Latitude>51.47352</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743618</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

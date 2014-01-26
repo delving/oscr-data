@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758967</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461913</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Biesthoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Biesthoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Biesthoek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.65139</Longitude>
+        <Latitude>51.62833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758967</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

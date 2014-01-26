@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6843496</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463467</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Halve Maan</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Halve Maan</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Halve Maan</Appelation>
+        <LocationNameType>nature reserve</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.02779</Longitude>
+        <Latitude>51.49218</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6843496</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

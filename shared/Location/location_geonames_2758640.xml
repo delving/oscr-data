@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758640</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460986</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Boompjesdijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Boompjesdijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boompjesdijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Boompjes,Drogendijk</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.31806</Longitude>
+        <Latitude>51.62167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758640</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

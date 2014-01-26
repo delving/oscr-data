@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758884</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461912</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bitswijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bitswijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bitswijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.60921</Longitude>
+        <Latitude>51.6687</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758884</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

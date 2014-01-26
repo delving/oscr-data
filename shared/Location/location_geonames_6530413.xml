@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6530413</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462443</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Made en Drimmelen &gt; Bw Hotel De Korenbeurs</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Made en Drimmelen,Bw Hotel De Korenbeurs</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bw Hotel De Korenbeurs</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7945</Longitude>
+        <Latitude>51.6809</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6530413</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

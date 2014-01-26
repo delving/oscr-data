@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759062</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462788</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Berkumpolder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Berkumpolder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Berkumpolder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.68076</Longitude>
+        <Latitude>51.70163</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759062</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748689</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463546</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Peel de Veluwe</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Peel de Veluwe</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Peel de Veluwe</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.81621</Longitude>
+        <Latitude>51.34945</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748689</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

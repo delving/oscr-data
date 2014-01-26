@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754334</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461389</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hersend</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hersend</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hersend</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.39722</Longitude>
+        <Latitude>51.67</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754334</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756726</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462222</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Dongehoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Dongehoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Dongehoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9833300000000005</Longitude>
+        <Latitude>51.63333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756726</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

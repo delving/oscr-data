@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745056</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462321</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Wamberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Wamberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Wamberg</Appelation>
+        <LocationNameType>estate(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.37489</Longitude>
+        <Latitude>51.696290000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745056</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747288</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462798</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sint Anthonisloop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sint Anthonisloop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sint Anthonisloop</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.81451</Longitude>
+        <Latitude>51.69293</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747288</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

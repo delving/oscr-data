@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753972</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462397</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bergeijk &gt; Hof</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bergeijk,Hof</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hof</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments>'t Hof,Het Hof,Hof,’t Hof</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3619</Longitude>
+        <Latitude>51.32221</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753972</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

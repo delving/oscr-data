@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757020</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462234</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Halderberge &gt; De Toekomst</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Halderberge,De Toekomst</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Toekomst</Appelation>
+        <LocationNameType>mill(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.59134</Longitude>
+        <Latitude>51.57666</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757020</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

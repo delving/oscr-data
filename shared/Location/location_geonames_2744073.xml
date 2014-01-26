@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744073</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461447</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zandhoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zandhoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zandhoek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>De Zandhoek</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6625</Longitude>
+        <Latitude>51.5975</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744073</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

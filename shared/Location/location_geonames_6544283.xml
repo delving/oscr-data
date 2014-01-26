@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544283</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462175</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Maasdonk &gt; Gemeente Maasdonk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Maasdonk,Gemeente Maasdonk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Maasdonk</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.45401</Longitude>
+        <Latitude>51.72269</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544283</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

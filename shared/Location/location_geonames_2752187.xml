@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752187</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462068</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kruisschot</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kruisschot</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kruisschot</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6847199999999996</Longitude>
+        <Latitude>51.486670000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752187</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

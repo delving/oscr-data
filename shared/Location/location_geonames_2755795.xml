@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755795</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463624</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gaalsche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gaalsche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gaalsche Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.66115</Longitude>
+        <Latitude>51.7347</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755795</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

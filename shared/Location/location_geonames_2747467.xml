@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747467</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462856</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Schouwbroeken</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Schouwbroeken</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Schouwbroeken</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.68235</Longitude>
+        <Latitude>51.47674</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747467</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

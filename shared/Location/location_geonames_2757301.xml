@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757301</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461127</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Maurik</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Maurik</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Maurik</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.74611</Longitude>
+        <Latitude>51.71522</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757301</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

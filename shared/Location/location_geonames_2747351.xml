@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747351</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463738</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; 's-Hertogenbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,'s-Hertogenbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>'s-Hertogenbosch</Appelation>
+        <LocationNameType>seat of a first-order administrative division</LocationNameType>
+        <Comments>'s Bosch,'s-Hertogenbosch,Bois-le-Duc,Bolduque,Boscoducale,Den Bos,Den Bosch,Hertogenbosch,Herzogenbusch,Khertogenbos,Oeteldonk,Silva Ducis,denbosch,shertogenbosch,Хертогенбос,’s-Hertogenbosch</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.30417</Longitude>
+        <Latitude>51.69917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747351</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

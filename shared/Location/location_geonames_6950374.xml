@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950374</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462244</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Akkermolen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Akkermolen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Akkermolen</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.66715</Longitude>
+        <Latitude>51.47885</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950374</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

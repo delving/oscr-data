@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754288</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462118</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Het Eind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Het Eind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Het Eind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>'t Eind,Eind,Het Eind,’t Eind</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.96552</Longitude>
+        <Latitude>51.618190000000006</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754288</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

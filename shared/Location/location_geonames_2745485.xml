@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745485</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463667</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vischven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vischven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vischven</Appelation>
+        <LocationNameType>marsh(es)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.81489</Longitude>
+        <Latitude>51.41896</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745485</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

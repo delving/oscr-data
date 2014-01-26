@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747874</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462860</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rovertsche Bunt</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rovertsche Bunt</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rovertsche Bunt</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.0644599999999995</Longitude>
+        <Latitude>51.48188</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747874</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759878</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461421</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Almkerk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Almkerk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Almkerk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.95972</Longitude>
+        <Latitude>51.77083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759878</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

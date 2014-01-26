@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950394</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462267</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Genenberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Genenberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Genenberg</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.357530000000001</Longitude>
+        <Latitude>51.63351</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950394</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745135</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462830</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Waaijenberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Waaijenberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Waaijenberg</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments>Waaienberg,Waaijenberg</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.70181</Longitude>
+        <Latitude>51.47139</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745135</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

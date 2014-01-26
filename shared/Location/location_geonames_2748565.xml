@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748565</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463669</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Plakkeven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Plakkeven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Plakkeven</Appelation>
+        <LocationNameType>marsh(es)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.04609</Longitude>
+        <Latitude>51.61495</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748565</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745946</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461428</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Sint Anthonis &gt; Ullingen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Sint Anthonis,Ullingen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Ullingen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Ullinger</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.8583300000000005</Longitude>
+        <Latitude>51.635</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745946</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

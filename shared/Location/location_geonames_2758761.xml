@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758761</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461152</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Roosendaal &gt; Boeiink</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Roosendaal,Boeiink</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boeiink</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.41528</Longitude>
+        <Latitude>51.52917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758761</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

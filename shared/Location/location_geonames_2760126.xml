@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2760126</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463432</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Aalstduinen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Aalstduinen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Aalstduinen</Appelation>
+        <LocationNameType>dune(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.10584</Longitude>
+        <Latitude>51.450179999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2760126</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

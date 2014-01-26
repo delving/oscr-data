@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6640045</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462501</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Halderberge &gt; Station Oudenbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Halderberge,Station Oudenbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Station Oudenbosch</Appelation>
+        <LocationNameType>railroad station</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.53336</Longitude>
+        <Latitude>51.587709999999994</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6640045</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

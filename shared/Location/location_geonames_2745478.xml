@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745478</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463707</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zuidergat van de Vissen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zuidergat van de Vissen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zuidergat van de Vissen</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments>Zuidergat van de Visschen,Zuidergat van de Vissen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7340800000000005</Longitude>
+        <Latitude>51.7308</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745478</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6530772</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462473</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Best Western Euro Hotel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Best Western Euro Hotel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Best Western Euro Hotel</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3067</Longitude>
+        <Latitude>51.6889</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6530772</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

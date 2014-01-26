@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746215</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462377</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Tongelre</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Tongelre</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Tongelre</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments>Tongelre</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.51978</Longitude>
+        <Latitude>51.448890000000006</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746215</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

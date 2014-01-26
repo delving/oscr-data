@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754155</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461294</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heukelom</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heukelom</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heukelom</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Heukelum,Hoog Heukelom,Hoog Heukelum</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1569400000000005</Longitude>
+        <Latitude>51.57667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754155</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

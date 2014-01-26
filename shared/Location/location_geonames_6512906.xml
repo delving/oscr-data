@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6512906</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462437</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Tulip Inn Bergen Op Zoom</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Tulip Inn Bergen Op Zoom</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Tulip Inn Bergen Op Zoom</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.2893</Longitude>
+        <Latitude>51.4899</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6512906</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

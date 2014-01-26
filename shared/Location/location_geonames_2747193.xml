@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747193</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462848</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Slabroeksche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Slabroeksche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Slabroeksche Heide</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments>Slabroek,Slabroeksche Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.60027</Longitude>
+        <Latitude>51.70296</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747193</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

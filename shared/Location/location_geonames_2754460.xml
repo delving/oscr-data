@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754460</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462927</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hellegatsplein</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hellegatsplein</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hellegatsplein</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.38333</Longitude>
+        <Latitude>51.7</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754460</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

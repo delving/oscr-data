@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752103</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462895</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Laagsche Hoef</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Laagsche Hoef</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Laagsche Hoef</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.316669999999999</Longitude>
+        <Latitude>51.48333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752103</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

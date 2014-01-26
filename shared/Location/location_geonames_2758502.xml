@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758502</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462053</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Boveneind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Boveneind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boveneind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5111099999999995</Longitude>
+        <Latitude>51.814170000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758502</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

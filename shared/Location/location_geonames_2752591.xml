@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752591</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461602</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Knegsel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Knegsel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Knegsel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.34583</Longitude>
+        <Latitude>51.39917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752591</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

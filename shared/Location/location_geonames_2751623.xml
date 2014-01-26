@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751623</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461340</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Liessel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Liessel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Liessel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Liesel,Liezel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.82083</Longitude>
+        <Latitude>51.41333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751623</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

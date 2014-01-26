@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753000</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463131</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kaweische Loop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kaweische Loop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kaweische Loop</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.72208</Longitude>
+        <Latitude>51.48473</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753000</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

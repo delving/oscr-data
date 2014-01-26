@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748037</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461975</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Laarbeek &gt; Rixtel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Laarbeek,Rixtel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rixtel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Rikstel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.64766</Longitude>
+        <Latitude>51.5097</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748037</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

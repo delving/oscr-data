@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754633</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462001</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Maasdonk &gt; Heeseind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Maasdonk,Heeseind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heeseind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>'t Hisend,Heescheind</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4221</Longitude>
+        <Latitude>51.735690000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754633</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

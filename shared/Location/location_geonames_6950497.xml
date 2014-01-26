@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950497</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462540</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Merwedebrug</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Merwedebrug</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Merwedebrug</Appelation>
+        <LocationNameType>bridge</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9423900000000005</Longitude>
+        <Latitude>51.82708</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950497</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

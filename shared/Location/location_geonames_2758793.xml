@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758793</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463242</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bloempjesven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bloempjesven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bloempjesven</Appelation>
+        <LocationNameType>pond</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.32995</Longitude>
+        <Latitude>51.45163</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758793</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

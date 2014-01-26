@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746035</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462836</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; 't Zand</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,'t Zand</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>'t Zand</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4957</Longitude>
+        <Latitude>51.65336</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746035</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

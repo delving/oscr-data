@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758077</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462323</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Burgst</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Burgst</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Burgst</Appelation>
+        <LocationNameType>estate(s)</LocationNameType>
+        <Comments>Burgst,Landgoed Burgst</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.73136</Longitude>
+        <Latitude>51.61176</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758077</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

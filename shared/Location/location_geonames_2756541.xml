@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756541</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463427</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Drunensche Duinen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Drunensche Duinen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Drunensche Duinen</Appelation>
+        <LocationNameType>dune(s)</LocationNameType>
+        <Comments>Drunense Duinen,Loonse en Drunense Duinen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.14109</Longitude>
+        <Latitude>51.64774</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756541</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

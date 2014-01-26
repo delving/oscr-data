@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757686</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461375</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Dood</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Dood</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Dood</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.5625</Longitude>
+        <Latitude>51.52167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757686</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

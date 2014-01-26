@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759386</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462416</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Batadorp</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Batadorp</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Batadorp</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.39927</Longitude>
+        <Latitude>51.4894</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759386</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

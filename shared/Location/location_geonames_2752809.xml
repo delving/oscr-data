@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752809</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462910</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Klapstaarten</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Klapstaarten</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Klapstaarten</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.13333</Longitude>
+        <Latitude>51.46667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752809</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

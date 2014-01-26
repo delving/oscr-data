@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756796</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461227</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Dinther</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Dinther</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Dinther</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Dinter</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4875</Longitude>
+        <Latitude>51.64667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756796</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

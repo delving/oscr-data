@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2760013</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461409</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Achterste Brug</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Achterste Brug</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Achterste Brug</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.42917</Longitude>
+        <Latitude>51.28</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2760013</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

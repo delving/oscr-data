@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757003</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463633</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Deurnse Peel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Deurnse Peel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Deurnse Peel</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.86667</Longitude>
+        <Latitude>51.41667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757003</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

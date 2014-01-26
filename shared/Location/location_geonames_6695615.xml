@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6695615</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463737</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Muziekcentrum Frits Philips</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Muziekcentrum Frits Philips</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Muziekcentrum Frits Philips</Appelation>
+        <LocationNameType>theater</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.47979</Longitude>
+        <Latitude>51.43887</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6695615</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

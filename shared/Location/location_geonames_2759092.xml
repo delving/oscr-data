@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759092</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461885</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Berkeind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Berkeind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Berkeind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.97004</Longitude>
+        <Latitude>51.55203</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759092</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

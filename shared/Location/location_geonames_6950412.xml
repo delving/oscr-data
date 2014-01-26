@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950412</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462271</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Sint Anthonis &gt; De Korenbloem</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Sint Anthonis,De Korenbloem</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Korenbloem</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.87333</Longitude>
+        <Latitude>51.60694</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950412</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

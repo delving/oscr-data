@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6640198</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462417</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Speelheide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Speelheide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Speelheide</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.40519</Longitude>
+        <Latitude>51.50607</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6640198</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

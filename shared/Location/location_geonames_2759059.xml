@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759059</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461396</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Berlicum</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Berlicum</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Berlicum</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Berlikum</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4</Longitude>
+        <Latitude>51.6775</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759059</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

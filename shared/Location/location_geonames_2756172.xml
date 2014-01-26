@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756172</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461969</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Elshout</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Elshout</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Elshout</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1416699999999995</Longitude>
+        <Latitude>51.700829999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756172</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

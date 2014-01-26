@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758902</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463726</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gat van den Binnennieuwenstreek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gat van den Binnennieuwenstreek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gat van den Binnennieuwenstreek</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.75024</Longitude>
+        <Latitude>51.72755</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758902</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

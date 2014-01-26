@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759114</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463727</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bergsche Maas</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bergsche Maas</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bergsche Maas</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments>Bergsche Maas,Bergse Maas,Verlengde Maas</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.83663</Longitude>
+        <Latitude>51.71285</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759114</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

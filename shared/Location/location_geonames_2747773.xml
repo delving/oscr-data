@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747773</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461651</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sambeek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sambeek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sambeek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Zannebeke</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.96667</Longitude>
+        <Latitude>51.63583</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747773</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

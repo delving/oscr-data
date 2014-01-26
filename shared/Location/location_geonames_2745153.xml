@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745153</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462173</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Vught</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Vught</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Vught</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>Gemeente Vught,Vught</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.26746</Longitude>
+        <Latitude>51.65822</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745153</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

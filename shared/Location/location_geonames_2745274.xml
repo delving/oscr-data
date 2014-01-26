@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745274</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461327</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Voort</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Voort</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Voort</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.78472</Longitude>
+        <Latitude>51.47917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745274</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

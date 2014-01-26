@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757033</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462132</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Strijdhoef</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Strijdhoef</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Strijdhoef</Appelation>
+        <LocationNameType>castle</LocationNameType>
+        <Comments>De Strijdhoef,Kasteel Strijdhof,Strijdhoef</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.13473</Longitude>
+        <Latitude>51.615359999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757033</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

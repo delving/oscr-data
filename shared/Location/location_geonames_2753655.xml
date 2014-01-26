@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753655</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461583</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hooidonk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hooidonk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hooidonk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5125</Longitude>
+        <Latitude>51.5</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753655</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

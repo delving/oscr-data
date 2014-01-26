@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758545</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461521</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Alphen-Chaam &gt; Boslust</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Alphen-Chaam,Boslust</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boslust</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.975</Longitude>
+        <Latitude>51.4825</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758545</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

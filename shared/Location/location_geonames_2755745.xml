@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755745</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461858</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gantelwijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gantelwijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gantelwijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.933330000000001</Longitude>
+        <Latitude>51.76667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755745</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

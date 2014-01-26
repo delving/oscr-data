@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759323</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461230</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Beemd</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Beemd</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Beemd</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.55</Longitude>
+        <Latitude>51.73333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759323</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

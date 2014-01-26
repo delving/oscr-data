@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758606</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463429</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Borgvlietsche Duinen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Borgvlietsche Duinen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Borgvlietsche Duinen</Appelation>
+        <LocationNameType>dune(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.35245</Longitude>
+        <Latitude>51.46993</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758606</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

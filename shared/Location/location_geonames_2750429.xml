@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750429</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462874</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Nelleveld</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Nelleveld</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nelleveld</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6719599999999994</Longitude>
+        <Latitude>51.50674</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750429</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

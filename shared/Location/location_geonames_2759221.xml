@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759221</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462055</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Benedeneind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Benedeneind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Benedeneind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.48611</Longitude>
+        <Latitude>51.825</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759221</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

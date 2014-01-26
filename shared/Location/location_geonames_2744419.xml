@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744419</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462794</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Wilhelminakanaal</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Wilhelminakanaal</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Wilhelminakanaal</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.8463199999999995</Longitude>
+        <Latitude>51.65128</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744419</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

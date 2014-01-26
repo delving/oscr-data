@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750911</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461311</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cranendonck &gt; Midbuul</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cranendonck,Midbuul</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Midbuul</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5736099999999995</Longitude>
+        <Latitude>51.2625</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750911</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747017</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463519</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Somerenseheide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Somerenseheide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Somerenseheide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Somerensche Heide,Somerenseheide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.65646</Longitude>
+        <Latitude>51.370670000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747017</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

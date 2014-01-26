@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758099</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463269</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Buntven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Buntven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Buntven</Appelation>
+        <LocationNameType>lake</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.7481</Longitude>
+        <Latitude>51.4721</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758099</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

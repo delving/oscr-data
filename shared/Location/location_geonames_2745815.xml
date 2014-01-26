@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745815</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462190</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Heeze-Leende &gt; Van Tuyllhoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Heeze-Leende,Van Tuyllhoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Van Tuyllhoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.53333</Longitude>
+        <Latitude>51.38333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745815</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

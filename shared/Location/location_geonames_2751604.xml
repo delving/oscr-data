@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751604</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461488</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Lijndonk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Lijndonk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Lijndonk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.8583300000000005</Longitude>
+        <Latitude>51.57</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751604</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746919</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461083</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Spinolaberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Spinolaberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Spinolaberg</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.26944</Longitude>
+        <Latitude>51.51417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746919</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

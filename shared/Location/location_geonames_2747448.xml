@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747448</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463066</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Schrobbenloop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Schrobbenloop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Schrobbenloop</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.64366</Longitude>
+        <Latitude>51.45074</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747448</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

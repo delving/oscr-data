@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748397</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461467</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Putte</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Putte</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Putte</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Putten</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.39583</Longitude>
+        <Latitude>51.36</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748397</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

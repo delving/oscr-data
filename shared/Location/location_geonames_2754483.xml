@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754483</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462543</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Helbrug</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Helbrug</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Helbrug</Appelation>
+        <LocationNameType>bridge</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.27744</Longitude>
+        <Latitude>51.59982</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754483</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

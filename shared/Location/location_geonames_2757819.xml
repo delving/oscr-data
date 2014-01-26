@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757819</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461459</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Aa</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Aa</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Aa</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6555599999999995</Longitude>
+        <Latitude>51.5925</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757819</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756657</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461925</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Dorst</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Dorst</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Dorst</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.85694</Longitude>
+        <Latitude>51.59</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756657</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

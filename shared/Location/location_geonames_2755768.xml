@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755768</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463623</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Galderse Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Galderse Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Galderse Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Galdersche Heide,Galderse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.75801</Longitude>
+        <Latitude>51.53942</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755768</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

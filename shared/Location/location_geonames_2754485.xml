@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754485</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462507</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Moerdijk &gt; Fort de Hel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Moerdijk,Fort de Hel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Fort de Hel</Appelation>
+        <LocationNameType>fort</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.4234599999999995</Longitude>
+        <Latitude>51.68094</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754485</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

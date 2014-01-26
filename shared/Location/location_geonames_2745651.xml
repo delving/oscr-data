@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745651</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461590</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Veneind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Veneind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Veneind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.297219999999999</Longitude>
+        <Latitude>51.4175</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745651</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

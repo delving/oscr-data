@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954196</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463827</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gevangenpoort</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gevangenpoort</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gevangenpoort</Appelation>
+        <LocationNameType>gate</LocationNameType>
+        <Comments>Lievevrouwepoort</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.28218</Longitude>
+        <Latitude>51.49525</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954196</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

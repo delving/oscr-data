@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746216</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462124</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Tongelaar</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Tongelaar</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Tongelaar</Appelation>
+        <LocationNameType>castle</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.7801</Longitude>
+        <Latitude>51.712990000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746216</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

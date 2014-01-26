@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954533</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462556</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Moerdijk &gt; Nieuwe Watertoren</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Moerdijk,Nieuwe Watertoren</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nieuwe Watertoren</Appelation>
+        <LocationNameType>tower</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.59742</Longitude>
+        <Latitude>51.64593</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954533</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

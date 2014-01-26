@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755071</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462674</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Grotelsche Bosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Grotelsche Bosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Grotelsche Bosch</Appelation>
+        <LocationNameType>forest(s)</LocationNameType>
+        <Comments>Gortelsebos,Grotelsche Bosch,Grotelsebos</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.70414</Longitude>
+        <Latitude>51.51787</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755071</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

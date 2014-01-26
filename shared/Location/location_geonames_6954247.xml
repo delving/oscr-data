@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954247</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463730</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Kets</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Kets</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Kets</Appelation>
+        <LocationNameType>industrial area</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.03238</Longitude>
+        <Latitude>51.66478</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954247</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759509</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463210</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bakelse Aa</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bakelse Aa</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bakelse Aa</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments>Bakelsche Aa,Bakelse Aa</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.67825</Longitude>
+        <Latitude>51.49876</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759509</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

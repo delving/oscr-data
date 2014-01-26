@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954230</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463837</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Generaal Majoor de Ruyter van Steveninck Kazerne</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Generaal Majoor de Ruyter van Steveninck Kazerne</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Generaal Majoor de Ruyter van Steveninck Kazerne</Appelation>
+        <LocationNameType>barracks</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.37025</Longitude>
+        <Latitude>51.47684</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954230</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

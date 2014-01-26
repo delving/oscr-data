@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755686</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463622</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Geeneindse Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Geeneindse Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Geeneindse Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Geeneindsche Heide,Geeneindse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5868400000000005</Longitude>
+        <Latitude>51.49443</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755686</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

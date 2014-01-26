@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751150</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463701</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Verdronkenland van het Markiezaat van Bergen op Zoom</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Verdronkenland van het Markiezaat van Bergen op Zoom</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Verdronkenland van het Markiezaat van Bergen op Zoom</Appelation>
+        <LocationNameType>tidal flat(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.2666699999999995</Longitude>
+        <Latitude>51.46667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751150</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

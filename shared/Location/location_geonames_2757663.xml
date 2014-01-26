@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757663</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461579</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Elft</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Elft</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Elft</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Elft</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.73056</Longitude>
+        <Latitude>51.75</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757663</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

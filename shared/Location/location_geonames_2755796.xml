@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755796</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461268</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Landerd &gt; Gaal</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Landerd,Gaal</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gaal</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.65</Longitude>
+        <Latitude>51.73333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755796</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

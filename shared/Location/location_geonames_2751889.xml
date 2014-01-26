@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751889</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462886</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Langven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Langven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Langven</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.8</Longitude>
+        <Latitude>51.41667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751889</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

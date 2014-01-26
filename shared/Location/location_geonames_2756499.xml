@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756499</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462072</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Duizeldonk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Duizeldonk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Duizeldonk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.683330000000001</Longitude>
+        <Latitude>51.46667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756499</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

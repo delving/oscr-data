@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745435</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463052</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vleij</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vleij</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vleij</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments>Vlei,Vleij</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.38406</Longitude>
+        <Latitude>51.64764</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745435</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

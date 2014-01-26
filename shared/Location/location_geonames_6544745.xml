@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544745</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461156</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Roosendaal &gt; Heijbeek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Roosendaal,Heijbeek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heijbeek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.4848300000000005</Longitude>
+        <Latitude>51.48464</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544745</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

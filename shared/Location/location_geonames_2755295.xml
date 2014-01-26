@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755295</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461924</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Groenendijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Groenendijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Groenendijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.92213</Longitude>
+        <Latitude>51.65547</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755295</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

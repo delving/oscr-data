@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755438</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463684</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Goorven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Goorven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Goorven</Appelation>
+        <LocationNameType>marsh(es)</LocationNameType>
+        <Comments>'t Goorven,Goorven,’t Goorven</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.18709</Longitude>
+        <Latitude>51.4264</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755438</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

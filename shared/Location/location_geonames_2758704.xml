@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758704</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463393</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Boksenberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Boksenberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boksenberg</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.67504</Longitude>
+        <Latitude>51.33546</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758704</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

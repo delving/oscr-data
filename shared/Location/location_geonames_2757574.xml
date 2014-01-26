@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757574</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460985</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Heen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Heen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Heen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Heen,Hoogedorp</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.27083</Longitude>
+        <Latitude>51.6075</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757574</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950395</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462270</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Sint Anthonis &gt; De Hamse molen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Sint Anthonis,De Hamse molen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Hamse molen</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments>De Ster</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.8377</Longitude>
+        <Latitude>51.654140000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950395</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

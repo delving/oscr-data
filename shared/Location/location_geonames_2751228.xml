@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751228</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463443</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Malpievennen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Malpievennen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Malpievennen</Appelation>
+        <LocationNameType>nature reserve</LocationNameType>
+        <Comments>De Malpie,Malpievennen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.449409999999999</Longitude>
+        <Latitude>51.32115</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751228</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

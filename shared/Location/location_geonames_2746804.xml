@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746804</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460975</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Steenbergen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Steenbergen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Steenbergen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Steenbergen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.31944</Longitude>
+        <Latitude>51.58417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746804</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

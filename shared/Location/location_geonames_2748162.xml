@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748162</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462865</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rielsche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rielsche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rielsche Heide</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9839400000000005</Longitude>
+        <Latitude>51.53125</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748162</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746376</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460974</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; t Haantje</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,t Haantje</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>t Haantje</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.38333</Longitude>
+        <Latitude>51.56917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746376</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

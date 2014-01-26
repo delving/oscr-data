@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752633</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461509</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Alphen-Chaam &gt; Klooster</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Alphen-Chaam,Klooster</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Klooster</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.86111</Longitude>
+        <Latitude>51.52833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752633</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

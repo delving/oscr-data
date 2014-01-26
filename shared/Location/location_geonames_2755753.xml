@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755753</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463261</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Galgeven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Galgeven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Galgeven</Appelation>
+        <LocationNameType>lake</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1531199999999995</Longitude>
+        <Latitude>51.55393</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755753</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

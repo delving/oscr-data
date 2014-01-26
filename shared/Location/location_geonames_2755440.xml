@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755440</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463757</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Goorstraat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Goorstraat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Goorstraat</Appelation>
+        <LocationNameType>populated locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6247300000000005</Longitude>
+        <Latitude>51.584959999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755440</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

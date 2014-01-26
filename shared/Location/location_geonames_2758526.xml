@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758526</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461845</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Boterwijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Boterwijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boterwijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.29028</Longitude>
+        <Latitude>51.51083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758526</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

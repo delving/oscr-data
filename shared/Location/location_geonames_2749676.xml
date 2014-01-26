@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749676</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463662</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oisterwijkse Vennen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oisterwijkse Vennen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oisterwijkse Vennen</Appelation>
+        <LocationNameType>lakes</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.21667</Longitude>
+        <Latitude>51.56667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749676</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

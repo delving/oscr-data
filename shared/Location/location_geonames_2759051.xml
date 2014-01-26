@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759051</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461229</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Bernissche Hoeven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Bernissche Hoeven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bernissche Hoeven</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Bernissche Hoeven,Bernsche Hoeven</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.49452</Longitude>
+        <Latitude>51.66646</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759051</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

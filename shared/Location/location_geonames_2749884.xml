@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749884</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461364</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Noordhoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Noordhoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Noordhoek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.5166699999999995</Longitude>
+        <Latitude>51.56667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749884</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

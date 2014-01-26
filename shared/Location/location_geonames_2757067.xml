@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757067</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463358</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Scheeken</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Scheeken</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Scheeken</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments>De Scheeken,Scheeken</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.39692</Longitude>
+        <Latitude>51.54773</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757067</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

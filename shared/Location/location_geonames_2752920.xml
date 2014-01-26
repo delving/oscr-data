@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752920</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463721</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gat van den Kerksloot</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gat van den Kerksloot</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gat van den Kerksloot</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.77043</Longitude>
+        <Latitude>51.72348</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752920</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

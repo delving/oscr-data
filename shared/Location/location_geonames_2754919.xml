@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754919</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461348</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Halte</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Halte</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Halte</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.8722199999999996</Longitude>
+        <Latitude>51.44417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754919</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

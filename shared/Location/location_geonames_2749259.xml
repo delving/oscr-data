@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749259</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460917</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Moerdijk &gt; Oranjeoord</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Moerdijk,Oranjeoord</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oranjeoord</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.40551</Longitude>
+        <Latitude>51.66359</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749259</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

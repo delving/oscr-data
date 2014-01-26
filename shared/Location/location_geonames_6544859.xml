@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544859</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461400</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Hogert</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Hogert</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Hogert</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.35556</Longitude>
+        <Latitude>51.62417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544859</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

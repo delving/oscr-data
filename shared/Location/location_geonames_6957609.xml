@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6957609</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462596</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Abdij O.L. Vrouw van Koningshoeven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Abdij O.L. Vrouw van Koningshoeven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Abdij O.L. Vrouw van Koningshoeven</Appelation>
+        <LocationNameType>monastery</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.12903</Longitude>
+        <Latitude>51.54372</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6957609</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

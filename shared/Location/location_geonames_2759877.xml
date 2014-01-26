@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759877</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461524</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Alphen-Chaam &gt; Alphen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Alphen-Chaam,Alphen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Alphen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Alfen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.95833</Longitude>
+        <Latitude>51.48167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759877</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

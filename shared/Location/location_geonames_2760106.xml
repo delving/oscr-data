@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2760106</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462390</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Aanschot</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Aanschot</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Aanschot</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4718800000000005</Longitude>
+        <Latitude>51.49191</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2760106</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

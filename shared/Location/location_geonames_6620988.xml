@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6620988</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462608</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; EBI Extra Beveiligde Inrichting</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,EBI Extra Beveiligde Inrichting</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>EBI Extra Beveiligde Inrichting</Appelation>
+        <LocationNameType>prison</LocationNameType>
+        <Comments>High Security Prison (EBI)</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.25636</Longitude>
+        <Latitude>51.66438</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6620988</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

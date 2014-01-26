@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748749</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463309</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Panberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Panberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Panberg</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.28942</Longitude>
+        <Latitude>51.33995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748749</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

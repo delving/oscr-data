@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758582</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461325</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cranendonck &gt; Bosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cranendonck,Bosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bosch</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.59167</Longitude>
+        <Latitude>51.27</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758582</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

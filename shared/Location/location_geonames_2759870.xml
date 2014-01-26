@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759870</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463035</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Alphen-Oosterwijksche Akkers</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Alphen-Oosterwijksche Akkers</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Alphen-Oosterwijksche Akkers</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9833300000000005</Longitude>
+        <Latitude>51.5</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759870</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

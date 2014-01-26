@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745678</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461573</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Velp</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Velp</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Velp</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Fellepa</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.7180599999999995</Longitude>
+        <Latitude>51.748329999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745678</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

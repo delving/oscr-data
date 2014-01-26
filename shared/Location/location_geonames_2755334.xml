@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755334</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463260</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Greveschutven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Greveschutven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Greveschutven</Appelation>
+        <LocationNameType>lake</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5124699999999995</Longitude>
+        <Latitude>51.37004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755334</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

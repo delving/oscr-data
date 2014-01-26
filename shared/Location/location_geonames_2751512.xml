@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751512</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461279</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Geldrop-Mierlo &gt; Loeswijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Geldrop-Mierlo,Loeswijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Loeswijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Loerwijk</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.63056</Longitude>
+        <Latitude>51.443329999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751512</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

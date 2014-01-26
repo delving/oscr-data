@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753822</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463765</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hondsberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hondsberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hondsberg</Appelation>
+        <LocationNameType>populated locality</LocationNameType>
+        <Comments>De Hondsberg</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1904</Longitude>
+        <Latitude>51.56693</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753822</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

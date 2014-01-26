@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950418</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462278</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Martinus</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Martinus</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Martinus</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.93648</Longitude>
+        <Latitude>51.67584</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950418</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954198</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462546</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sint-Gertrudiskerk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sint-Gertrudiskerk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sint-Gertrudiskerk</Appelation>
+        <LocationNameType>church</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.28835</Longitude>
+        <Latitude>51.49452</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954198</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

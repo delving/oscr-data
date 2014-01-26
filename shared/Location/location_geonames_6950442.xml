@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950442</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462261</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Landerd &gt; Sint Victor</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Landerd,Sint Victor</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sint Victor</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.68078</Longitude>
+        <Latitude>51.68052</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950442</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

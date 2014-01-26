@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6640090</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463850</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Best Bus Station</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Best Bus Station</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Best Bus Station</Appelation>
+        <LocationNameType>bus station</LocationNameType>
+        <Comments>Best Bus Station,QWZ</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.38974</Longitude>
+        <Latitude>51.50952</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6640090</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

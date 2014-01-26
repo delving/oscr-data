@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754120</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461763</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heuveltje</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heuveltje</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heuveltje</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.13889</Longitude>
+        <Latitude>51.5975</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754120</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

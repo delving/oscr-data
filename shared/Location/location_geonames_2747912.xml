@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747912</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462193</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rosephoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rosephoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rosephoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments>Rosephoeve,Rozephoeve</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.24284</Longitude>
+        <Latitude>51.5589</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747912</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750936</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461338</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Merlenberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Merlenberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Merlenberg</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.825</Longitude>
+        <Latitude>51.45833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750936</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

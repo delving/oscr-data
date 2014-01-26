@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748866</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462870</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Overbeek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Overbeek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Overbeek</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.85692</Longitude>
+        <Latitude>51.50121</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748866</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

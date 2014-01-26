@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544266</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462175</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Laarbeek &gt; Gemeente Laarbeek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Laarbeek,Gemeente Laarbeek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Laarbeek</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.612830000000001</Longitude>
+        <Latitude>51.52643</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544266</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

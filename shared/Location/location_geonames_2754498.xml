@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754498</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463339</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heirust</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heirust</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heirust</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.41667</Longitude>
+        <Latitude>51.36667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754498</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

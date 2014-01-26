@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752174</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461963</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kuiksche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kuiksche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kuiksche Heide</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Kuikse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.16111</Longitude>
+        <Latitude>51.69083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752174</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

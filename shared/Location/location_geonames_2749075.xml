@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749075</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463104</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oude Leij</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oude Leij</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oude Leij</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.98655</Longitude>
+        <Latitude>51.57425</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749075</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

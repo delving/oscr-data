@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745174</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461941</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vrilkhoven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vrilkhoven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vrilkhoven</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.35139</Longitude>
+        <Latitude>51.56667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745174</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

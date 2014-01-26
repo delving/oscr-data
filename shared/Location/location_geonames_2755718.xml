@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755718</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461578</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gassel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gassel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gassel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.7805599999999995</Longitude>
+        <Latitude>51.740829999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755718</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747857</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462152</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Rucphen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Rucphen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Rucphen</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>Gemeente Rucphen,Rucphen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.56586</Longitude>
+        <Latitude>51.52357</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747857</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950433</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462239</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Moerdijk &gt; d'Orangemolen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Moerdijk,d'Orangemolen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>d'Orangemolen</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.44157</Longitude>
+        <Latitude>51.6936</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950433</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

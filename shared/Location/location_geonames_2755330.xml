@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755330</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462772</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder Grienden</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder Grienden</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder Grienden</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.90353</Longitude>
+        <Latitude>51.786359999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755330</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

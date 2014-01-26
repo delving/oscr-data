@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954201</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462547</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gereformeerde kerk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gereformeerde kerk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gereformeerde kerk</Appelation>
+        <LocationNameType>church</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.28615</Longitude>
+        <Latitude>51.49885</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954201</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

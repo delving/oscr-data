@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751816</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461167</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Heeze-Leende &gt; Leenderstrijp</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Heeze-Leende,Leenderstrijp</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Leenderstrijp</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Liender Strijp,Strijp</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.54028</Longitude>
+        <Latitude>51.33333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751816</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

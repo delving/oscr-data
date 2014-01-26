@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757454</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463369</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Boswachterij De Kempen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Boswachterij De Kempen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boswachterij De Kempen</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.25063</Longitude>
+        <Latitude>51.32281</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757454</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

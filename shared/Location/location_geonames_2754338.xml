@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754338</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463426</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Herperduin</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Herperduin</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Herperduin</Appelation>
+        <LocationNameType>dune(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6159300000000005</Longitude>
+        <Latitude>51.76187</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754338</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

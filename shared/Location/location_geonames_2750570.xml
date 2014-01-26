@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750570</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461704</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bergeijk &gt; Muggenhool</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bergeijk,Muggenhool</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Muggenhool</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.325</Longitude>
+        <Latitude>51.31333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750570</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

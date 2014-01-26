@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544834</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461668</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Krolhoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Krolhoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Krolhoek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.92361</Longitude>
+        <Latitude>51.69167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544834</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

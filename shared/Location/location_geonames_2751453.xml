@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751453</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463423</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Loonsche Duinen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Loonsche Duinen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Loonsche Duinen</Appelation>
+        <LocationNameType>dune(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.10332</Longitude>
+        <Latitude>51.64721</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751453</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

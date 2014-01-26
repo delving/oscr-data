@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754553</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460931</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Moerdijk &gt; Heijningen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Moerdijk,Heijningen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heijningen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Heiningen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.40833</Longitude>
+        <Latitude>51.65583</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754553</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

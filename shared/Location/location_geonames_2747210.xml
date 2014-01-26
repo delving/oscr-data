@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747210</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461361</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sint Willebrord</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sint Willebrord</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sint Willebrord</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Heike,Willebrord</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.58889</Longitude>
+        <Latitude>51.54833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747210</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

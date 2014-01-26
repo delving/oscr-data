@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745229</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461527</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Gemert-Bakel &gt; Vossenberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Gemert-Bakel,Vossenberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vossenberg</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.78472</Longitude>
+        <Latitude>51.56667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745229</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

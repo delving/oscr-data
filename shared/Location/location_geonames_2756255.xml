@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756255</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463352</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Einderheide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Einderheide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Einderheide</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.40632</Longitude>
+        <Latitude>51.36535</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756255</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

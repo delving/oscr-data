@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6495939</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462468</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Maasdonk &gt; Van der Valk Hotel Nuland</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Maasdonk,Van der Valk Hotel Nuland</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Van der Valk Hotel Nuland</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.449</Longitude>
+        <Latitude>51.723</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6495939</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

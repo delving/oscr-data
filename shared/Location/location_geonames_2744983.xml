@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744983</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463486</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Wasven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Wasven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Wasven</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.61667</Longitude>
+        <Latitude>51.4</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744983</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

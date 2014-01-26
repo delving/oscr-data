@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744206</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463282</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Wolfslaar</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Wolfslaar</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Wolfslaar</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.80617</Longitude>
+        <Latitude>51.562090000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744206</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

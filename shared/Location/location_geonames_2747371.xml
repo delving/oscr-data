@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747371</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462115</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; 's Gravenmoer</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,'s Gravenmoer</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>'s Gravenmoer</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>'s Gravemoer</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.94076</Longitude>
+        <Latitude>51.65594</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747371</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

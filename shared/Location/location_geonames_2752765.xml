@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752765</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463124</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kleine Beerze</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kleine Beerze</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kleine Beerze</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments>De Beerze,Kleine Beerze,Kleine Stroom,Smal Water,Stroom</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.28123</Longitude>
+        <Latitude>51.412890000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752765</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

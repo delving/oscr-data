@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756727</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463733</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Dongecentrale</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Dongecentrale</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Dongecentrale</Appelation>
+        <LocationNameType>power station</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.84941</Longitude>
+        <Latitude>51.695679999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756727</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

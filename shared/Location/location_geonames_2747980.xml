@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747980</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460976</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rolaf</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rolaf</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rolaf</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.24587</Longitude>
+        <Latitude>51.57248</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747980</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

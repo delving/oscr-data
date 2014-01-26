@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751290</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461601</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Maaskant</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Maaskant</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Maaskant</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3013900000000005</Longitude>
+        <Latitude>51.41833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751290</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

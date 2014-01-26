@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753776</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463040</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hooge Banakkers</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hooge Banakkers</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hooge Banakkers</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.65</Longitude>
+        <Latitude>51.56667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753776</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6692341</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463840</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Frans Hoebens hall</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Frans Hoebens hall</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Frans Hoebens hall</Appelation>
+        <LocationNameType>facility</LocationNameType>
+        <Comments>Frans Hoebenshal</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.80361</Longitude>
+        <Latitude>51.4573</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6692341</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

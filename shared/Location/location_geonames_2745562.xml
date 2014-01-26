@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745562</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462834</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vierhoeven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vierhoeven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vierhoeven</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.3623400000000006</Longitude>
+        <Latitude>51.569390000000006</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745562</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

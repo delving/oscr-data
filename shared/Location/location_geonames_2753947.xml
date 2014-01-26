@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753947</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461370</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hoge Donk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hoge Donk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hoge Donk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Donk,Hooge Donk</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6079099999999995</Longitude>
+        <Latitude>51.554390000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753947</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

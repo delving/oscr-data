@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751107</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462659</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Mastbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Mastbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Mastbosch</Appelation>
+        <LocationNameType>forest(s)</LocationNameType>
+        <Comments>Boswachterij Mastbos,Het Mastbos,Mastbosch</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.76422</Longitude>
+        <Latitude>51.54855</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751107</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

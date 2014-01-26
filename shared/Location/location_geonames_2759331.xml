@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759331</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463653</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Beekse Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Beekse Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Beekse Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Beeksche Heide,Beekse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.08385</Longitude>
+        <Latitude>51.50783</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759331</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

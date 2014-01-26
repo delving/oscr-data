@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748284</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463541</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Reeksche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Reeksche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Reeksche Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Reeksche Heide,Reekse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.68618</Longitude>
+        <Latitude>51.72546</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748284</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

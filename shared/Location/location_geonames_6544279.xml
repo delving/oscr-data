@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544279</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462158</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Gemert-Bakel &gt; Gemeente Gemert-Bakel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Gemert-Bakel,Gemeente Gemert-Bakel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Gemert-Bakel</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.72802</Longitude>
+        <Latitude>51.52554</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544279</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

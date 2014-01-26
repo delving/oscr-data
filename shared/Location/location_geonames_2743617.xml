@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743617</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462820</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zundertsche Schijf</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zundertsche Schijf</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zundertsche Schijf</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.57735</Longitude>
+        <Latitude>51.50228</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743617</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

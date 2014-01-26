@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751906</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462887</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Lange Vooren</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Lange Vooren</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Lange Vooren</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.95761</Longitude>
+        <Latitude>51.49041</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751906</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

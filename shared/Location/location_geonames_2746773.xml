@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746773</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461593</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Steensel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Steensel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Steensel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.35278</Longitude>
+        <Latitude>51.376670000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746773</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756028</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461578</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Escharen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Escharen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Escharen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Escheren,Escre,Esteren</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.745830000000001</Longitude>
+        <Latitude>51.74333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756028</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

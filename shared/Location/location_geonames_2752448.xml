@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752448</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462903</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Koopmansblikken</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Koopmansblikken</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Koopmansblikken</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.646730000000001</Longitude>
+        <Latitude>51.53717</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752448</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754343</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462184</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hermina’s Hoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hermina’s Hoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hermina’s Hoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1778900000000005</Longitude>
+        <Latitude>51.66363</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754343</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

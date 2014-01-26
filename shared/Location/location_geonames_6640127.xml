@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6640127</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462504</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Station Helmond Brandevoort</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Station Helmond Brandevoort</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Station Helmond Brandevoort</Appelation>
+        <LocationNameType>railroad station</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.60899</Longitude>
+        <Latitude>51.462379999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6640127</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

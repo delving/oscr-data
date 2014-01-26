@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749571</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462383</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Ooievaarsnest</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Ooievaarsnest</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Ooievaarsnest</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments>Ooievaarsnest</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.433330000000001</Longitude>
+        <Latitude>51.41667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749571</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

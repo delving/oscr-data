@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757778</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463002</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Blaak</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Blaak</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Blaak</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.01636</Longitude>
+        <Latitude>51.55108</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757778</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

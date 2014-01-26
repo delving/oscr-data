@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755969</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463164</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Everkreek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Everkreek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Everkreek</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.433330000000001</Longitude>
+        <Latitude>51.55</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755969</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

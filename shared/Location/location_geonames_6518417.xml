@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6518417</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462440</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Heeze-Leende &gt; Golden Tulip Jagershorst</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Heeze-Leende,Golden Tulip Jagershorst</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Golden Tulip Jagershorst</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5411</Longitude>
+        <Latitude>51.3502</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6518417</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

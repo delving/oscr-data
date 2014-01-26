@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759974</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462198</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Adammehoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Adammehoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Adammehoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.39855</Longitude>
+        <Latitude>51.650290000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759974</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

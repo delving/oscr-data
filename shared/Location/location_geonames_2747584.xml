@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747584</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461787</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Schijndel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Schijndel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Schijndel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Schijndel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.43194</Longitude>
+        <Latitude>51.6225</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747584</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

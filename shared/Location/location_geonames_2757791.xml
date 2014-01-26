@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757791</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462433</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Bergen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Bergen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Bergen</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.90944</Longitude>
+        <Latitude>51.687490000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757791</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

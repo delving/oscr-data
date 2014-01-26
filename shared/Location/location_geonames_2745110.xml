@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745110</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462530</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Waardhuizensebrug</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Waardhuizensebrug</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Waardhuizensebrug</Appelation>
+        <LocationNameType>bridge</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.98796</Longitude>
+        <Latitude>51.77832</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745110</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754382</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462121</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Henkenshage</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Henkenshage</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Henkenshage</Appelation>
+        <LocationNameType>castle</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4564699999999995</Longitude>
+        <Latitude>51.558840000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754382</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753157</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462000</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Maasdonk &gt; Kaathoven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Maasdonk,Kaathoven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kaathoven</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.452780000000001</Longitude>
+        <Latitude>51.69417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753157</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

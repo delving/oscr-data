@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749558</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461679</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oordeelse Straat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oordeelse Straat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oordeelse Straat</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Oordeelschestraat,Oordeelse Straat</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.95</Longitude>
+        <Latitude>51.45</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749558</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

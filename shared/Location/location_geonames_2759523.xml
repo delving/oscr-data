@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759523</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462328</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Landgoed de Baest</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Landgoed de Baest</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Landgoed de Baest</Appelation>
+        <LocationNameType>estate(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.25378</Longitude>
+        <Latitude>51.48924</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759523</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

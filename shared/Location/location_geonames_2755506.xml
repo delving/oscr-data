@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755506</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462170</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Gilze en Rijen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Gilze en Rijen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Gilze en Rijen</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>Gemeente Gilze en Rijen,Gilz Rijen,Gilze en Reijen,Gilze en Rijen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.91253</Longitude>
+        <Latitude>51.55656</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755506</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

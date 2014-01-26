@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745062</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463287</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Walse Duin</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Walse Duin</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Walse Duin</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.35883</Longitude>
+        <Latitude>51.44379</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745062</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

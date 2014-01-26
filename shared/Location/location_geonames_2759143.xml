@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759143</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461940</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bergenshuizen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bergenshuizen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bergenshuizen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.28333</Longitude>
+        <Latitude>51.630829999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759143</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

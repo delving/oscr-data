@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954244</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463843</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kantongerechtsgebouw</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kantongerechtsgebouw</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kantongerechtsgebouw</Appelation>
+        <LocationNameType>facility</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3073</Longitude>
+        <Latitude>51.50414</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954244</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

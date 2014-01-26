@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756370</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462778</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Eendrachtspolder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Eendrachtspolder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Eendrachtspolder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.86304</Longitude>
+        <Latitude>51.6854</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756370</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

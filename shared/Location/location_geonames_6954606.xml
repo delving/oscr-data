@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954606</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462569</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Watertoren Technische Universiteit</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Watertoren Technische Universiteit</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Watertoren Technische Universiteit</Appelation>
+        <LocationNameType>tower</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4894300000000005</Longitude>
+        <Latitude>51.44744</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954606</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

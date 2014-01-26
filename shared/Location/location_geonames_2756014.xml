@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756014</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463167</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Esperloop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Esperloop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Esperloop</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.696940000000001</Longitude>
+        <Latitude>51.52412</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756014</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748148</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463087</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rietkreek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rietkreek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rietkreek</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.22347</Longitude>
+        <Latitude>51.5897</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748148</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

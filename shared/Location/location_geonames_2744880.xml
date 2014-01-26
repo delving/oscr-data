@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744880</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462829</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Weimersche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Weimersche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Weimersche Heide</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.61343</Longitude>
+        <Latitude>51.44415</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744880</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

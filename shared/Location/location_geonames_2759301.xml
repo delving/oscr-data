@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759301</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461355</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Beersdonk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Beersdonk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Beersdonk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.72505</Longitude>
+        <Latitude>51.44141</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759301</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759136</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463398</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bergerheide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bergerheide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bergerheide</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3484300000000005</Longitude>
+        <Latitude>51.32978</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759136</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

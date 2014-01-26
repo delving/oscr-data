@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746570</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461048</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Stuivezand</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Stuivezand</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Stuivezand</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.68056</Longitude>
+        <Latitude>51.48917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746570</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

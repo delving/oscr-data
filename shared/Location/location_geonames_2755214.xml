@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755214</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462935</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Groote Boonhil</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Groote Boonhil</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Groote Boonhil</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.365419999999999</Longitude>
+        <Latitude>51.58247</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755214</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

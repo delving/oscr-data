@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750659</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460952</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Molenstraat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Molenstraat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Molenstraat</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.2388900000000005</Longitude>
+        <Latitude>51.62</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750659</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

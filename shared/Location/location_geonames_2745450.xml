@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745450</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462833</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vlasroot</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vlasroot</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vlasroot</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.41667</Longitude>
+        <Latitude>51.38333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745450</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

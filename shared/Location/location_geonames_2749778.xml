@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749778</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461537</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Gemert-Bakel &gt; Nuijeneind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Gemert-Bakel,Nuijeneind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nuijeneind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.71667</Longitude>
+        <Latitude>51.50667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749778</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

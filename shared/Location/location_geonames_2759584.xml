@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759584</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461032</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Baai</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Baai</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Baai</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.64533</Longitude>
+        <Latitude>51.5808</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759584</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

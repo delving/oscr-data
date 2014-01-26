@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750737</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462355</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cranendonck &gt; Molen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cranendonck,Molen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Molen</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments>De Molen,Molen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.566669999999999</Longitude>
+        <Latitude>51.28333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750737</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

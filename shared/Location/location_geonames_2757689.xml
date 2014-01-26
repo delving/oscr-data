@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757689</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462992</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Donk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Donk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Donk</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.09408</Longitude>
+        <Latitude>51.514520000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757689</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

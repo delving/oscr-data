@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748449</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462381</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Prinsejacht</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Prinsejacht</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Prinsejacht</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4557</Longitude>
+        <Latitude>51.46503</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748449</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

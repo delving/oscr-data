@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755979</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461843</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Evenheuvel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Evenheuvel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Evenheuvel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.31111</Longitude>
+        <Latitude>51.52</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755979</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

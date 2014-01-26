@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757993</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462028</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bladel en Netersel &gt; Casteren</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bladel en Netersel,Casteren</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Casteren</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Kasteren</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.2375</Longitude>
+        <Latitude>51.39667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757993</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

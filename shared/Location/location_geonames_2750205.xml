@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750205</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462719</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Nieuwe Zuidpolder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Nieuwe Zuidpolder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nieuwe Zuidpolder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.29525</Longitude>
+        <Latitude>51.382290000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750205</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

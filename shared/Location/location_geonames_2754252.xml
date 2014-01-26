@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754252</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462922</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Het Laag</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Het Laag</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Het Laag</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.29815</Longitude>
+        <Latitude>51.540859999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754252</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

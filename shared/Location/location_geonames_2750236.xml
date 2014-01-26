@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750236</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461680</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Nieuwe Strumpt</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Nieuwe Strumpt</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nieuwe Strumpt</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.84861</Longitude>
+        <Latitude>51.44</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750236</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754076</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463256</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hildsven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hildsven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hildsven</Appelation>
+        <LocationNameType>lake</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.20213</Longitude>
+        <Latitude>51.53774</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754076</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

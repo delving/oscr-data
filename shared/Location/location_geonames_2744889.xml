@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744889</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461861</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Reusel-De Mierden &gt; Weijereind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Reusel-De Mierden,Weijereind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Weijereind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.17366</Longitude>
+        <Latitude>51.35451</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744889</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

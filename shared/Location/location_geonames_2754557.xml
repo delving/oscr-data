@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754557</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462221</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heijdehoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heijdehoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heijdehoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.566669999999999</Longitude>
+        <Latitude>51.5</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754557</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

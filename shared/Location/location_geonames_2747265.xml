@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747265</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462209</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sint Janshoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sint Janshoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sint Janshoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.2923800000000005</Longitude>
+        <Latitude>51.54600000000001</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747265</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

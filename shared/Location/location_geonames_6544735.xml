@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544735</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461443</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Sint Anthonis &gt; Verlorenhoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Sint Anthonis,Verlorenhoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Verlorenhoek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.816669999999999</Longitude>
+        <Latitude>51.6625</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544735</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

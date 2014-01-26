@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755078</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463444</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Grote Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Grote Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Grote Heide</Appelation>
+        <LocationNameType>nature reserve</LocationNameType>
+        <Comments>Groote Heide,Grote Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.516369999999999</Longitude>
+        <Latitude>51.30507</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755078</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

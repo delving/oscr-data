@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754524</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462407</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heike</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heike</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heike</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments>'t Heike,Heike,’t Heike</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.08333</Longitude>
+        <Latitude>51.55</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754524</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

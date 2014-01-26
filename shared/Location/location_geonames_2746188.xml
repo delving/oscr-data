@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746188</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461205</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Toterfout</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Toterfout</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Toterfout</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.34861</Longitude>
+        <Latitude>51.4175</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746188</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

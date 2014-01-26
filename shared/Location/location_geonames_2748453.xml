@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748453</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462211</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Prins Alexanderhoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Prins Alexanderhoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Prins Alexanderhoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7666699999999995</Longitude>
+        <Latitude>51.76667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748453</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

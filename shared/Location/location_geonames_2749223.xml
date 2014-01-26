@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749223</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461468</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Ossendrecht</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Ossendrecht</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Ossendrecht</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.32639</Longitude>
+        <Latitude>51.39417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749223</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

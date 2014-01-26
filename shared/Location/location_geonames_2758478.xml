@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758478</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462786</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Boven Spieringpolder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Boven Spieringpolder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boven Spieringpolder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.77581</Longitude>
+        <Latitude>51.78902</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758478</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

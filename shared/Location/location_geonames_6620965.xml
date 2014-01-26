@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6620965</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462519</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Pettelaarse Schans</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Pettelaarse Schans</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Pettelaarse Schans</Appelation>
+        <LocationNameType>fort</LocationNameType>
+        <Comments>Fort Sint Michiel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.32378</Longitude>
+        <Latitude>51.6755</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6620965</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

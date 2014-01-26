@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759094</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463029</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Berk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Berk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Berk</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.63548</Longitude>
+        <Latitude>51.468990000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759094</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749572</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463315</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Ooiendonk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Ooiendonk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Ooiendonk</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.37239</Longitude>
+        <Latitude>51.55418</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749572</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

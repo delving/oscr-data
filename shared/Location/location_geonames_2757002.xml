@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757002</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462049</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Deursen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Deursen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Deursen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Deurssen,Deurzen,Deurzen-en-Dennenburg</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6277800000000004</Longitude>
+        <Latitude>51.80167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757002</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

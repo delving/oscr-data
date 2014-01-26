@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753772</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461189</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hoogebiezen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hoogebiezen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hoogebiezen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.52361</Longitude>
+        <Latitude>51.59</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753772</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

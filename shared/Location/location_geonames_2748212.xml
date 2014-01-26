@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748212</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461675</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Reuth</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Reuth</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Reuth</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.89861</Longitude>
+        <Latitude>51.44417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748212</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

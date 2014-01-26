@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747582</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462857</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Schijndelsche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Schijndelsche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Schijndelsche Heide</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.464230000000001</Longitude>
+        <Latitude>51.59807</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747582</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

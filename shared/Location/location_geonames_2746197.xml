@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746197</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462612</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Tooverberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Tooverberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Tooverberg</Appelation>
+        <LocationNameType>hill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.3672699999999995</Longitude>
+        <Latitude>51.37174</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746197</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

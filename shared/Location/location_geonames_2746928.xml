@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746928</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463715</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Spijkerboor</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Spijkerboor</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Spijkerboor</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments>Spijkerboor,Vaarweg Spijkerboor-Werkendam,Vaarweg Werkendam-Amer</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.83823</Longitude>
+        <Latitude>51.715709999999994</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746928</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

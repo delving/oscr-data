@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758421</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461029</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Brakkenstraat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Brakkenstraat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Brakkenstraat</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.65597</Longitude>
+        <Latitude>51.55066</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758421</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

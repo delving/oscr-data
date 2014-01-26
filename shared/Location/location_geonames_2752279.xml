@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752279</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461266</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Landerd &gt; Kreitsberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Landerd,Kreitsberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kreitsberg</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>http://nl.wikipedia.org/wiki/Kreitsberg</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.683330000000001</Longitude>
+        <Latitude>51.71167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752279</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749114</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462708</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder de Oude Heijningen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder de Oude Heijningen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder de Oude Heijningen</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.435</Longitude>
+        <Latitude>51.65632</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749114</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

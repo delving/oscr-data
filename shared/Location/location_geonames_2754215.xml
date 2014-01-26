@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754215</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462920</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Het Schaan</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Het Schaan</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Het Schaan</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.88607</Longitude>
+        <Latitude>51.493179999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754215</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

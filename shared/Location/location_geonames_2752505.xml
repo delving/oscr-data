@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752505</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462663</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Koningenbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Koningenbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Koningenbosch</Appelation>
+        <LocationNameType>forest(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.95753</Longitude>
+        <Latitude>51.505520000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752505</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

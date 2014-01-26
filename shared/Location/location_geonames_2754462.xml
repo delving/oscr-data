@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754462</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461072</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hellegat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hellegat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hellegat</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.691669999999999</Longitude>
+        <Latitude>51.53667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754462</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

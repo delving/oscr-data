@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755288</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461981</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Laarbeek &gt; Groenewoud</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Laarbeek,Groenewoud</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Groenewoud</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6222199999999996</Longitude>
+        <Latitude>51.5225</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755288</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

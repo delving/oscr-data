@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747806</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463070</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Run</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Run</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Run</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments>De Run Rivier,Run</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.41902</Longitude>
+        <Latitude>51.39973</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747806</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

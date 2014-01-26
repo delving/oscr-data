@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748073</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463532</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rijtsche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rijtsche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rijtsche Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Rijtsche Heide,Rijtse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.14726</Longitude>
+        <Latitude>51.32232</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748073</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

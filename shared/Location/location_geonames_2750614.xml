@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750614</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462728</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder Moordplaat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder Moordplaat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder Moordplaat</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.84103</Longitude>
+        <Latitude>51.7483</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750614</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755510</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462774</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder de Gijster en Heenplaat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder de Gijster en Heenplaat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder de Gijster en Heenplaat</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments>De Gijster,Gijster en Heenplaat,Polder de Gijster en Heenplaat</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.816669999999999</Longitude>
+        <Latitude>51.73333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755510</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

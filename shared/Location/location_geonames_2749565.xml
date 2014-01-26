@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749565</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463463</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Ooijevaarsnest</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Ooijevaarsnest</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Ooijevaarsnest</Appelation>
+        <LocationNameType>nature reserve</LocationNameType>
+        <Comments>Ooievaarsnest</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.0117400000000005</Longitude>
+        <Latitude>51.482240000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749565</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746179</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462840</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; ’t Raak</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,’t Raak</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>’t Raak</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.12675</Longitude>
+        <Latitude>51.497440000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746179</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

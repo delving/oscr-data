@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749154</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463552</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oude Buisse Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oude Buisse Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oude Buisse Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Buissche Heide,Oude Buisse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.57176</Longitude>
+        <Latitude>51.47468</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749154</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746456</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461298</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Made en Drimmelen &gt; Terheijden</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Made en Drimmelen,Terheijden</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Terheijden</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Terheden,Terheide,Terheiden</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.754169999999999</Longitude>
+        <Latitude>51.64333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746456</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

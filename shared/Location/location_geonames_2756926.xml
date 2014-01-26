@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756926</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462960</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Withagen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Withagen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Withagen</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.83425</Longitude>
+        <Latitude>51.44851</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756926</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

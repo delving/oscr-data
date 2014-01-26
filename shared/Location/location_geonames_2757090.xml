@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757090</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462968</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Roethoop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Roethoop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Roethoop</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.06091</Longitude>
+        <Latitude>51.47643</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757090</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

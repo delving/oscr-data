@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757739</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461498</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Briel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Briel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Briel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Briel,De Briel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7</Longitude>
+        <Latitude>51.63333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757739</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

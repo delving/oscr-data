@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747955</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462863</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Roode-Schouw</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Roode-Schouw</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Roode-Schouw</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.28037</Longitude>
+        <Latitude>51.524429999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747955</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

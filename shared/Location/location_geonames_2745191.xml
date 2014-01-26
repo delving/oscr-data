@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745191</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462637</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vresselsebos</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vresselsebos</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vresselsebos</Appelation>
+        <LocationNameType>forest(s)</LocationNameType>
+        <Comments>Vresselsche Bosch,Vresselsebos</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.51431</Longitude>
+        <Latitude>51.54714</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745191</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

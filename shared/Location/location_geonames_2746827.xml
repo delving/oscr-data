@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746827</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462076</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Statendam</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Statendam</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Statendam</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>De Statendam,Oosterhoutse Dam</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.83889</Longitude>
+        <Latitude>51.689170000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746827</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

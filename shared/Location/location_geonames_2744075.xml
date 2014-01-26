@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744075</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463280</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zandhoef</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zandhoef</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zandhoef</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.29509</Longitude>
+        <Latitude>51.314820000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744075</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752088</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462807</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Laakse Vaart</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Laakse Vaart</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Laakse Vaart</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments>Laaksche Vaart,Laakse Vaart</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6083</Longitude>
+        <Latitude>51.569320000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752088</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

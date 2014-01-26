@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950713</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462137</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kasteel Onsenoort</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kasteel Onsenoort</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kasteel Onsenoort</Appelation>
+        <LocationNameType>castle</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.19035</Longitude>
+        <Latitude>51.702020000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950713</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

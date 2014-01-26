@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751689</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462806</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Leurse Haven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Leurse Haven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Leurse Haven</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments>Leursche Haven,Leurse Haven</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.654780000000001</Longitude>
+        <Latitude>51.58655</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751689</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

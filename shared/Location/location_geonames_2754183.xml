@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754183</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462406</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Het Wandelbos</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Het Wandelbos</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Het Wandelbos</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.03754</Longitude>
+        <Latitude>51.577659999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754183</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

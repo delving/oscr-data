@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759508</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463461</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bakelse Beemden</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bakelse Beemden</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Bakelse Beemden</Appelation>
+        <LocationNameType>nature reserve</LocationNameType>
+        <Comments>Bakelsche Beemden,Bakelse Beemden</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.69574</Longitude>
+        <Latitude>51.50013</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759508</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

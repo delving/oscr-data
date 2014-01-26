@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758351</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461477</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Brem</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Brem</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Brem</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.04167</Longitude>
+        <Latitude>51.53083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758351</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

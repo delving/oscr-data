@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954527</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462573</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Watertoren Torenstraat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Watertoren Torenstraat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Watertoren Torenstraat</Appelation>
+        <LocationNameType>tower</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6548300000000005</Longitude>
+        <Latitude>51.48451</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954527</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

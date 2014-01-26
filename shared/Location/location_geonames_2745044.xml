@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745044</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462830</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Wanroijse Peel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Wanroijse Peel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Wanroijse Peel</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments>Wanroijsche Peel,Wanroijse Peel,Wanrooise Peel</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.7879</Longitude>
+        <Latitude>51.62597</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745044</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

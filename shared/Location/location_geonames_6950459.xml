@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950459</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462256</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Windmotor Nistelrode</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Windmotor Nistelrode</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Windmotor Nistelrode</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.56692</Longitude>
+        <Latitude>51.72125</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950459</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

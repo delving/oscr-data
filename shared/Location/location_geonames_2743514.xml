@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743514</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463226</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zwartven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zwartven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zwartven</Appelation>
+        <LocationNameType>pond</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.109369999999999</Longitude>
+        <Latitude>51.3739</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743514</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950421</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462294</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Molen I</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Molen I</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Molen I</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.13806</Longitude>
+        <Latitude>51.73556</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950421</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

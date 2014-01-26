@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754688</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462763</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heense Polder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heense Polder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heense Polder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.23669</Longitude>
+        <Latitude>51.615109999999994</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754688</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

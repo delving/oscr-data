@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748315</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462867</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rauwe Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rauwe Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rauwe Heide</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.53892</Longitude>
+        <Latitude>51.69576</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748315</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

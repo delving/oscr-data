@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758282</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462028</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bladel en Netersel &gt; Broekenseind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bladel en Netersel,Broekenseind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Broekenseind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3</Longitude>
+        <Latitude>51.39583</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758282</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

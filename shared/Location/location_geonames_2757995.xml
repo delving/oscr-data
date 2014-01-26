@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757995</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463643</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Castelreesche Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Castelreesche Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Castelreesche Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.81188</Longitude>
+        <Latitude>51.41982</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757995</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

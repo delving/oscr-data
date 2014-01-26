@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753505</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462041</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Huisseling</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Huisseling</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Huisseling</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Huiseling</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.63889</Longitude>
+        <Latitude>51.7875</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753505</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

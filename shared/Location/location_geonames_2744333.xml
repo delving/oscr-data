@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744333</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461589</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Wintelre</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Wintelre</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Wintelre</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.34028</Longitude>
+        <Latitude>51.44417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744333</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

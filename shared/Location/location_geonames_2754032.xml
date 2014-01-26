@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754032</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463413</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hoefgraaf</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hoefgraaf</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hoefgraaf</Appelation>
+        <LocationNameType>canalized stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3531699999999995</Longitude>
+        <Latitude>51.75111</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754032</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750572</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461213</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Muggenhoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Muggenhoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Muggenhoek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.46784</Longitude>
+        <Latitude>51.65927</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750572</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

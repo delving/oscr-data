@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754166</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462918</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Het Zegge</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Het Zegge</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Het Zegge</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.422</Longitude>
+        <Latitude>51.582440000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754166</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

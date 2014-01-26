@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751818</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463587</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Leenderheide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Leenderheide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Leenderheide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Stratumse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5166699999999995</Longitude>
+        <Latitude>51.41667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751818</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

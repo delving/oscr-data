@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747854</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462799</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rucphensche Vaart</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rucphensche Vaart</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rucphensche Vaart</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.49869</Longitude>
+        <Latitude>51.5316</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747854</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

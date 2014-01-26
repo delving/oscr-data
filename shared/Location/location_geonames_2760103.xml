@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2760103</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463780</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Aanwas</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Aanwas</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Aanwas</Appelation>
+        <LocationNameType>populated locality</LocationNameType>
+        <Comments>Annwas</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.31501</Longitude>
+        <Latitude>51.39195</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2760103</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

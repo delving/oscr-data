@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746004</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462171</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Uden</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Uden</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Uden</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.61258</Longitude>
+        <Latitude>51.65682</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746004</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

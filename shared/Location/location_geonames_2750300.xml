@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750300</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463107</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Nieuwe Leij</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Nieuwe Leij</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nieuwe Leij</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1</Longitude>
+        <Latitude>51.53333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750300</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751454</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463811</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Loonschedijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Loonschedijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Loonschedijk</Appelation>
+        <LocationNameType>populated locality</LocationNameType>
+        <Comments>Loonschen Dijk</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.0166699999999995</Longitude>
+        <Latitude>51.66667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751454</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

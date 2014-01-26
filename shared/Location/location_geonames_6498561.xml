@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6498561</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462471</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Campanile Hotel 's-Hertogenbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Campanile Hotel 's-Hertogenbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Campanile Hotel 's-Hertogenbosch</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.2948</Longitude>
+        <Latitude>51.7236</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6498561</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753181</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462196</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Julianahoeve</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Julianahoeve</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Julianahoeve</Appelation>
+        <LocationNameType>farm</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.89842</Longitude>
+        <Latitude>51.4101</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753181</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

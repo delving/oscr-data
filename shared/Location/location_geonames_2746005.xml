@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746005</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461888</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Uden</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Uden</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Uden</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>UDE,Uden,Уден</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.61944</Longitude>
+        <Latitude>51.66083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746005</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

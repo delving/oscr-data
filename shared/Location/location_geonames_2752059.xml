@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752059</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462892</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Lage Banken</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Lage Banken</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Lage Banken</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.63333</Longitude>
+        <Latitude>51.58333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752059</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

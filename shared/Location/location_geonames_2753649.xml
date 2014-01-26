@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753649</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462750</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder Hooislobben</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder Hooislobben</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder Hooislobben</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.87018</Longitude>
+        <Latitude>51.67992</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753649</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753893</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753460957</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Holleneind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Holleneind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Holleneind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.20747</Longitude>
+        <Latitude>51.59919</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753893</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

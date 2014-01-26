@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757485</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462982</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Huisvennen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Huisvennen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Huisvennen</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.10436</Longitude>
+        <Latitude>51.50264</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757485</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

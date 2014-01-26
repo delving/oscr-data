@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750866</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463113</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Middel Tiend</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Middel Tiend</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Middel Tiend</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7922199999999995</Longitude>
+        <Latitude>51.52887</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750866</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

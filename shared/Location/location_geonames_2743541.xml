@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743541</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462682</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zwartenbergsche Polder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zwartenbergsche Polder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zwartenbergsche Polder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6496699999999995</Longitude>
+        <Latitude>51.62108</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743541</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

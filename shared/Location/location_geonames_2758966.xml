@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758966</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461884</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Biestraat</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Biestraat</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Biestraat</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.925</Longitude>
+        <Latitude>51.54583</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758966</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

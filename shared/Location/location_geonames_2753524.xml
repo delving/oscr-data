@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753524</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461455</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Huifke</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Huifke</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Huifke</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.66667</Longitude>
+        <Latitude>51.6</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753524</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

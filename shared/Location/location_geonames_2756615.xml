@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756615</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462779</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Driebroederspolder</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Driebroederspolder</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Driebroederspolder</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.27221</Longitude>
+        <Latitude>51.625679999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756615</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

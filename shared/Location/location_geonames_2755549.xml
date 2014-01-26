@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755549</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462012</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gewande</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gewande</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gewande</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Het Gewande</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.34861</Longitude>
+        <Latitude>51.75083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755549</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

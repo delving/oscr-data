@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751981</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463589</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Landschotse Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Landschotse Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Landschotse Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Landschotsche Heide,Landschotse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.23987</Longitude>
+        <Latitude>51.44427</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751981</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

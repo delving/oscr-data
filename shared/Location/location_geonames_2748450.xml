@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748450</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462867</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Prinsebosschen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Prinsebosschen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Prinsebosschen</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.379980000000001</Longitude>
+        <Latitude>51.55726</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748450</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

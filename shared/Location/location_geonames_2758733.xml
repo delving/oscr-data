@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758733</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462787</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder Boerenverdriet</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder Boerenverdriet</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder Boerenverdriet</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.89642</Longitude>
+        <Latitude>51.751290000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758733</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

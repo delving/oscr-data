@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753826</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463724</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gat van Honderd en Dertig</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gat van Honderd en Dertig</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gat van Honderd en Dertig</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.77665</Longitude>
+        <Latitude>51.743</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753826</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

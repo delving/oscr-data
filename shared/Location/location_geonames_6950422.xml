@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950422</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462295</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Molen II</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Molen II</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Molen II</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.13917</Longitude>
+        <Latitude>51.73611</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950422</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

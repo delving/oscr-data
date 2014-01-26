@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758163</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461321</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cranendonck &gt; Budel-Schoot</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cranendonck,Budel-Schoot</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Budel-Schoot</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Groot Schoot,Groote Schoot</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5652800000000004</Longitude>
+        <Latitude>51.2475</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758163</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

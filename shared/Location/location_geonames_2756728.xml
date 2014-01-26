@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756728</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463173</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Donge</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Donge</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Donge</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments>De Donge</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.85879</Longitude>
+        <Latitude>51.71092</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756728</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

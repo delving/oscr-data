@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752763</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462909</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kleine Biezen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kleine Biezen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kleine Biezen</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.41371</Longitude>
+        <Latitude>51.54977</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752763</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

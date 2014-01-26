@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752595</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461088</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Klutsdorp</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Klutsdorp</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Klutsdorp</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.29444</Longitude>
+        <Latitude>51.553329999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752595</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

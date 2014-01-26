@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748682</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463103</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Peelse Loop</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Peelse Loop</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Peelse Loop</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments>Peelsche Loop,Peelse Loop</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6567099999999995</Longitude>
+        <Latitude>51.57451</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748682</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

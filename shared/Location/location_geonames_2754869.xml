@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754869</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462765</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder Happenhennip</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder Happenhennip</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder Happenhennip</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.79536</Longitude>
+        <Latitude>51.78394</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754869</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

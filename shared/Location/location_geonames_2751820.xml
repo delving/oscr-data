@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751820</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463328</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Boswachterij Leende</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Boswachterij Leende</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boswachterij Leende</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments>'t Leenderbos,Boswachterij Leende,’t Leenderbos</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.51588</Longitude>
+        <Latitude>51.33173</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751820</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

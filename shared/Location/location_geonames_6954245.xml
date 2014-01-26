@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954245</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463853</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Brouwerij De Kroon</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Brouwerij De Kroon</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Brouwerij De Kroon</Appelation>
+        <LocationNameType>brewery</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.30549</Longitude>
+        <Latitude>51.50165</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954245</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

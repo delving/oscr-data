@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759999</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463035</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Achterste Waaijenberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Achterste Waaijenberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Achterste Waaijenberg</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.70259</Longitude>
+        <Latitude>51.47574</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759999</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

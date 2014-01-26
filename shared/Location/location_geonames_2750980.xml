@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750980</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463251</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Melanen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Melanen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Melanen</Appelation>
+        <LocationNameType>lake</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.28911</Longitude>
+        <Latitude>51.52043</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750980</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

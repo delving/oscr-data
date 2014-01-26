@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753213</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462747</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Polder Jonkershoef en Hoogland</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Polder Jonkershoef en Hoogland</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Polder Jonkershoef en Hoogland</Appelation>
+        <LocationNameType>polder</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.67796</Longitude>
+        <Latitude>51.69412</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753213</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

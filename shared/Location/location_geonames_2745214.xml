@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745214</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463489</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vrachelse Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vrachelse Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vrachelse Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Vrachelsche Heide,Vrachelse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.82388</Longitude>
+        <Latitude>51.636590000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745214</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

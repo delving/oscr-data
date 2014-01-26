@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752271</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463424</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kriekelareduinen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kriekelareduinen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kriekelareduinen</Appelation>
+        <LocationNameType>dune(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.400180000000001</Longitude>
+        <Latitude>51.39217</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752271</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

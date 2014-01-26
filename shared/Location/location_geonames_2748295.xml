@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748295</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463810</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Rechtvaart</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Rechtvaart</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Rechtvaart</Appelation>
+        <LocationNameType>populated locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.00895</Longitude>
+        <Latitude>51.66265</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748295</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

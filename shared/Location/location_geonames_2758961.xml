@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758961</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462029</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bladel en Netersel &gt; Biezenheuvel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bladel en Netersel,Biezenheuvel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Biezenheuvel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.30417</Longitude>
+        <Latitude>51.40583</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758961</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

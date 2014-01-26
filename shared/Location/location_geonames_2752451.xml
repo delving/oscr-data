@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752451</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462327</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Koolhoven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Koolhoven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Koolhoven</Appelation>
+        <LocationNameType>estate(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9815</Longitude>
+        <Latitude>51.56779</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752451</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

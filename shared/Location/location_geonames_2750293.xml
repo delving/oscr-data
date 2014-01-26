@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750293</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461087</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Nieuwe Molen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Nieuwe Molen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nieuwe Molen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.27639</Longitude>
+        <Latitude>51.51833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750293</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

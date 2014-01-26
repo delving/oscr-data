@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753490</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462332</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Huis ter Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Huis ter Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Huis ter Heide</Appelation>
+        <LocationNameType>estate(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.05</Longitude>
+        <Latitude>51.61667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753490</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

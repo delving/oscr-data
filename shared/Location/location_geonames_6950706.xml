@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950706</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462134</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kasteel Dussen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kasteel Dussen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kasteel Dussen</Appelation>
+        <LocationNameType>castle</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9694400000000005</Longitude>
+        <Latitude>51.73389</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950706</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

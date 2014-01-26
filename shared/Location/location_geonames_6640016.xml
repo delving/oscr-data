@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6640016</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462494</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Station Vught</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Station Vught</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Station Vught</Appelation>
+        <LocationNameType>railroad station</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.29202</Longitude>
+        <Latitude>51.65461</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6640016</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749929</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463717</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gat van de Noorderklip</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gat van de Noorderklip</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gat van de Noorderklip</Appelation>
+        <LocationNameType>distributary(-ies)</LocationNameType>
+        <Comments>De Noorder Klip,Gat van de Noorderklip</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7949</Longitude>
+        <Latitude>51.75696</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749929</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753756</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461686</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hoogeind</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hoogeind</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hoogeind</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.9</Longitude>
+        <Latitude>51.43417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753756</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6929979</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463275</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Karpendonkse Plas</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Karpendonkse Plas</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Karpendonkse Plas</Appelation>
+        <LocationNameType>lake</LocationNameType>
+        <Comments>Karpendonksche Plas</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.50055</Longitude>
+        <Latitude>51.4531</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6929979</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

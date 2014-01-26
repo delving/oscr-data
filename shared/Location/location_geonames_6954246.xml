@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6954246</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463854</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; 's-Heerenvijvers</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,'s-Heerenvijvers</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>'s-Heerenvijvers</Appelation>
+        <LocationNameType>shrine</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.30716</Longitude>
+        <Latitude>51.48843</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6954246</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

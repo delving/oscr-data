@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6500627</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462435</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Moerdijk &gt; Golden Tulip Zevenbergen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Moerdijk,Golden Tulip Zevenbergen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Golden Tulip Zevenbergen</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6101</Longitude>
+        <Latitude>51.6442</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6500627</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

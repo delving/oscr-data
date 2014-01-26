@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754618</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463845</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Heeze-Leende &gt; Heeze</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Heeze-Leende,Heeze</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heeze</Appelation>
+        <LocationNameType>seat of a second-order administrative division</LocationNameType>
+        <Comments>Heeze</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.57145</Longitude>
+        <Latitude>51.3828</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754618</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

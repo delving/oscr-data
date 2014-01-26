@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747234</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461380</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sint-Michielsgestel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sint-Michielsgestel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sint-Michielsgestel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.35278</Longitude>
+        <Latitude>51.64167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747234</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

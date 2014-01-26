@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6640199</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462417</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Salderes</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Salderes</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Salderes</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.3899099999999995</Longitude>
+        <Latitude>51.51505</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6640199</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

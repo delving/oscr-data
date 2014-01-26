@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753974</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462916</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hoezaar</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hoezaar</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hoezaar</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.52493</Longitude>
+        <Latitude>51.54895</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753974</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

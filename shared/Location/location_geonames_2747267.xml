@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747267</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463065</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Sint Jansbeek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Sint Jansbeek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Sint Jansbeek</Appelation>
+        <LocationNameType>stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.98108</Longitude>
+        <Latitude>51.61963</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747267</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

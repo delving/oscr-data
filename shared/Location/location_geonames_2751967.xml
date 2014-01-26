@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751967</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462340</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Roosendaal &gt; Langdonk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Roosendaal,Langdonk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Langdonk</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.4705900000000005</Longitude>
+        <Latitude>51.51767</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751967</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

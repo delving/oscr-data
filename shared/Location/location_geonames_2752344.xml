@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752344</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462900</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kraanbraken</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kraanbraken</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kraanbraken</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.12448</Longitude>
+        <Latitude>51.50564</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752344</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

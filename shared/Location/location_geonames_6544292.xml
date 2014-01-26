@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544292</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462148</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Landerd &gt; Gemeente Landerd</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Landerd,Gemeente Landerd</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Landerd</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.6658</Longitude>
+        <Latitude>51.71151</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544292</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

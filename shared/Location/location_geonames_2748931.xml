@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748931</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463405</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oudlandsche Watergang</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oudlandsche Watergang</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oudlandsche Watergang</Appelation>
+        <LocationNameType>canalized stream</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.35008</Longitude>
+        <Latitude>51.581</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748931</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

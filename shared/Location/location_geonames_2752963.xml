@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752963</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461187</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Kempkens</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Kempkens</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kempkens</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.5191300000000005</Longitude>
+        <Latitude>51.5943</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752963</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

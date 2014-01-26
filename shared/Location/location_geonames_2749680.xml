@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749680</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461289</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oisterwijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oisterwijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oisterwijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Oisterwijk,Ojstervejk,Oosterwijk,Ойстервейк</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.18889</Longitude>
+        <Latitude>51.57917</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749680</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

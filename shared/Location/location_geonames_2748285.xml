@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748285</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463476</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Reeksche Bergen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Reeksche Bergen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Reeksche Bergen</Appelation>
+        <LocationNameType>hills</LocationNameType>
+        <Comments>Reeksche Bergen,Reekse Bergen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.7143</Longitude>
+        <Latitude>51.72869</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748285</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

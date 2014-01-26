@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755833</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462026</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bladel en Netersel &gt; Franse Hoef</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bladel en Netersel,Franse Hoef</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Franse Hoef</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1986099999999995</Longitude>
+        <Latitude>51.376670000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755833</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

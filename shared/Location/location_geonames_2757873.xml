@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757873</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462148</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cuijk &gt; Gemeente Cuijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cuijk,Gemeente Cuijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente Cuijk</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>Cuijk,Cuyk en Sint Agatha,Gemeente Cuijk,Gemeente Cuijk en Sint Agatha</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.85773</Longitude>
+        <Latitude>51.71739</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757873</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

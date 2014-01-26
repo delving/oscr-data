@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950384</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462260</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Landerd &gt; Coppensmolen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Landerd,Coppensmolen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Coppensmolen</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.67713</Longitude>
+        <Latitude>51.70386</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950384</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

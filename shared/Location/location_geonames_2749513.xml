@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2749513</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461833</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Oostelbeers</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Oostelbeers</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Oostelbeers</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.2689699999999995</Longitude>
+        <Latitude>51.471709999999995</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2749513</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743960</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461288</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zelt</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zelt</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zelt</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.17778</Longitude>
+        <Latitude>51.52583</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743960</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

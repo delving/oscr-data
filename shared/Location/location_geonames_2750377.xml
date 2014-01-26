@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750377</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461635</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Nieuw Acht</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Nieuw Acht</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Nieuw Acht</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4069400000000005</Longitude>
+        <Latitude>51.4675</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750377</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

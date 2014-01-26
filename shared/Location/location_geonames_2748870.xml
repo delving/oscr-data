@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748870</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461277</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Geldrop-Mierlo &gt; Overakker</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Geldrop-Mierlo,Overakker</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Overakker</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.62639</Longitude>
+        <Latitude>51.43417</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748870</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2753836</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461218</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Bernheze &gt; Hommelse Hoeven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Bernheze,Hommelse Hoeven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hommelse Hoeven</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.50139</Longitude>
+        <Latitude>51.66083</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2753836</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

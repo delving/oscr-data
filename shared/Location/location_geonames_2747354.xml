@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747354</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463668</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; ’s-Heerenven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,’s-Heerenven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>’s-Heerenven</Appelation>
+        <LocationNameType>marsh(es)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.625780000000001</Longitude>
+        <Latitude>51.41429</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747354</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

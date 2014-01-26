@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755237</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461689</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Groot-Bedaf</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Groot-Bedaf</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Groot-Bedaf</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Bedaf</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.0027800000000004</Longitude>
+        <Latitude>51.450829999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755237</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

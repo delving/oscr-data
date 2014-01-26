@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6948730</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462499</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Station Oss</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Station Oss</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Station Oss</Appelation>
+        <LocationNameType>railroad station</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.53124</Longitude>
+        <Latitude>51.765240000000006</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6948730</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

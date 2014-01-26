@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754469</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461304</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Made en Drimmelen &gt; Helkant</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Made en Drimmelen,Helkant</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Helkant</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.754169999999999</Longitude>
+        <Latitude>51.675</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754469</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747350</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462176</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente 's-Hertogenbosch</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente 's-Hertogenbosch</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Gemeente 's-Hertogenbosch</Appelation>
+        <LocationNameType>second-order administrative division</LocationNameType>
+        <Comments>'s-Hertogenbosch,Bois le Duc,Den Bosch</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.30056</Longitude>
+        <Latitude>51.68267</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747350</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

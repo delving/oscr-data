@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754888</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461857</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Hank</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Hank</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Hank</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.89722</Longitude>
+        <Latitude>51.735</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754888</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

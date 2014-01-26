@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754262</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462668</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Het Hurkske</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Het Hurkske</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Het Hurkske</Appelation>
+        <LocationNameType>forest(s)</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.61862</Longitude>
+        <Latitude>51.58586</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754262</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757529</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461971</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; De Hoeven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,De Hoeven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Hoeven</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.17917</Longitude>
+        <Latitude>51.7075</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757529</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

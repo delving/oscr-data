@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758718</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461713</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Bergeijk &gt; Boevenheuvel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Bergeijk,Boevenheuvel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Boevenheuvel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.35</Longitude>
+        <Latitude>51.35</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758718</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

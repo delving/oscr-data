@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2750803</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461540</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Gemert-Bakel &gt; Milheeze</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Gemert-Bakel,Milheeze</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Milheeze</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.77917</Longitude>
+        <Latitude>51.501670000000004</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2750803</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

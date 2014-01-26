@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2756781</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461498</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Diunt</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Diunt</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Diunt</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7472199999999996</Longitude>
+        <Latitude>51.50833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2756781</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

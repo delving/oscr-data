@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6502206</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462461</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Best Western De Druiventros</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Best Western De Druiventros</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Best Western De Druiventros</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.1336</Longitude>
+        <Latitude>51.5726</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6502206</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

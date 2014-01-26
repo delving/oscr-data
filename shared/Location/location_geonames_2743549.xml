@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743549</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463276</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zwarte Horst</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zwarte Horst</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zwarte Horst</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments>Zwarte Horst,Zwarte-Horstweijer</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.2603800000000005</Longitude>
+        <Latitude>51.269940000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743549</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

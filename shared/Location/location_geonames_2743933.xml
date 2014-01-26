@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2743933</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461158</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Heeze-Leende &gt; Zevenhuizen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Heeze-Leende,Zevenhuizen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zevenhuizen</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.56111</Longitude>
+        <Latitude>51.34333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2743933</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

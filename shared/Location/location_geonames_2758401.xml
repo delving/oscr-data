@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758401</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461499</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Breda</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Breda</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Breda</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Breda,Brenta,Brigita,Bréda,GLZ,Gorad Brehda,beuleda,brda,brdh,breda,bryda,bu lei da,bureda,Μπρέντα,Бреда,Горад Брэда,ברדה,بردا,بريدا,بریڈا,ბრედა,ブレダ,布雷达,브레다</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7759599999999995</Longitude>
+        <Latitude>51.58656</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758401</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

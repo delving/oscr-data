@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744005</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463482</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Zeelstse Heide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Zeelstse Heide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Zeelstse Heide</Appelation>
+        <LocationNameType>heath</LocationNameType>
+        <Comments>Zeelstsche Heide,Zeelstse Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.38333</Longitude>
+        <Latitude>51.45</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744005</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

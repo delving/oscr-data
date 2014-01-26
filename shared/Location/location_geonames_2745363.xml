@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745363</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462832</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vogelenzang</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vogelenzang</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vogelenzang</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.78686</Longitude>
+        <Latitude>51.42998</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745363</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

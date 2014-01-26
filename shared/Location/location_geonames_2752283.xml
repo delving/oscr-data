@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752283</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461170</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Heeze-Leende &gt; Kreijl</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Heeze-Leende,Kreijl</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Kreijl</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Kreil</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.56389</Longitude>
+        <Latitude>51.395</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752283</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

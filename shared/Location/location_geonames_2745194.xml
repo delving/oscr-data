@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745194</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461326</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vreewijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vreewijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vreewijk</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments>Vreekwijk,Vrekwijk</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.79861</Longitude>
+        <Latitude>51.443329999999996</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745194</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

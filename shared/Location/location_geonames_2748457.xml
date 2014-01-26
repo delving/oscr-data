@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2748457</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462364</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Princenhage</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Princenhage</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Princenhage</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments>Prinsenhage</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.73906</Longitude>
+        <Latitude>51.57632</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2748457</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

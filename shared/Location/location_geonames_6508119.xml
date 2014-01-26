@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6508119</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462465</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Ibis Tilburg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Ibis Tilburg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Ibis Tilburg</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.0497</Longitude>
+        <Latitude>51.5416</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6508119</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

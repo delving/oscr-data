@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2744822</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461645</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Werveld</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Werveld</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Werveld</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.92778</Longitude>
+        <Latitude>51.68833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2744822</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

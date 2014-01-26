@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757009</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461353</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Deurne</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Deurne</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Deurne</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.797219999999999</Longitude>
+        <Latitude>51.46</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757009</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

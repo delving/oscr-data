@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2755033</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462368</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Haagse Beemden</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Haagse Beemden</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Haagse Beemden</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.7481</Longitude>
+        <Latitude>51.61103</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2755033</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

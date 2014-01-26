@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752800</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463333</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Klaterspeel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Klaterspeel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Klaterspeel</Appelation>
+        <LocationNameType>park</LocationNameType>
+        <Comments>Klaterspeel,Zevenhuizensche Heide</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.59476</Longitude>
+        <Latitude>51.3363</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752800</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

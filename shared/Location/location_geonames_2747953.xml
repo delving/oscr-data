@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2747953</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462800</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Roode Vaart</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Roode Vaart</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Roode Vaart</Appelation>
+        <LocationNameType>canal</LocationNameType>
+        <Comments>Haven van Zevenbergen,Roode Vaart</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.58486</Longitude>
+        <Latitude>51.627790000000005</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2747953</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

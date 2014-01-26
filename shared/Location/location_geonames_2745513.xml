@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2745513</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461115</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Vilheide</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Vilheide</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Vilheide</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.76944</Longitude>
+        <Latitude>51.69167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2745513</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

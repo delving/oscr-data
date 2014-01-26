@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2746989</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461474</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Spaansehoek</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Spaansehoek</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Spaansehoek</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.0111099999999995</Longitude>
+        <Latitude>51.52333</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2746989</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

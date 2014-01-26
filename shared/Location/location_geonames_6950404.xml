@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950404</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462257</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Gemeente Cuijk &gt; Jan van Cuijk</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Gemeente Cuijk,Jan van Cuijk</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Jan van Cuijk</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.88964</Longitude>
+        <Latitude>51.72071</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950404</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

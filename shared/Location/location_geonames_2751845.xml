@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2751845</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462886</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Lavijbos</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Lavijbos</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Lavijbos</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.57103</Longitude>
+        <Latitude>51.44566</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2751845</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

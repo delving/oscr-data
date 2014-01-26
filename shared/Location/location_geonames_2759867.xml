@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2759867</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463478</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Alphense Bergen</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Alphense Bergen</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Alphense Bergen</Appelation>
+        <LocationNameType>hills</LocationNameType>
+        <Comments>Alphensche Bergen,Alphense Bergen</Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.92566</Longitude>
+        <Latitude>51.48183</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2759867</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

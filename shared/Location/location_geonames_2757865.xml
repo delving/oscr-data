@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2757865</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463004</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Daasdonksche Tiend</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Daasdonksche Tiend</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Daasdonksche Tiend</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.78045</Longitude>
+        <Latitude>51.52231</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2757865</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

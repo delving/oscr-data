@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6544847</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462057</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Neerlangel</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Neerlangel</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Neerlangel</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.64583</Longitude>
+        <Latitude>51.80833</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6544847</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

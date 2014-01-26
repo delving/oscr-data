@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2754127</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753461191</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Heuvelberg</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Heuvelberg</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Heuvelberg</Appelation>
+        <LocationNameType>populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.62639</Longitude>
+        <Latitude>51.59167</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2754127</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

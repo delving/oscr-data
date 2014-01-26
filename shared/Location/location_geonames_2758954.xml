@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2758954</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463023</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Biggelaar</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Biggelaar</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Biggelaar</Appelation>
+        <LocationNameType>locality</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.6283</Longitude>
+        <Latitude>51.46733</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2758954</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

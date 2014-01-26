@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6843453</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753463464</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Riels Hoefke</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Riels Hoefke</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Riels Hoefke</Appelation>
+        <LocationNameType>nature reserve</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.00839</Longitude>
+        <Latitude>51.5018</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6843453</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2752258</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462365</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Krogten</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Krogten</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Krogten</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.76751</Longitude>
+        <Latitude>51.61207</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2752258</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

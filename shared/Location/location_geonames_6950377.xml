@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6950377</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462251</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Roosendaal &gt; De Arend</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Roosendaal,De Arend</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>De Arend</Appelation>
+        <LocationNameType>windmill</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>4.385280000000001</Longitude>
+        <Latitude>51.51639</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6950377</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

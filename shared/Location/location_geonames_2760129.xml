@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_2760129</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462423</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Aalst</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Aalst</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Aalst</Appelation>
+        <LocationNameType>section of populated place</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.47778</Longitude>
+        <Latitude>51.39667</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/2760129</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>

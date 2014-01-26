@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Document>
+  <Header>
+    <SchemaName>Location</SchemaName>
+    <Identifier>location_geonames_6470088</Identifier>
+    <DocumentState>public</DocumentState>
+    <TimeStamp>1390753462454</TimeStamp>
+    <SummaryFields>
+      <Title>NL &gt; North Brabant &gt; Novotel Eindhoven</Title>
+    </SummaryFields>
+  </Header>
+  <Body>
+    <Location>
+      <GeopoliticalHierarchy>NL,North Brabant,Novotel Eindhoven</GeopoliticalHierarchy>
+      <LocationName>
+        <Appelation>Novotel Eindhoven</Appelation>
+        <LocationNameType>hotel</LocationNameType>
+        <Comments></Comments>
+      </LocationName>
+      <Coordinates>
+        <Longitude>5.4067</Longitude>
+        <Latitude>51.4581</Latitude>
+      </Coordinates>
+      <GeonamesURI>http://www.geonames.org/6470088</GeonamesURI>
+      <WikipediaLink/>
+      <DbpediaLink/>
+    </Location>
+  </Body>
+</Document>
