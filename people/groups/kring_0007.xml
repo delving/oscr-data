@@ -2,4 +2,11 @@
 <Group>
   <Identifier>kring_0007</Identifier>
   <Name>Heemkundekring 'De Lange Vonder'</Name>
+  <Adres>
+    <Street>Smalleweg 56</Street>
+    <Postcode>5741 JP</Postcode>
+    <Place> Beek En Donk</Place>
+    <Flag></Flag>
+  </Adres>
+  <Website></Website>
 </Group>

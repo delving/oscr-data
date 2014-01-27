@@ -2,4 +2,11 @@
 <Group>
   <Identifier>kring_0060</Identifier>
   <Name>Heemkundekring 'Myerle'</Name>
+  <Adres>
+    <Street>Burg. v. Lokvenstraat 135</Street>
+    <Postcode>5731 LT</Postcode>
+    <Place> Mierlo</Place>
+    <Flag></Flag>
+  </Adres>
+  <Website></Website>
 </Group>

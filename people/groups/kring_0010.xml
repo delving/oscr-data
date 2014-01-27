@@ -2,4 +2,11 @@
 <Group>
   <Identifier>kring_0010</Identifier>
   <Name>Heemkundekring 'De Plaets'</Name>
+  <Adres>
+    <Street>Oegstgeestsestraat 6</Street>
+    <Postcode>5258 HP</Postcode>
+    <Place> Berlicum</Place>
+    <Flag></Flag>
+  </Adres>
+  <Website></Website>
 </Group>

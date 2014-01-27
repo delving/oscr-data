@@ -2,4 +2,11 @@
 <Group>
   <Identifier>kring_0081</Identifier>
   <Name>Heemkundekring 'Schaijk-Reek'</Name>
+  <Adres>
+    <Street>p/a Netjeshof  2</Street>
+    <Postcode>5374 AB</Postcode>
+    <Place> Schaijk</Place>
+    <Flag></Flag>
+  </Adres>
+  <Website></Website>
 </Group>

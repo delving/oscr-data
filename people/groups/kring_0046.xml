@@ -2,4 +2,11 @@
 <Group>
   <Identifier>kring_0046</Identifier>
   <Name>Kring Vrienden van 's-Hertogenbosch</Name>
+  <Adres>
+    <Street>Postbus 1162</Street>
+    <Postcode>5200 BE</Postcode>
+    <Place> 'S-Hertogenbosch</Place>
+    <Flag></Flag>
+  </Adres>
+  <Website></Website>
 </Group>
