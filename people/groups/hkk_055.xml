@@ -5,8 +5,8 @@
   <Adres>
     <Street>Schubertstraat 12</Street>
     <Postcode>4661 BC</Postcode>
-    <Place> Halsteren</Place>
-    <Flag></Flag>
+    <Place>Halsteren</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1866_Halsteren.gif/200px-1866_Halsteren.gif</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

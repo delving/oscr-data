@@ -5,8 +5,8 @@
   <Adres>
     <Street>Oranje Nassaustraat 8f</Street>
     <Postcode>5554 AG</Postcode>
-    <Place> Valkenswaard</Place>
-    <Flag></Flag>
+    <Place>Valkenswaard</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Valkenswaard.svg/200px-Flag_of_Valkenswaard.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

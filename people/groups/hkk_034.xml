@@ -5,8 +5,8 @@
   <Adres>
     <Street>Hoek 25 A</Street>
     <Postcode>5571 GJ</Postcode>
-    <Place> Bergeijk</Place>
-    <Flag></Flag>
+    <Place>Bergeijk</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bergeijk_Netherlands.svg/200px-Bergeijk_Netherlands.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

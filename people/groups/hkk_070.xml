@@ -5,8 +5,8 @@
   <Adres>
     <Street>Grotestraat 103</Street>
     <Postcode>5151 JD</Postcode>
-    <Place> Drunen</Place>
-    <Flag></Flag>
+    <Place>Drunen</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vlag_Drunen.gif/200px-Vlag_Drunen.gif</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

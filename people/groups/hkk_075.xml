@@ -5,8 +5,8 @@
   <Adres>
     <Street>Kortenaerstraat 60</Street>
     <Postcode>5481 HN</Postcode>
-    <Place> Schijndel</Place>
-    <Flag></Flag>
+    <Place>Schijndel</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schijndel_Netherlands.svg/200px-Schijndel_Netherlands.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

@@ -5,8 +5,8 @@
   <Adres>
     <Street>Kanaaldijk Noordwest 29</Street>
     <Postcode>5707 LA</Postcode>
-    <Place> Helmond</Place>
-    <Flag></Flag>
+    <Place>Helmond</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helmond_vlag.png/200px-Helmond_vlag.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

@@ -5,8 +5,8 @@
   <Adres>
     <Street>Beatrixstraat 31</Street>
     <Postcode>5441 AX</Postcode>
-    <Place> Oeffelt</Place>
-    <Flag></Flag>
+    <Place>Oeffelt</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Oeffelt.gif/200px-Flag_of_Oeffelt.gif</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

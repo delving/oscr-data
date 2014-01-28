@@ -5,8 +5,8 @@
   <Adres>
     <Street>Bouwmeesterstraat 3</Street>
     <Postcode>5462 CP</Postcode>
-    <Place> Veghel</Place>
-    <Flag></Flag>
+    <Place>Veghel</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Veghel.svg/200px-Flag_of_Veghel.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

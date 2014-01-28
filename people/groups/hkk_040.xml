@@ -5,8 +5,8 @@
   <Adres>
     <Street>Johannes Vermeerlaan 16</Street>
     <Postcode>5143 GK</Postcode>
-    <Place> Waalwijk</Place>
-    <Flag></Flag>
+    <Place>Waalwijk</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Waalwijk_vlag.svg/200px-Waalwijk_vlag.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

@@ -5,8 +5,8 @@
   <Adres>
     <Street>Menno van Coehoornstraat 12</Street>
     <Postcode>4797 BL</Postcode>
-    <Place> Willemstad</Place>
-    <Flag></Flag>
+    <Place>Willemstad</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Punda_otrabanda.jpg/200px-Punda_otrabanda.jpg</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

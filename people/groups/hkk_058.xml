@@ -5,8 +5,8 @@
   <Adres>
     <Street>p/a Pastoor Dierckstraat  17</Street>
     <Postcode>4645 EK</Postcode>
-    <Place>  Putte</Place>
-    <Flag></Flag>
+    <Place>Putte</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/PutteLocatie.png/200px-PutteLocatie.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

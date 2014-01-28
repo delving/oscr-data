@@ -5,8 +5,8 @@
   <Adres>
     <Street>Vlastraat 22</Street>
     <Postcode>5388 RS</Postcode>
-    <Place> Nistelrode</Place>
-    <Flag></Flag>
+    <Place>Nistelrode</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vlag_nistelrode.gif/200px-Vlag_nistelrode.gif</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

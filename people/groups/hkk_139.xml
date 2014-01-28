@@ -5,8 +5,8 @@
   <Adres>
     <Street>Dijkhei 5</Street>
     <Postcode>5508 VT</Postcode>
-    <Place> Veldhoven</Place>
-    <Flag></Flag>
+    <Place>Veldhoven</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Veldhoven_vlag.svg/200px-Veldhoven_vlag.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

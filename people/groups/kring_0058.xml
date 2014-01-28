@@ -5,8 +5,8 @@
   <Adres>
     <Street>Dr. Baptiststraat 13</Street>
     <Postcode>5366 BA</Postcode>
-    <Place> Megen</Place>
-    <Flag></Flag>
+    <Place>Megen</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Megen_wapen.svg/200px-Megen_wapen.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

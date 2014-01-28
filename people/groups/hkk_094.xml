@@ -5,8 +5,8 @@
   <Adres>
     <Street>p/a Trompethof 7</Street>
     <Postcode>5101 AK</Postcode>
-    <Place> Dongen</Place>
-    <Flag></Flag>
+    <Place>Dongen</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dongen_Netherlands.svg/200px-Dongen_Netherlands.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

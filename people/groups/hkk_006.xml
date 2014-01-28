@@ -5,8 +5,8 @@
   <Adres>
     <Street>Kerkstraat 14</Street>
     <Postcode>5431 DS</Postcode>
-    <Place> Cuijk</Place>
-    <Flag></Flag>
+    <Place>Cuijk</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cuijk_Netherlands.svg/200px-Cuijk_Netherlands.svg.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

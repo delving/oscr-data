@@ -5,8 +5,8 @@
   <Adres>
     <Street>De Band 49</Street>
     <Postcode>5397 AD</Postcode>
-    <Place> Lith</Place>
-    <Flag></Flag>
+    <Place>Lith</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lith_vlag.png/200px-Lith_vlag.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>

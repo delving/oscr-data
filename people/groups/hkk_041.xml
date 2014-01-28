@@ -5,8 +5,8 @@
   <Adres>
     <Street>Snellaertsstraat 1</Street>
     <Postcode>5688 CZ</Postcode>
-    <Place> Oirschot</Place>
-    <Flag></Flag>
+    <Place>Oirschot</Place>
+    <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Oirschot.png/200px-Flag_of_Oirschot.png</Thumbnail>
   </Adres>
   <Website></Website>
 </Group>
