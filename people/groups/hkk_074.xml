@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_074</Identifier>
   <Name>Heemkundekring Rosmalen</Name>
-  <Adres>
+  <Address>
     <Street>Postbus 64</Street>
     <Postcode>5240 AB</Postcode>
     <Place>Rosmalen</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vlagrosmalen.jpg/200px-Vlagrosmalen.jpg</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

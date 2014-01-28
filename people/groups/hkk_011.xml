@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_011</Identifier>
   <Name>Heemkundegroep De Mierde</Name>
-  <Adres>
+  <Address>
     <Street>p/a St. Cornelisstraat 39a</Street>
     <Postcode>5095 AZ</Postcode>
     <Place>Hooge Mierde</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

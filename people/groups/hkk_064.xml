@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_064</Identifier>
   <Name>Heemkundekring Landhorster Heem</Name>
-  <Adres>
+  <Address>
     <Street>Schapendreef 24</Street>
     <Postcode>5445 AB</Postcode>
     <Place>Landhorst</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

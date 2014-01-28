@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_143</Identifier>
   <Name>Stichting Myllesheem</Name>
-  <Adres>
+  <Address>
     <Street>Domeinenstraat 75</Street>
     <Postcode>5451 AE</Postcode>
     <Place>Mill</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

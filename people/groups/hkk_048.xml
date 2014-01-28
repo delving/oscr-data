@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_048</Identifier>
   <Name>Heemkundekring De Willemstad</Name>
-  <Adres>
+  <Address>
     <Street>Menno van Coehoornstraat 12</Street>
     <Postcode>4797 BL</Postcode>
     <Place>Willemstad</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Punda_otrabanda.jpg/200px-Punda_otrabanda.jpg</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

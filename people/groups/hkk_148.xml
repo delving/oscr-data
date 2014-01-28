@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_148</Identifier>
   <Name>Werkgroep Heemkunde Esbeek</Name>
-  <Adres>
+  <Address>
     <Street>Esbeekseweg 35</Street>
     <Postcode>5085 EA</Postcode>
     <Place>Esbeek</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

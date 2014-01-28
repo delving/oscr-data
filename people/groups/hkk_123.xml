@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_123</Identifier>
   <Name>Historische Vereniging Nepomuk</Name>
-  <Adres>
+  <Address>
     <Street>Kanarie 39</Street>
     <Postcode>5831 ND</Postcode>
     <Place>Boxmeer</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boxmeer_vlag.svg/200px-Boxmeer_vlag.svg.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

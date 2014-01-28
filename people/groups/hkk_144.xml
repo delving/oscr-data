@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_144</Identifier>
   <Name>Stichting Sambeeks Heem</Name>
-  <Adres>
+  <Address>
     <Street>Torenstraat 44</Street>
     <Postcode>5836 AM</Postcode>
     <Place>Sambeek</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lime_tree_in_Sambeek_75dpi.jpg/200px-Lime_tree_in_Sambeek_75dpi.jpg</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

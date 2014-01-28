@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_102</Identifier>
   <Name>Heemkundevereniging Den Hogert</Name>
-  <Adres>
+  <Address>
     <Street>Boomstraat 49A</Street>
     <Postcode>5291 AE</Postcode>
     <Place>Gemonde</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

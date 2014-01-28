@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_009</Identifier>
   <Name>Heemkunde Werkgroep 'Vladerack'</Name>
-  <Adres>
+  <Address>
     <Street>Meidoornstraat 2</Street>
     <Postcode>5386 GZ</Postcode>
     <Place>Geffen</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_140</Identifier>
   <Name>Stichting Historisch Erfgoed Helmond</Name>
-  <Adres>
+  <Address>
     <Street>Kanaaldijk Noordwest 29</Street>
     <Postcode>5707 LA</Postcode>
     <Place>Helmond</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helmond_vlag.png/200px-Helmond_vlag.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

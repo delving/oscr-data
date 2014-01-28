@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_004</Identifier>
   <Name>Erfgoedlokaal Haren Ons Dorp</Name>
-  <Adres>
+  <Address>
     <Street>Groote Woordstraat 5</Street>
     <Postcode>5368 AH</Postcode>
     <Place>Haren</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

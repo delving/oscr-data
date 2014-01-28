@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_082</Identifier>
   <Name>Heemkundekring Uden</Name>
-  <Adres>
+  <Address>
     <Street>Walterus Pijnenborghhof 34</Street>
     <Postcode>5401 XT</Postcode>
     <Place>Uden</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Flag_of_Uden.svg/200px-Flag_of_Uden.svg.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

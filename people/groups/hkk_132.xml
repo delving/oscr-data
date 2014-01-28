@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_132</Identifier>
   <Name>Stichting Gassels Heem</Name>
-  <Adres>
+  <Address>
     <Street>Schuttersweg 10</Street>
     <Postcode>5438 AH</Postcode>
     <Place>Gassel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/1865_Gassel.gif/200px-1865_Gassel.gif</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_047</Identifier>
   <Name>Heemkundekring De Vonder</Name>
-  <Adres>
+  <Address>
     <Street>Molenstraat 10</Street>
     <Postcode>5711 EW</Postcode>
     <Place>Someren</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LocatieSomeren.png/200px-LocatieSomeren.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

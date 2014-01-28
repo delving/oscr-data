@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_134</Identifier>
   <Name>Stichting Haps Heem</Name>
-  <Adres>
+  <Address>
     <Street>Zoetendaalstraat 6</Street>
     <Postcode>5443 AM</Postcode>
     <Place>Haps</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Haps.png/200px-Haps.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_137</Identifier>
   <Name>Stichting Heemkunde Moerdijk</Name>
-  <Adres>
+  <Address>
     <Street>Julianastraat 2</Street>
     <Postcode>4782 AN</Postcode>
     <Place>Moerdijk</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Moerdijk.svg/200px-Flag_of_Moerdijk.svg.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

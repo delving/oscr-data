@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_101</Identifier>
   <Name>Heemkundevereniging Den Beerschen Aard</Name>
-  <Adres>
+  <Address>
     <Street>Kuikseindseweg 10</Street>
     <Postcode>5091 TD</Postcode>
     <Place>Middelbeers</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

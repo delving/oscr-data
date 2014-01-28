@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_057</Identifier>
   <Name>Heemkundekring Helmont</Name>
-  <Adres>
+  <Address>
     <Street>Stationsplein 39</Street>
     <Postcode>5701 PE</Postcode>
     <Place>Helmond</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Helmond_vlag.png/200px-Helmond_vlag.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_010</Identifier>
   <Name>Heemkunde Werkgroep Reusel (HWR)</Name>
-  <Adres>
+  <Address>
     <Street>Groeneweg 1a</Street>
     <Postcode>5541 AE</Postcode>
     <Place>Reusel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reusel-kerk.jpg/200px-Reusel-kerk.jpg</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_100</Identifier>
   <Name>Heemkundevereniging De Vyer Heertganghen</Name>
-  <Adres>
+  <Address>
     <Street>Nieuwe Rielseweg 41-43</Street>
     <Postcode>5051 PD</Postcode>
     <Place>Goirle</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Goirle_vlag.svg/200px-Goirle_vlag.svg.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

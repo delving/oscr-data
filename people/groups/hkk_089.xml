@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_089</Identifier>
   <Name>Heemkundevereniging 'Nuwelant'</Name>
-  <Adres>
+  <Address>
     <Street>Heiweg 11</Street>
     <Postcode>5391 EH</Postcode>
     <Place>Nuland</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/1867_Nuland.gif/200px-1867_Nuland.gif</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

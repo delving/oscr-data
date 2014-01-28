@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_131</Identifier>
   <Name>Stichting Erfgoed Kaatsheuvel</Name>
-  <Adres>
+  <Address>
     <Street>Dr. Ariënsplein 2</Street>
     <Postcode>5171 KA</Postcode>
     <Place>Kaatsheuvel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kaatsheuvel_molen_De_Eendragt.jpg/200px-Kaatsheuvel_molen_De_Eendragt.jpg</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

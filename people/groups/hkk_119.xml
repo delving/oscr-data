@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_119</Identifier>
   <Name>Heemschut Sint Huybert</Name>
-  <Adres>
+  <Address>
     <Street>Tamboerstraat 8</Street>
     <Postcode>5454 MB</Postcode>
     <Place>Sint-Hubert</Place>
     <Thumbnail/>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

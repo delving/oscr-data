@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_141</Identifier>
   <Name>Stichting Historisch Genootschap Valkenswaard</Name>
-  <Adres>
+  <Address>
     <Street>Karel Mollenstraat 93</Street>
     <Postcode>5554 CG</Postcode>
     <Place>Valkenswaard</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Valkenswaard.svg/200px-Flag_of_Valkenswaard.svg.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_136</Identifier>
   <Name>Stichting Heemcentrum "'t Schoor"</Name>
-  <Adres>
+  <Address>
     <Street>Achthoevenstraat 48</Street>
     <Postcode>5071 AS</Postcode>
     <Place>Udenhout</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vlagudenhout.gif/200px-Vlagudenhout.gif</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

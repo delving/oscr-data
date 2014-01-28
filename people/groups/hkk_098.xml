@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_098</Identifier>
   <Name>Heemkundevereniging De Vierschaer</Name>
-  <Adres>
+  <Address>
     <Street>Postbus 57</Street>
     <Postcode>4724 ZH</Postcode>
     <Place>Wouw</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/RoosendaalsestraatWouw.JPG/200px-RoosendaalsestraatWouw.JPG</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

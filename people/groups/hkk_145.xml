@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_145</Identifier>
   <Name>Stichting Spoorbrug Geertruidenberg</Name>
-  <Adres>
+  <Address>
     <Street>Markt 11</Street>
     <Postcode>4931 BR</Postcode>
     <Place>Geertruidenberg</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Markt_-_stadhuis_-_Geertruidenberg.jpg/200px-Markt_-_stadhuis_-_Geertruidenberg.jpg</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>

@@ -2,11 +2,11 @@
 <Group>
   <Identifier>hkk_128</Identifier>
   <Name>Stichting "De Oude Schoenendoos"</Name>
-  <Adres>
+  <Address>
     <Street>Bossenhoekweg 14</Street>
     <Postcode>5825 HA</Postcode>
     <Place>Overloon</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Map_-_NL_-_Boxmeer_-_Wijk_07_Overloon_-_Buurt_00_Overloon_Centrum.svg/200px-Map_-_NL_-_Boxmeer_-_Wijk_07_Overloon_-_Buurt_00_Overloon_Centrum.svg.png</Thumbnail>
-  </Adres>
+  </Address>
   <Website></Website>
 </Group>
