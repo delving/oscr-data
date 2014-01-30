@@ -1,26 +1,18 @@
 
 <!--this is the information that is automatically associated with a digital-->
 <!--object when it is uploaded-->
+<!--its identifier is to be found in the header, as well as the group to which it belongs        -->
 
 <MediaMetadata>
-
-    <!--who uploaded it-->
-    <UserIdentifier/>
-
-    <!--to which group do they belong-->
-    <GroupIdentifier/>
-
-    <!--what is the path of the file inside the system-->
-    <FilePath/>
-
-    <!--what was the original file name, in case it was changed to make FilePath-->
-    <OriginalFileName/>
 
     <!--how can it be displayed-->
     <MimeType/>
 
+    <!--what was the original file name, in case it was changed to make FilePath-->
+    <OriginalFileName/>
+
     <!--was there any data embedded in the file itself-->
-    <EmbeddedMetadata>
+    <EmbeddedMetadata>{ "multiple": true }
 
         <!--what kind of metdata, eg. EXIF-->
         <MetadataName/>
@@ -29,5 +21,11 @@
         <MetadataValue/>
 
     </EmbeddedMetadata>
+
+    <!--present/true when there is one.  we know the mime type-->
+    <ThumbnailName/>
+
+    <!--present/true when there is one.  we know the mime type-->
+    <HasDeepZoom/>
 
 </MediaMetadata>
