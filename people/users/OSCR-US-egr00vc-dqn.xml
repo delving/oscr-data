@@ -1,0 +1,15 @@
+<User>
+  <Identifier>OSCR-US-egr00vc-dqn</Identifier>
+  <Profile>
+    <firstName>Eric</firstName>
+    <lastName>van der Meulen</lastName>
+    <email>eric@delving.eu</email>
+    <linkedIn>ericvandermeulen</linkedIn>
+    <username>Zemyatin</username>
+  </Profile>
+  <SaveTime>1391164562280</SaveTime>
+  <Membership>
+    <GroupIdentifier>OSCR</GroupIdentifier>
+    <Role>Administrator</Role>
+  </Membership>
+</User>
