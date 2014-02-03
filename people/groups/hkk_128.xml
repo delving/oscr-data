@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_128</Identifier>
   <Name>Stichting "De Oude Schoenendoos"</Name>
@@ -8,5 +7,5 @@
     <Place>Overloon</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Map_-_NL_-_Boxmeer_-_Wijk_07_Overloon_-_Buurt_00_Overloon_Centrum.svg/200px-Map_-_NL_-_Boxmeer_-_Wijk_07_Overloon_-_Buurt_00_Overloon_Centrum.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

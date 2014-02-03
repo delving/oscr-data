@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_113</Identifier>
   <Name>Heemkundige kring De Oude Vrijheid</Name>
@@ -8,5 +7,5 @@
     <Place>Sint-Oedenrode</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sint-Oedenrode_vlag.svg/200px-Sint-Oedenrode_vlag.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

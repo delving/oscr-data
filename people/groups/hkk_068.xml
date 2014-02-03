@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_068</Identifier>
   <Name>Heemkundekring Nistelvorst</Name>
@@ -8,5 +7,5 @@
     <Place>Nistelrode</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vlag_nistelrode.gif/200px-Vlag_nistelrode.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

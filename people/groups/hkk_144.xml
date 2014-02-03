@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_144</Identifier>
   <Name>Stichting Sambeeks Heem</Name>
@@ -8,5 +7,5 @@
     <Place>Sambeek</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lime_tree_in_Sambeek_75dpi.jpg/200px-Lime_tree_in_Sambeek_75dpi.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

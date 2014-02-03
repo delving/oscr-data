@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_081</Identifier>
   <Name>Heemkundekring Tilborch</Name>
@@ -8,5 +7,5 @@
     <Place>Tilburg</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tilburg_20050928_39851.JPG/200px-Tilburg_20050928_39851.JPG</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

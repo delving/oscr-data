@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_087</Identifier>
   <Name>Heemkundekring Zeeland Heemhuis De Hoge Raam</Name>
@@ -8,5 +7,5 @@
     <Place>Zeeland</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_Arms_of_Zeeland.svg/200px-Coat_of_Arms_of_Zeeland.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

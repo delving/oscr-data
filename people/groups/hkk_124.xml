@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_124</Identifier>
   <Name>Historische Vereniging Werkendam en De Werken</Name>
@@ -8,5 +7,5 @@
     <Place>Werkendam</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Werkendam_vlag.svg/200px-Werkendam_vlag.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

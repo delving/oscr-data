@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>kring_0081</Identifier>
   <Name>Heemkundekring 'Schaijk-Reek'</Name>
@@ -8,5 +7,5 @@
     <Place>Schaijk</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/H.Antonius_Abt-Schaijk.jpg/200px-H.Antonius_Abt-Schaijk.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

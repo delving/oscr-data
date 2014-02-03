@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_137</Identifier>
   <Name>Stichting Heemkunde Moerdijk</Name>
@@ -8,5 +7,5 @@
     <Place>Moerdijk</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Moerdijk.svg/200px-Flag_of_Moerdijk.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

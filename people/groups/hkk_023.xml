@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_023</Identifier>
   <Name>Heemkundekring 'Maasdorpen in de gemeente Lith'</Name>
@@ -8,5 +7,5 @@
     <Place>Lith</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lith_vlag.png/200px-Lith_vlag.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

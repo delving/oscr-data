@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_095</Identifier>
   <Name>Heemkundevereniging De Heerlyckheit Plo</Name>
@@ -8,5 +7,5 @@
     <Place>Oploo</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1865_Oploo.gif/200px-1865_Oploo.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_083</Identifier>
   <Name>Heemkundekring Wanrode's Heem</Name>
@@ -8,5 +7,5 @@
     <Place>Wanroij</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1866_Wanroij.gif/200px-1866_Wanroij.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

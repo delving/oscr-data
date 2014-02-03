@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_040</Identifier>
   <Name>Heemkundekring De Erstelinghe</Name>
@@ -8,5 +7,5 @@
     <Place>Waalwijk</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Waalwijk_vlag.svg/200px-Waalwijk_vlag.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

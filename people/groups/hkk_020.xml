@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_020</Identifier>
   <Name>Heemkundekring 'De Vlasselt'</Name>
@@ -8,5 +7,5 @@
     <Place>Terheijden</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/P1010246copyHaven_Terheijden.jpg/200px-P1010246copyHaven_Terheijden.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_070</Identifier>
   <Name>Heemkundekring Onsenoort</Name>
@@ -8,5 +7,5 @@
     <Place>Drunen</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vlag_Drunen.gif/200px-Vlag_Drunen.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

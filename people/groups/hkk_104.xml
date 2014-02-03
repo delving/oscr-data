@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_104</Identifier>
   <Name>Heemkundevereniging Heeze-Leende-Zesgehuchten</Name>
@@ -8,5 +7,5 @@
     <Place>Geldrop</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1866_Geldrop.gif/200px-1866_Geldrop.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

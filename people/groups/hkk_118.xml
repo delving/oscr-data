@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_118</Identifier>
   <Name>Heemkundige Studiekring Kempenland</Name>
@@ -8,5 +7,5 @@
     <Place>Eindhoven</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hoogbouw_Eindhoven_overzicht.jpg/200px-Hoogbouw_Eindhoven_overzicht.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

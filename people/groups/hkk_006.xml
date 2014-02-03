@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_006</Identifier>
   <Name>Stichting Fotoarchiefdienst Cuijk (FAD)</Name>
@@ -8,5 +7,5 @@
     <Place>Cuijk</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cuijk_Netherlands.svg/200px-Cuijk_Netherlands.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

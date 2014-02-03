@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_132</Identifier>
   <Name>Stichting Gassels Heem</Name>
@@ -8,5 +7,5 @@
     <Place>Gassel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/1865_Gassel.gif/200px-1865_Gassel.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

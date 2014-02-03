@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_123</Identifier>
   <Name>Historische Vereniging Nepomuk</Name>
@@ -8,5 +7,5 @@
     <Place>Boxmeer</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boxmeer_vlag.svg/200px-Boxmeer_vlag.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_039</Identifier>
   <Name>Heemkundekring De Elf Rotten</Name>
@@ -8,5 +7,5 @@
     <Place>Oss</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Oss.svg/200px-Flag_of_Oss.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

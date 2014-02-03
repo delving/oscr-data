@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_060</Identifier>
   <Name>HeemkundeKring Jan uten Houte</Name>
@@ -8,5 +7,5 @@
     <Place>Etten-Leur</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Etten-Leur_vlag.svg/200px-Etten-Leur_vlag.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>
