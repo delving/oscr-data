@@ -83,6 +83,7 @@
     <Required>Verplicht</Required>
     <Thumbnail>Thumb</Thumbnail>
     <LessDetails>Minder details</LessDetails>
+    <Group>Groep</Group>
   </label>
   <element>
     <FirstName>
@@ -212,7 +213,7 @@ Voorbeeld: Dorpsstraat</doc>
       <doc>?</doc>
     </AcquisitionType>
     <Appellation>
-      <title>Naam</title>
+      <title>Volledige naam</title>
       <doc>Vul de (gehele) naam in. Bijvoorbeeld: Piet van Boven.</doc>
     </Appellation>
     <GivenName>
@@ -221,7 +222,7 @@ Voorbeeld: Dorpsstraat</doc>
 Voorbeeld: Kees</doc>
     </GivenName>
     <SurnamePrefix>
-      <title>Achternaam, voorvoegsel</title>
+      <title>Tussenvoegsel</title>
       <doc>Vul het voorvoegsel van de achternaam in, zonder leestekens: Voorbeeld: van</doc>
     </SurnamePrefix>
     <Surname>
