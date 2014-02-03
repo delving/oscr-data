@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_122</Identifier>
   <Name>Historische Vereniging Berlicum Middelrode</Name>
@@ -8,5 +7,5 @@
     <Place>Rosmalen</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vlagrosmalen.jpg/200px-Vlagrosmalen.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

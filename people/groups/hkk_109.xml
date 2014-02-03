@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_109</Identifier>
   <Name>Heemkundevereniging Vehchele</Name>
@@ -8,5 +7,5 @@
     <Place>Veghel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Veghel.svg/200px-Flag_of_Veghel.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

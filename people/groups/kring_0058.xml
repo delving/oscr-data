@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>kring_0058</Identifier>
   <Name>Heemkundekring 'Megen, Haren en Macharen'</Name>
@@ -8,5 +7,5 @@
     <Place>Megen</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Megen_wapen.svg/200px-Megen_wapen.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

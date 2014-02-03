@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_093</Identifier>
   <Name>Heemkundevereniging De Heerlijkheid Herlaar</Name>
@@ -8,5 +7,5 @@
     <Place>Sint-Michielsgestel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Sint-Michielsgestel.svg/200px-Flag_of_Sint-Michielsgestel.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

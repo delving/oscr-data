@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>kring_0010</Identifier>
   <Name>Heemkundekring 'De Plaets'</Name>
@@ -8,5 +7,5 @@
     <Place>Berlicum</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vlag_Berlicum.gif/200px-Vlag_Berlicum.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

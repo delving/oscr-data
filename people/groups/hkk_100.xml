@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_100</Identifier>
   <Name>Heemkundevereniging De Vyer Heertganghen</Name>
@@ -8,5 +7,5 @@
     <Place>Goirle</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Goirle_vlag.svg/200px-Goirle_vlag.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

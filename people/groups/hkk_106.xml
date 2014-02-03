@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_106</Identifier>
   <Name>Heemkundevereniging Op 't goede spoor</Name>
@@ -8,5 +7,5 @@
     <Place>Waspik</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1865_Waspik.gif/200px-1865_Waspik.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

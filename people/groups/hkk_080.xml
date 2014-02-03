@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_080</Identifier>
   <Name>Heemkundekring Teterings Erfdeel</Name>
@@ -8,5 +7,5 @@
     <Place>Teteringen</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Map_-_NL_-_Breda_-_Teteringen.PNG/200px-Map_-_NL_-_Breda_-_Teteringen.PNG</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

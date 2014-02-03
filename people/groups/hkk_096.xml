@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_096</Identifier>
   <Name>Heemkundevereniging De Honderd Hoeven</Name>
@@ -8,5 +7,5 @@
     <Place>Hoeven</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1869_Hoeven.gif/200px-1869_Hoeven.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_042</Identifier>
   <Name>Heemkundekring De Heerlijkheid Oosterhout</Name>
@@ -8,5 +7,5 @@
     <Place>Dongen</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dongen_Netherlands.svg/200px-Dongen_Netherlands.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

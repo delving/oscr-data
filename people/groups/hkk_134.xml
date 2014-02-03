@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_134</Identifier>
   <Name>Stichting Haps Heem</Name>
@@ -8,5 +7,5 @@
     <Place>Haps</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Haps.png/200px-Haps.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

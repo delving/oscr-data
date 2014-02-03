@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_136</Identifier>
   <Name>Stichting Heemcentrum "'t Schoor"</Name>
@@ -8,5 +7,5 @@
     <Place>Udenhout</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vlagudenhout.gif/200px-Vlagudenhout.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

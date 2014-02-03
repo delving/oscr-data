@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_139</Identifier>
   <Name>Stichting Historisch Erfgoed</Name>
@@ -8,5 +7,5 @@
     <Place>Veldhoven</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Veldhoven_vlag.svg/200px-Veldhoven_vlag.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_131</Identifier>
   <Name>Stichting Erfgoed Kaatsheuvel</Name>
@@ -8,5 +7,5 @@
     <Place>Kaatsheuvel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kaatsheuvel_molen_De_Eendragt.jpg/200px-Kaatsheuvel_molen_De_Eendragt.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

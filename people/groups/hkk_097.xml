@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_097</Identifier>
   <Name>Heemkundevereniging De Hooge Dorpen</Name>
@@ -8,5 +7,5 @@
     <Place>Vessem</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/LocatieVessem.png/200px-LocatieVessem.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_147</Identifier>
   <Name>Stichting Waalres Erfgoed</Name>
@@ -8,5 +7,5 @@
     <Place>Waalre</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Waalre.gif/200px-Flag_of_Waalre.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_041</Identifier>
   <Name>Heemkundekring De Heerlijkheid Oirschot</Name>
@@ -8,5 +7,5 @@
     <Place>Oirschot</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Oirschot.png/200px-Flag_of_Oirschot.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

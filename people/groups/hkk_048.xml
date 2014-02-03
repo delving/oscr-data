@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_048</Identifier>
   <Name>Heemkundekring De Willemstad</Name>
@@ -8,5 +7,5 @@
     <Place>Willemstad</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Punda_otrabanda.jpg/200px-Punda_otrabanda.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_016</Identifier>
   <Name>Heemkundekring 'De Drie Heerlijkheden'</Name>
@@ -8,5 +7,5 @@
     <Place>Rijsbergen</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1866_Rijsbergen.gif/200px-1866_Rijsbergen.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_002</Identifier>
   <Name>Cultuurhistorische Vereniging Nyen Aenwas van Nassau</Name>
@@ -8,5 +7,5 @@
     <Place>Dinteloord</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1866_Dinteloord.gif/200px-1866_Dinteloord.gif</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_051</Identifier>
   <Name>Heemkundekring Engelbrecht van Nassau</Name>
@@ -8,5 +7,5 @@
     <Place>Breda</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2010-05-22-breda-by-RalfR-17.jpg/200px-2010-05-22-breda-by-RalfR-17.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

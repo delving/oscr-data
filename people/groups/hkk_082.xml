@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_082</Identifier>
   <Name>Heemkundekring Uden</Name>
@@ -8,5 +7,5 @@
     <Place>Uden</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Flag_of_Uden.svg/200px-Flag_of_Uden.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

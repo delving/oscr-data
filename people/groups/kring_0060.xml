@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>kring_0060</Identifier>
   <Name>Heemkundekring 'Myerle'</Name>
@@ -8,5 +7,5 @@
     <Place>Mierlo</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mierlo_wapen.svg/200px-Mierlo_wapen.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

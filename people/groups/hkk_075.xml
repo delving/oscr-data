@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_075</Identifier>
   <Name>Heemkundekring Schijndel</Name>
@@ -8,5 +7,5 @@
     <Place>Schijndel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schijndel_Netherlands.svg/200px-Schijndel_Netherlands.svg.png</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

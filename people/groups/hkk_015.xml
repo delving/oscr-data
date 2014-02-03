@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_015</Identifier>
   <Name>Heemkundekring 'de Baronie van Cranendonck'</Name>
@@ -8,5 +7,5 @@
     <Place>Budel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/T.T_Schepenhuis_Budel_(2).JPG/200px-T.T_Schepenhuis_Budel_(2).JPG</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_099</Identifier>
   <Name>Heemkundevereniging De Vrijheijt van Rosendale</Name>
@@ -8,5 +7,5 @@
     <Place>Roosendaal</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mark-Vlietkanaal_(Roosendaal)_-_Aerial_photograph.jpg/200px-Mark-Vlietkanaal_(Roosendaal)_-_Aerial_photograph.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

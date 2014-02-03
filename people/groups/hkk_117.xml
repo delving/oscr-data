@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_117</Identifier>
   <Name>Heemkundige Studiekring 'De Acht Zaligheden'</Name>
@@ -8,5 +7,5 @@
     <Place>Eersel</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gemeentehuis_Eersel.jpg/200px-Gemeentehuis_Eersel.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>

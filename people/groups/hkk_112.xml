@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <Group>
   <Identifier>hkk_112</Identifier>
   <Name>Heemkundige Kring Broeder Christofoor</Name>
@@ -8,5 +7,5 @@
     <Place>Oudenbosch</Place>
     <Thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Oudenboschbasiliek.jpg/200px-Oudenboschbasiliek.jpg</Thumbnail>
   </Address>
-  <Website></Website>
+  <Website/>
 </Group>
