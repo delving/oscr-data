@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Schema for Objects -->
+
+<Object>
+  <!--what is the title of this object?  this is used for list display-->
+  <Title>{ "required": true, "summaryField": "Title" }</Title>
+  <!--a description of this object-->
+  <Description>{ "paragraph":true }</Description>
+  <!--what type of object is this?  a negative, a print?  later these can be associated with authority terms-->
+  <Type>{ "vocabulary": "ObjectType" }</Type>
+  <!--does this object belong to a particular collection?-->
+  <Collection>{ "vocabulary": "ObjectCollection" }</Collection>
+  <!--when where and by whom was this object created-->
+  <Creation>{ "multiple" : true }
+
+        <!--when-->
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
+
+        <!--by whom in what role?-->
+        <Creator>{ "multiple" : true }
+
+            <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
+            <CreationRole>{ "vocabulary": "ObjectCreationRole" }</CreationRole>
+
+            <!--did a person create this object?-->
+            <Person>{ "instance": "Person" }</Person>
+
+            <!--or was it created by an organization?-->
+            <Organization>{ "instance": "Organization" }</Organization>
+
+        </Creator>
+
+        <!--where was it created?-->
+        <CreationPlace>{ "instance": "Location" }</CreationPlace>
+
+    </Creation>
+  <!--describe the publications-->
+  <Publication>{ "multiple": true }
+
+        <!--has this object been published in a-->
+        <PublishedIn>{ "instance": "Publication" }</PublishedIn>
+
+        <!--anything else to say about the publication of this object-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Publication>
+  <!--who or what owns or has owned it-->
+  <Acquisition>{ "multiple": true }
+
+        <!--when did this acquisition take place?-->
+        <AcquisitionDate>{ "validator": "timePrimitive" }</AcquisitionDate>
+
+        <!--who-->
+        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
+
+        <!--what organization?-->
+        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+
+        <!--what kind of acquisition was this-->
+        <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
+
+        <!--anything to say about this acquisition?-->
+        <Comment>{ "paragraph": true }</Comment>
+
+    </Acquisition>
+  <!--if this object refers to some identifiable entity it can be recorded here-->
+  <RefersTo>{ "multiple": true }
+
+        <!--in what way does this refer to the entity?-->
+        <!--these can someday be mapped to terminology authorities and used for searching-->
+        <ReferenceType>{ "vocabulary": "ReferenceType" }</ReferenceType>
+
+        <!--to whom does this object refer? -->
+        <Person>{ "instance": "Person" }</Person>
+
+        <!--to which organization does it refer?-->
+        <Organization>{ "instance": "Organization" }</Organization>
+
+        <!--to what location does it refer?-->
+        <Location>{ "instance": "Location" }</Location>
+
+        <!--does it refer to a particular historical event?-->
+        <HistoricalEvent>{ "instance": "HistoricalEvent" }</HistoricalEvent>
+
+        <!--anything else to record about this reference?-->
+        <Comment>{ "paragraph":true }</Comment>
+
+    </RefersTo>
+  <!--is there a digital representation we can use-->
+  <DigitalObject>{ "multiple": true }
+
+        <!--the actual file that holds the bits-->
+        <File>{ "media": "MediaMetadata", "summaryField": "Thumbnail" }</File>
+
+        <!--when was this digital representation created?-->
+        <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
+
+        <!--what are the technical properties of the film?-->
+        <!--this is an open ended set of properties, the types of which can later be mapped-->
+        <!--to authority terms-->
+        <TechnicalProperty>{ "multiple": true }
+
+            <!--what is the name of this property-->
+            <Type>{ "vocabulary": "ObjectDigitalPropertyType" }</Type>
+
+            <!--the value of the property-->
+            <Value/>
+
+            <!--in which unit is the value expressed?-->
+            <Unit>{ "vocabulary": "ObjectDigitalPropertyUnit" }</Unit>
+
+            <!--perhaps describe the means of taking the measurement, or related information-->
+            <Comment/>
+
+        </TechnicalProperty>
+
+        <!--anything else to say about this digital representation-->
+        <Comments>{ "paragraph":true }</Comments>
+
+    </DigitalObject>
+
+  <!--how should the physical object be described?-->
+  <PhysicalObject>
+
+    <!-- local identifier of the Object. -->
+    <Identifier>{"validator": "uniqueWithinGroup"}</Identifier>
+
+    <!--selection from a list of materials that are used to make films-->
+    <Material>{ "vocabulary": "PhysicalObjectMaterials" }</Material>
+
+    <!--what condition was it in when it was acquired-->
+    <Condition>{ "vocabulary": "PhysicalCondition" }</Condition>
+
+    <!--any other properties of the physical object-->
+    <PhysicalProperty>{ "multiple": true }
+
+            <!--what is the name of this property-->
+            <Type>{ "vocabulary": "PhysicalObjectPropertyType" }</Type>
+
+            <!--the value of the property-->
+            <Value/>
+
+            <!--in which unit is the value expressed?-->
+            <Unit>{ "vocabulary": "PhysicalObjectPropertyUnit" }</Unit>
+
+            <!--perhaps describe the means of taking the measurement, or related information-->
+            <Comment/>
+
+        </PhysicalProperty>
+
+    <!--where can the physical copy be found?-->
+    <StorageLocation>
+
+      <!--locations can be quite specific, but not down to shelf position of course-->
+      <Location>{ "instance": "Location" }</Location>
+
+      <!--the format may vary depending on how people find things-->
+      <SpecificLocation/>
+
+    </StorageLocation>
+
+    <!--anything important to know about the physical film?-->
+    <Comment>{ "paragraph":true }</Comment>
+
+  </PhysicalObject>
+
+  <!--was this object exhibited at any special historical event?-->
+  <Exhibition>{ "multiple": true }
+
+        <!--which event-->
+        <ExhibitionEvent>{ "instance": "HistoricalEvent" }</ExhibitionEvent>
+
+    </Exhibition>
+</Object>

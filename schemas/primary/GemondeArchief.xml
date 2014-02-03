@@ -1,0 +1,14 @@
+<GemondeArchief>
+	<HKG_code>{"paragrah" : "true"}</HKG_code>
+	<HKG_component_map>{"paragrah" : "true"}</HKG_component_map>
+	<HKG_component_dossier>{"paragrah" : "true"}</HKG_component_dossier>
+	<HKG_component_document>{"paragrah" : "true"}</HKG_component_document>
+	<HKG_digitaal_aanwezig>{"paragrah" : "true"}</HKG_digitaal_aanwezig>
+	<HKG_analoog_aanwezig>{"paragrah" : "true"}</HKG_analoog_aanwezig>
+	<HKG_eenheid>{"paragrah" : "true"}</HKG_eenheid>
+	<HKG_naam_1>{"paragrah" : "true"}</HKG_naam_1>
+	<HKG_naam_2>{"paragrah" : "true"}</HKG_naam_2>
+	<HKG-omschrijving>{"paragrah" : "true"}</HKG-omschrijving>
+	<HKG-opmerkingen>{"paragrah" : "true"}</HKG-opmerkingen>
+	<HKG_status>{"paragrah" : "true"}</HKG_status>
+</GemondeArchief>
