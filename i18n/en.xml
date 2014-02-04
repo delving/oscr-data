@@ -1,5 +1,10 @@
 <Language>
   <label>
+      <Login>Login</Login>
+      <LoginFailed>User Name / Password combination failed</LoginFailed>
+      <Register>Register</Register>
+      <Username>User Name</Username>
+      <Password>Password</Password>
     <Dashboard>Dashboard</Dashboard>
     <People>Folks</People>
     <UserManagement>Manage users</UserManagement>

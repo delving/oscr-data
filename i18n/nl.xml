@@ -1,5 +1,10 @@
 <Language>
   <label>
+    <Login>Inloggen</Login>
+    <LoginFailed>Gebruikersnaam/wachtwoord combinatie onbekend</LoginFailed>
+    <Register>Inschrijven</Register>
+    <Username>Gebrukersnaam</Username>
+    <Password>Wachtwoord</Password>
     <Dashboard>Beheer</Dashboard>
     <InMemoriam>Bidprentjes</InMemoriam>
     <People>Mensen</People>
