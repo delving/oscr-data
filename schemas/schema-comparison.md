@@ -13,6 +13,10 @@ can be repeated during the current test phase.  In reality, FORTH has also disco
 with their schemas from time to time, and has had to make changes in data as a result of
 fixing them.
 
+It is also important to realize that it is nearly effortless to expand existing schemas
+within a running system, and much more difficult to contract them.  Expanding involves
+no changes to the data whatsoever.  This is a hint to start small and expand later.
+
 ## General Comments about differences
 
 The derived schemas are intended to be fully exhaustive, describing every aspect of the stored
@@ -68,7 +72,17 @@ the necessary software changes.
 
 It could look like the above, after the changes are made.
 
-## Notes on Specific Fields
+## Person
+
+The derived Person schema has RelatedToPerson, we now have Mother, Father, and Child (multiple).
+Also, the minimal Period block with BurthDate/DeathDate has been expanded with things
+related to the funeral etc.  Marriage events were added where they were missing.  SignificantLifeEvent
+was added as an extra that can be left blank if there is nothing notable.
+
+## Notes on Specific Fields (Photo as reference)
+
+The following sections are comments about specific fields in the schemas and why
+they have been added/changed/removed from the schemas we use now.
 
 ### IdentificationNumber
 
@@ -129,3 +143,65 @@ to record.  It records an event when the thing was exhibited.
 The EB people did not understand how this would be filled in, and in the derived schemas
 this part was somewhat incomplete, involving some kind of suggested lookup in a
 bibliography.  We didn't know what to do with it so it was removed for clarity.
+
+## BookObject -> Publication
+
+There was a need to capture more than just books, and since most of the info about
+a book can be similar to what is needed for publications in general, we decided to
+bring publications together in one schema.  Irrelevant things can of course be left blank.
+
+### OtherIdentificationNumbers
+
+Similar to the above section with the same title, we could do this if necessary.
+
+### IncludedIn/IsComposedOf -> Contains/IsContainedIn
+
+Grammatically these names are better, since the "Is" was not matched in "IncludedIn".  Otherwise
+these are essentially the same, only the new schema entries refer to other Publication instances.
+
+### Subtitle
+
+I had this included, but EB insisted that it be removed.  They may have changed their minds
+since.
+
+### ManagementCategory
+
+Nobody had any idea what this meant so it was removed.
+
+### Collection
+
+This was just a text field, and EB didn't know what it would mean.  Presumably a collection
+could also be considered a Publication and then Contains could be used.
+
+### CompositionType
+
+It was unclear what this meant.
+
+### StorageLocation
+
+What they really wanted for this, again, is just a "Place" on the map, as well as a field to
+describe freely where to find it at that place.
+
+### Publication
+
+The Publication block of the derived schemas was hard to understand and explain.  There
+is a "type" of publication, the Publisher was considered to be just a Person (not organization?)
+and the Place strangely contains GeopoliticalHierarchy (cached indication of the place) and
+a link whereas we now could just link to the Location instance.  I see that there is no
+Location in there now, so we could add that if there is data for it.
+
+### Acquisition
+
+The acquisition should have more than the derived schema's PersonInvolved, so we now have
+organization as well.  FORTH also suggested that there be a Condition field to describe
+the condition upon acquisition.
+
+### Copyright
+
+In the derived schemas there was no notion of copyright.  Was it missing?  We added
+a Copyright block and took the perhaps doubtful assumption that it could be described
+by CreativeCommons.  Maybe that should be removed.
+
+### OriginatorOfReference/InHouse
+
+WTF, not sure what these are about, omitted it.
