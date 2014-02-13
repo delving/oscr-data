@@ -1,0 +1,14 @@
+<Entries>
+  <Entry>
+    <Label>Man</Label>
+    <Identifier>OSCR-VO-Gender-male</Identifier>
+  </Entry>
+  <Entry>
+    <Label>Vrouw</Label>
+    <Identifier>OSCR-VO-Gender-female</Identifier>
+  </Entry>
+  <Entry>
+    <Label>Onbekend</Label>
+    <Identifier>OSCR-VO-gender-unknown</Identifier>
+  </Entry>
+</Entries>

@@ -16,7 +16,7 @@
     <Surname>{ "required": true }</Surname>
 
     <!--not entirely sure how many there are anymore, but there are two values which are most popular-->
-    <Gender>{ "vocabulary": "Gender" }</Gender>
+    <Gender>{ "vocabulary": "Gender", "vocabularyFixed": true }</Gender>
 
     <!--this corresponds to the CIDOC-CRM coming-into-existence specialization-->
     <Birth>

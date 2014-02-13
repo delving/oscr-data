@@ -1,0 +1,4 @@
+<SchemaMap>
+   <primary>Photo,Film,Memoriam,Publication,Object,GemondeArchief</primary>
+   <shared>Location,Person,Organization,HistoricalEvent</shared>
+</SchemaMap>
