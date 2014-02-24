@@ -23,4 +23,8 @@
     <Identifier>OSCR-OVERDRACHT</Identifier>
     <Label>Overdracht</Label>
   </Entry>
+  <Entry>
+    <Label>Gift</Label>
+    <Identifier>OSCR-VO-erbkhbc-ozq</Identifier>
+  </Entry>
 </Entries>
