@@ -2,7 +2,7 @@
   <label>
     <Dashboard>Beheer</Dashboard>
     <InMemoriam>Bidprentjes</InMemoriam>
-    <People>Mensen</People>
+    <People>Gebruikersbeheer</People>
     <MediaUpload>Upload media</MediaUpload>
     <Photo>Foto</Photo>
     <Book>Boeken</Book>
@@ -17,11 +17,11 @@
     <Logout>Meld af</Logout>
     <Translations>Vertalingen</Translations>
     <UserManagement>Beheer gebruikers</UserManagement>
-    <NewGroup>Nieuwe groep aanmaken</NewGroup>
+    <NewGroup>Maak nieuwe groep aan</NewGroup>
     <Name>Naam</Name>
     <Role>Rol</Role>
     <AddMember>gebruiker toevoegen</AddMember>
-    <AddAdministrator>Beheerder toevoegen</AddAdministrator>
+    <AddAdministrator>Voeg beheerder toe</AddAdministrator>
     <Statistics>Statistieken</Statistics>
     <YourProfile>Jouw profiel</YourProfile>
     <RecentActivity>Activiteit log</RecentActivity>
@@ -32,7 +32,7 @@
     <HistoricalEvent>Gebeurtenis</HistoricalEvent>
     <RecentDocuments>Recente documenten</RecentDocuments>
     <PrimaryDocuments>Eigen documenten</PrimaryDocuments>
-    <Memoriam>Bidprentje</Memoriam>
+    <Memoriam>Herdenkingskaart</Memoriam>
     <Save>Bewaar</Save>
     <PreviewAndSave>Bekijk en bewaar</PreviewAndSave>
     <Public>Openbaar</Public>
@@ -84,6 +84,63 @@
     <Thumbnail>Thumb</Thumbnail>
     <LessDetails>Minder details</LessDetails>
     <Group>Groep</Group>
+    <Community>Gemeenschap</Community>
+    <Description>Beschrijving</Description>
+    <Collection>Collectie</Collection>
+    <Creation>Vervaardiging</Creation>
+    <CreationDate>Datum vervaardiging</CreationDate>
+    <Creator>Vervaardiger</Creator>
+    <CreationRole>Rol vervaardiger</CreationRole>
+    <CreationPlace>Plaats van vervaardiging</CreationPlace>
+    <CopyrightHolderPerson>Copyrighthouder-Persoon</CopyrightHolderPerson>
+    <CopyrightHolderOrganization>Copyrighthouder-Organisatie</CopyrightHolderOrganization>
+    <CreativeCommonsLicense>Creative Commons Licentie</CreativeCommonsLicense>
+    <Comment>Opmerkingen</Comment>
+    <PublishedIn>Gepubliceerd in</PublishedIn>
+    <Acquisition>Verwerving</Acquisition>
+    <AcquisitionDate>Datum verwerving</AcquisitionDate>
+    <AcquirerPerson>Verworven van (persoon)</AcquirerPerson>
+    <AcquirerOrganization>Verworven van (organisatie)</AcquirerOrganization>
+    <AcquisitionType>Soort verwerving</AcquisitionType>
+    <Condition>Conditie</Condition>
+    <RefersTo>Verwijst naar</RefersTo>
+    <ReferenceType>Soort verwijzing</ReferenceType>
+    <DigitalObject>Digitaal object</DigitalObject>
+    <File>Bestand</File>
+    <Type>Type</Type>
+    <TechnicalProperty>Technische eigenschappen</TechnicalProperty>
+    <Value>Waarde</Value>
+    <Unit>Eenheid</Unit>
+    <Comments>Opmerkingen</Comments>
+    <PhysicalObject>Fysiek object</PhysicalObject>
+    <PhysicalProperty>Fysieke eigenschappen</PhysicalProperty>
+    <Format>Formaat</Format>
+    <Material>Materiaalsoort</Material>
+    <StorageLocation>Vindplaats</StorageLocation>
+    <Exhibition>Tentoonstelling</Exhibition>
+    <ExhibitionEvent>Tentoonstelling gebeurtenis</ExhibitionEvent>
+    <FieldStatus>Veldstatus</FieldStatus>
+    <DocumentStatus>Documentstatus</DocumentStatus>
+    <Language>Taal</Language>
+    <PublicationDate>Datum publicatie</PublicationDate>
+    <PublisherOrganization>Publicatie-organisatie</PublisherOrganization>
+    <PublisherPerson>Publicatie-persoon</PublisherPerson>
+    <Date>Datum</Date>
+    <PhysicalCard>Fysiek object</PhysicalCard>
+    <SpecificLocation>Specifieke locatie</SpecificLocation>
+    <ManagingOrganization>Beherende organisatie</ManagingOrganization>
+    <Front>Recto</Front>
+    <Back>Verso</Back>
+    <FrontScan>Scan voorzijde</FrontScan>
+    <Text>Tekst</Text>
+    <BackScan>Scan achterzijde</BackScan>
+    <PublicationType>Type</PublicationType>
+    <Subject>Onderwerpen</Subject>
+    <Contains>Bevat</Contains>
+    <IsContainedIn>Is opgenomen in</IsContainedIn>
+    <GroupManagement>Gebruikersbeheer</GroupManagement>
+    <FindGroup>Zoek een groep</FindGroup>
+    <FindUser>Zoek een gebruiker</FindUser>
   </label>
   <element>
     <FirstName>
@@ -354,7 +411,7 @@ Voorbeeld: Kees</doc>
       <doc>?</doc>
     </MembershipEndDate>
     <HistoricalEvent>
-      <title>Historische gebeurtenis</title>
+      <title>Gebeurtenis</title>
       <doc>?</doc>
     </HistoricalEvent>
     <ContactInfo>
@@ -422,7 +479,7 @@ Voorbeeld: Kees</doc>
       <doc>?</doc>
     </EventLocation>
     <SpecificLocation>
-      <title>Specifieke locatie gebeurtenis</title>
+      <title>Specifieke locatie</title>
       <doc>?</doc>
     </SpecificLocation>
     <Participant>
