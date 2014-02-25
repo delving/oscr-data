@@ -16,23 +16,21 @@
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--by whom in what role?-->
-        <Creator>{ "multiple" : true }
+        <CreatorInRole>{ "multiple" : true }
+
+            <!--did a person or organization create this object?-->
+            <Creator>{ "instance": [ "Person", "Organization" ] }</Creator>
 
             <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
             <CreationRole>{ "vocabulary": "ObjectCreationRole" }</CreationRole>
 
-            <!--did a person create this object?-->
-            <Person>{ "instance": "Person" }</Person>
-
-            <!--or was it created by an organization?-->
-            <Organization>{ "instance": "Organization" }</Organization>
-
-        </Creator>
+        </CreatorInRole>
 
         <!--where was it created?-->
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
 
     </Creation>
+
   <!--describe the publications-->
   <Publication>{ "multiple": true }
 
@@ -43,17 +41,15 @@
         <Comment>{ "paragraph": true }</Comment>
 
     </Publication>
+
   <!--who or what owns or has owned it-->
   <Acquisition>{ "multiple": true }
 
         <!--when did this acquisition take place?-->
         <AcquisitionDate>{ "validator": "timePrimitive" }</AcquisitionDate>
 
-        <!--who-->
-        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
-
-        <!--what organization?-->
-        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+        <!--who or what-->
+        <Acquirer>{ "instance": [ "Person", "Organization" ] }</Acquirer>
 
         <!--what kind of acquisition was this-->
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
@@ -62,6 +58,7 @@
         <Comment>{ "paragraph": true }</Comment>
 
     </Acquisition>
+
   <!--if this object refers to some identifiable entity it can be recorded here-->
   <RefersTo>{ "multiple": true }
 

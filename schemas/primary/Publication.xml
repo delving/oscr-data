@@ -36,18 +36,15 @@
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--by whom in what role?-->
-        <Creator>{ "multiple" : true }
+        <CreatorInRole>{ "multiple" : true }
+
+            <!--did a person or organization create this publication?-->
+            <Creator>{ "instance": [ "Person", "Organization" ] }</Creator>
 
             <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
             <CreationRole>{ "vocabulary": "PublicationCreationRole" }</CreationRole>
 
-            <!--did a person create this publication?-->
-            <Person>{ "instance": "Person" }</Person>
-
-            <!--or was it created by an organization?-->
-            <Organization>{ "instance": "Organization" }</Organization>
-
-        </Creator>
+        </CreatorInRole>
 
         <!--where was it created?-->
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
@@ -61,10 +58,7 @@
         <PublicationDate>{ "vocabulary": "timePrimitive" }</PublicationDate>
 
         <!--what published this?-->
-        <PublisherOrganization>{ "instance": "Organization" }</PublisherOrganization>
-
-        <!--was it perhaps self-published by someone?-->
-        <PublisherPerson>{ "instance": "Person" }</PublisherPerson>
+        <PublisherPerson>{ "instance": [ "Organization", "Person" ] }</PublisherPerson>
 
         <!--anything else to say about this publication-->
         <Comment>{ "paragraph": true }</Comment>
@@ -78,10 +72,7 @@
         <AcquisitionDate>{ "validator": "timePrimitive" }</AcquisitionDate>
 
         <!--who-->
-        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
-
-        <!--what organization?-->
-        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+        <Acquirer>{ "instance": [ "Person", "Organization" ] }</Acquirer>
 
         <!--what kind of acquisition was this-->
         <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
@@ -98,10 +89,7 @@
     <Copyright>
 
         <!--a person-->
-        <CopyrightHolderPerson>{ "instance": "Person" }</CopyrightHolderPerson>
-
-        <!--an organization-->
-        <CopyrightHolderOrganization>{ "instance": "Organization" }</CopyrightHolderOrganization>
+        <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
 
         <!--how do they licence it in terms of creative commons?-->
         <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
@@ -114,21 +102,12 @@
     <!--if this publication refers to some identifiable entity it can be recorded here-->
     <RefersTo>{ "multiple": true }
 
+        <!--to whom does this publication refer? -->
+        <Entity>{ "instance": [ "Location", "Person", "Organization", "HistoricalEvent" ] }</Entity>
+
         <!--in what way does this refer to the entity?-->
         <!--these can someday be mapped to terminology authorities and used for searching-->
         <ReferenceType>{ "vocabulary": "ReferenceType" }</ReferenceType>
-
-        <!--to whom does this publication refer? -->
-        <Person>{ "instance": "Person" }</Person>
-
-        <!--to which organization does it refer?-->
-        <Organization>{ "instance": "Organization" }</Organization>
-
-        <!--to what location does it refer?-->
-        <Location>{ "instance": "Location" }</Location>
-
-        <!--does it refer to a particular historical event?-->
-        <HistoricalEvent>{ "instance": "HistoricalEvent" }</HistoricalEvent>
 
         <!--anything else to record about this reference?-->
         <Comment>{ "paragraph":true }</Comment>

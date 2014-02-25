@@ -19,19 +19,16 @@
     <SpecificLocation/>
 
     <!--who participated in this event and how-->
-    <Participant>{ "multiple": true }
+    <ParticipantInRole>{ "multiple": true }
 
-        <!--who was involved-->
-        <ParticipatingPerson>{ "instance": "Person" }</ParticipatingPerson>
-
-        <!--who was involved-->
-        <ParticipatingOrganization>{ "instance": "Organization" }</ParticipatingOrganization>
+        <!--who or what was involved-->
+        <Participant>{ "instance": [ "Person", "Organization" ] }</Participant>
 
         <!--how did this person participate in this event.  these should be recorded in understandable Dutch-->
         <!--terms because we can later link them to authority terms about particpation.-->
         <EventParticipationRole>{ "vocabulary": "EventParticipationRole" }</EventParticipationRole>
 
-    </Participant>
+    </ParticipantInRole>
 
     <!--is there a digital representation we can use-->
     <DigitalObject>{ "multiple": true }

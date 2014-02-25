@@ -22,18 +22,15 @@
         <CreationDate>{ "validator": "timePrimitive" }</CreationDate>
 
         <!--by whom in what role?-->
-        <Creator>{ "multiple" : true }
+        <CreatorInRole>{ "multiple" : true }
+
+            <!--did a person or organization create this photo?-->
+            <Creator>{ "instance": [ "Person", "Organization" ] }</Creator>
 
             <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
             <CreationRole>{ "vocabulary": "PhotoCreationRole" }</CreationRole>
 
-            <!--did a person create this photo?-->
-            <Person>{ "instance": "Person" }</Person>
-
-            <!--or was it created by an organization?-->
-            <Organization>{ "instance": "Organization" }</Organization>
-
-        </Creator>
+        </CreatorInRole>
 
         <!--where was it created?-->
         <CreationPlace>{ "instance": "Location" }</CreationPlace>
@@ -43,11 +40,8 @@
     <!--who holds the rights to this publication?-->
     <Copyright>
 
-        <!--a person-->
-        <CopyrightHolderPerson>{ "instance": "Person" }</CopyrightHolderPerson>
-
-        <!--an organization-->
-        <CopyrightHolderOrganization>{ "instance": "Organization" }</CopyrightHolderOrganization>
+        <!--a person or organization-->
+        <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
 
         <!--how do they licence it in terms of creative commons?-->
         <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
@@ -74,11 +68,8 @@
         <!--when did this acquisition take place?-->
         <AcquisitionDate>{ "validator": "timePrimitive" }</AcquisitionDate>
 
-        <!--who-->
-        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
-
-        <!--what organization?-->
-        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+        <!--who or what-->
+        <Acquirer>{ "instance": [ "Person", "Organization" ] }</Acquirer>
 
         <!--what kind of acquisition was this-->
         <AcquisitionType>{"vocabulary": "AcquisitionTypes"}</AcquisitionType>
@@ -98,17 +89,8 @@
         <!--these can someday be mapped to terminology authorities and used for searching-->
         <ReferenceType>{ "vocabulary": "ReferenceType" }</ReferenceType>
 
-        <!--to whom does this photo refer? -->
-        <Person>{ "instance": "Person" }</Person>
-
-        <!--to which organization does it refer?-->
-        <Organization>{ "instance": "Organization" }</Organization>
-
-        <!--to what location does it refer?-->
-        <Location>{ "instance": "Location" }</Location>
-
-        <!--does it refer to a particular historical event?-->
-        <HistoricalEvent>{ "instance": "HistoricalEvent" }</HistoricalEvent>
+        <!--to what does this photo refer? -->
+        <Entity>{ "instance": [ "Location", "Person", "Organization", "HistoricalEvent" ] }</Entity>
 
         <!--anything else to record about this reference?-->
         <Comment>{ "paragraph":true }</Comment>

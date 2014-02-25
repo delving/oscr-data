@@ -28,9 +28,6 @@
         <!--the location in more detail if there is any information-->
         <SpecificLocation/>
 
-        <!--how can the actual card be found?-->
-        <ManagingOrganization>{ "instance": "Organization" }</ManagingOrganization>
-
     </PhysicalCard>
 
     <!--the scan(s) of the front-->
@@ -64,11 +61,8 @@
     <!--who or what owns this publication-->
     <Acquisition>{ "multiple": true }
 
-        <!--who-->
-        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
-
-        <!--what organization?-->
-        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+        <!--who or what acquired-->
+        <Acquirer>{ "instance": [ "Person", "Organization" ] }</Acquirer>
 
         <!--what kind of acquisition was this-->
         <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>

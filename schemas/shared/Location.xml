@@ -32,10 +32,7 @@
         <LocationNameAttributionDate>{ "validator": "timePrimitive" }</LocationNameAttributionDate>
 
         <!--which organization was responsible for the attribution of this name, if known-->
-        <LocationNameAttributedByPerson>{ "instance": "Person" }</LocationNameAttributedByPerson>
-
-        <!--which organization was responsible for the attribution of this name, if known-->
-        <LocationNameAttributedByOrganization>{ "instance": "Organization" }</LocationNameAttributedByOrganization>
+        <LocationNameAttributedBy>{ "instance": [ "Person", "Organization" ] }</LocationNameAttributedBy>
 
         <!--if there is some information in the source that would help describe something about this naming event-->
         <!--but it doesn't fit into any of the above fields, save it here so it is not lost.-->
