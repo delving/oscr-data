@@ -65,21 +65,12 @@
   <!--if this object refers to some identifiable entity it can be recorded here-->
   <RefersTo>{ "multiple": true }
 
+        <!--to what does this object refer? -->
+        <Entity>{ "instance": [ "Location", "Person", "Organization", "HistoricalEvent" ] }</Entity>
+
         <!--in what way does this refer to the entity?-->
         <!--these can someday be mapped to terminology authorities and used for searching-->
         <ReferenceType>{ "vocabulary": "ReferenceType" }</ReferenceType>
-
-        <!--to whom does this object refer? -->
-        <Person>{ "instance": "Person" }</Person>
-
-        <!--to which organization does it refer?-->
-        <Organization>{ "instance": "Organization" }</Organization>
-
-        <!--to what location does it refer?-->
-        <Location>{ "instance": "Location" }</Location>
-
-        <!--does it refer to a particular historical event?-->
-        <HistoricalEvent>{ "instance": "HistoricalEvent" }</HistoricalEvent>
 
         <!--anything else to record about this reference?-->
         <Comment>{ "paragraph":true }</Comment>

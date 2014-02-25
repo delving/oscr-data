@@ -24,14 +24,11 @@
         <!--by whom in what role?-->
         <Creator>{ "multiple" : true }
 
+            <!--did a person or organization create this film?-->
+            <Person>{ "instance": [ "Person", "Organization" ] }</Person>
+
             <!--what role did they play?  these terms can be later mapped to authority vocabularies-->
             <CreationRole>{ "vocabulary": "FilmCreationRole" }</CreationRole>
-
-            <!--did a person create this film?-->
-            <Person>{ "instance": "Person" }</Person>
-
-            <!--or was it created by an organization?-->
-            <Organization>{ "instance": "Organization" }</Organization>
 
         </Creator>
 
@@ -43,11 +40,8 @@
     <!--who holds the rights?-->
     <Copyright>
 
-        <!--a person-->
-        <CopyrightHolderPerson>{ "instance": "Person" }</CopyrightHolderPerson>
-
-        <!--an organization-->
-        <CopyrightHolderOrganization>{ "instance": "Organization" }</CopyrightHolderOrganization>
+        <!--a person or organization holding the copyright -->
+        <CopyrightHolder>{ "instance": [ "Person", "Organization" ] }</CopyrightHolder>
 
         <!--how do they licence it in terms of creative commons?-->
         <CreativeCommonsLicense>{ "vocabulary": "CreativeCommonsLicense" }</CreativeCommonsLicense>
@@ -63,11 +57,8 @@
         <!--a clearly discernible description of when the the film was published-->
         <PublicationDate>{ "vocabulary": "timePrimitive" }</PublicationDate>
 
-        <!--what published this?-->
-        <PublisherOrganization>{ "instance": "Organization" }</PublisherOrganization>
-
-        <!--was it perhaps self-published by someone?-->
-        <PublisherPerson>{ "instance": "Person" }</PublisherPerson>
+        <!--what or who published this?-->
+        <Publisher>{ "instance": [ "Organization", "Person" ] }</Publisher>
 
         <!--anything else to say about the publication of this film-->
         <Comment>{ "paragraph": true }</Comment>
@@ -80,11 +71,8 @@
         <!--when did this acquisition take place?-->
         <AcquisitionDate>{ "validator": "timePrimitive" }</AcquisitionDate>
 
-        <!--who-->
-        <AcquirerPerson>{ "instance": "Person" }</AcquirerPerson>
-
-        <!--what organization?-->
-        <AcquirerOrganization>{ "instance": "Organization" }</AcquirerOrganization>
+        <!--who or what-->
+        <Acquirer>{ "instance": [ "Person", "Organization" ] }</Acquirer>
 
         <!--what kind of acquisition was this-->
         <AcquisitionType>{ "vocabulary": "AcquisitionTypes" }</AcquisitionType>
@@ -104,11 +92,8 @@
         <!--these can someday be mapped to terminology authorities and used for searching-->
         <ReferenceType>{ "vocabulary": "ReferenceType" }</ReferenceType>
 
-        <!--to whom does this film refer? -->
-        <Person>{ "instance": "Person" }</Person>
-
-        <!--to which organization does it refer?-->
-        <Organization>{ "instance": "Organization" }</Organization>
+        <!--to whom or what does this film refer? -->
+        <Entity>{ "instance": [ "Person", "Organization" ] }</Entity>
 
         <!--to what location does it refer?-->
         <Location>{ "instance": "Location" }</Location>
